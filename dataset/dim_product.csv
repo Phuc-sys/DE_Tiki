@@ -1,49 +1,1223 @@
-,id,name,sku,price,list_price,discount,discount_rate,inventory_status,max_sale_qty,qty
-0,38323087,(Giá Hủy Diệt) Ổ Cứng Di Động HDD WD My Passport 1TB / 2TB / 4TB / 5TB Model 2019 - Hàng Nhập Khẩu,9386900000000.0,1385000,1390000,5000,0,available,1000,1000
-1,26314426,Dây Cáp Mạng Cat6 Bấm Sẵn 2 đầu,9365510000000.0,75000,75000,0,0,available,1000,1000
-2,134561311,USB 3.0 SanDisk Ultra Flair CZ73 - Hàng Nhập Khẩu,8367090000000.0,110000,110000,0,0,available,1000,1000
-3,8608925,Hộp mực dành cho máy in Laser Brother HL-L2321D.,6460060000000.0,111900,111900,0,0,available,1000,1000
-4,46634155,Dây Cáp Mạng Cat6 Bấm Sẵn 2 đầu,7172020000000.0,48000,48000,0,0,available,1000,1000
-5,173164642,Dây cáp mạng LAN bấm sẵn 2 đầu Cat6 UTP Kingmaster - Hàng chính hãng,8745710000000.0,50000,50000,0,0,available,1000,1000
-6,217317583,Box Orico Đựng Ổ Cứng HDD/SSD 2.5 inch 2520C3 - Hàng Nhập Khẩu,3771760000000.0,97000,100000,3000,3,available,1000,1000
-7,171869909,Dây mạng bấm sẵn chuẩn Cat7 Kingmaster - Hàng chính hãng,8959670000000.0,90000,90000,0,0,available,1000,1000
-8,216462048,Box đựng ổ cứng Orico SSD M2 PCIe NVMe To USB 3.1 Gen 2 Type C Aluminum M2PJ C3 - Hàng nhập khẩu,5472670000000.0,350000,350000,0,0,available,1000,1000
-9,21089128,Bộ Thu Wifi USB TP-Link TL-WN722N Chuẩn N 150Mbps - Hàng Chính Hãng,9411830000000.0,155000,279000,124000,44,available,1000,1000
-10,74975883,Bộ Phát Wifi TP-Link Archer C54 Băng Tần Kép Chuẩn AC1200 - Hàng Chính Hãng,8856700000000.0,409000,858000,449000,52,available,1000,1000
-11,54439144,Bộ Chuyển Đổi USB Wifi TP-Link Archer T2U Plus Công Suất Cao AC600 - Hàng Chính Hãng,1416840000000.0,249000,349000,100000,29,available,1000,1000
-12,52373199,"Hộp mực in 337 dùng cho máy in Canon MF211, MF221D, LBP252DW, MF215, MF241D,... - CRG 337",3881520000000.0,117700,117700,0,0,available,1000,1000
-13,160440903,USB Kingston 32GB DataTraveler Exodia(DTX/32GB) - Hàng chính hãng ,2431620000000.0,82000,82000,0,0,available,1000,1000
-14,25319983, USB 3.1 SanDisk Ultra Luxe CZ74 - 128GB (Hàng Nhập Khẩu),5552070000000.0,230000,230000,0,0,available,1000,1000
-15,24255305,Dây Cáp Mạng đầu CAT5 Bấm Sẵn 2,1724540000000.0,26990,26990,0,0,available,1000,1000
-16,174029994,USB Kingston 64GB DataTraveler Exodia(DTX/64GB) - Hàng chính hãng,6692830000000.0,109000,109000,0,0,available,1000,1000
-17,53254176,Mực in Dành Cho Máy Canon 2900 - Hộp mực 12A,8713120000000.0,114900,114900,0,0,available,1000,1000
-18,124742926,MacBook Air M1 13 inch 2020,4409270000000.0,19110000,24990000,5880000,24,available,1000,1000
-19,134641513,USB SanDisk CZ600 - USB 3.0 - Hàng Chính Hãng,7852180000000.0,82000,82000,0,0,available,1000,1000
-20,416978,Bộ Chuyển Đổi USB Wifi Nano TP-Link TL-WN725N Chuẩn N 150Mbps - Hàng Chính Hãng,7504600000000.0,119000,239000,120000,50,available,1000,1000
-21,419322,Máy In Laser Đơn Năng Canon LBP 6030W Wifi - Hàng chính hãng,8510000000000.0,2950000,4400000,1450000,33,available,1000,1000
-22,12477248,Dây cáp mạng bấm sẵn đầu (tặng đầu nối mạng),2371950000000.0,23000,23000,0,0,available,1000,1000
-23,74573141,Bộ Phát Wifi TP-Link Archer AX10 Wifi 6 1500Mbps - Hàng Chính Hãng,5037110000000.0,1199000,2398000,1199000,50,available,1000,1000
-24,17967481,Bộ Kích Sóng Wifi Xiaomi Repeater Pro - Hàng Nhập Khẩu,9823030000000.0,225000,299000,74000,25,available,1000,1000
-25,76030024,Bộ Chuyển Đổi USB Wifi TP-Link Archer T2U Nano Băng Tần Kép AC600 - Hàng Chính Hãng,5855680000000.0,219000,329000,110000,33,available,1000,1000
-26,65107101,Ổ Cứng Di Động SSD Samsung T7 NON Touch USB Type C - Hàng Nhập Khẩu - 1TB,2928930000000.0,2450000,2450000,0,0,available,1000,1000
-27,806744,USB Team Taiwan C171 8GB - Hàng Chính Hãng,6106900000000.0,72000,100000,28000,28,available,1000,1000
-28,416911,TP-Link  TL-WN823N - USB Wifi chuẩn N tốc độ 300Mbps - Hàng Chính Hãng,7505900000000.0,139000,259000,120000,46,available,1000,1000
-29,73312665,(Giá Hủy Diệt) Ổ cứng di động External SSD SanDisk Extreme E61 Portable USB Type C 3.2 Gen 2 - Hàng Nhập Khẩu,1506700000000.0,1880000,1988000,108000,5,available,1000,1000
-30,68600962,"Hộp đựng ổ cứng HDD/SSD 2.5"" QGeeM Gen2|cổng USB C/3.1, Type C to SATA|SATA I II III, PS4 hỗ trợ UASP tốc độ cao 6Gbps kèm cáp Type C to USB A-Hàng Chính Hãng",4775530000000.0,199000,455000,256000,56,available,1000,1000
-31,97346988,Màn hình Xiaomi Monitor 1C BHR4510GL 23.8 inch - Hàng Chính Hãng,9710090000000.0,2890000,4110000,1220000,30,available,1000,1000
-32,53181542,"Hộp mực 326, 328 dùng cho máy in Canon LBP 6200, 6200d, 6230dn, MF 4820d, 4412, 4450, 4720w, 4870, mf4750, mf4700, D500, D520, L170,...",9620640000000.0,123000,123000,0,0,available,1000,1000
-33,709035,Bộ Chia Mạng 8 Cổng Mercusys MS108 (10/100Mbps) - Hàng Chính Hãng,7505740000000.0,159000,199000,40000,20,available,1000,1000
-34,32246331,"Hộp mực TN 2385, TN 2325 dùng cho máy in Brother HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW (hàng nhập khẩu 100%)",4645510000000.0,113900,113900,0,0,available,1000,1000
-35,67619329,KEO Tản Nhiệt Cooler Master Mastergel Pro V2 - Hàng Chính Hãng,9813910000000.0,97000,108000,11000,10,available,1000,1000
-36,74561661,Bộ Chuyển Đổi USB Wifi TP-Link TL-WN727N Chuẩn N 150Mbps - Hàng Chính Hãng,3939320000000.0,129000,239000,110000,46,available,1000,1000
-37,9979633,Sạc dành cho Laptop Dell chân kim nhỏ 19.5V - 4.62A- 90w,3087320000000.0,220000,220000,0,0,available,1000,1000
-38,110055062,"Dây cáp sata 3 dành cho ổ cứng HDD, SSD",8306150000000.0,28420,29000,580,2,available,1000,1000
-39,53704413,"Hộp mực Dành Cho máy in Canon LBP 2900, 3000",9028920000000.0,114500,114500,0,0,available,1000,1000
-40,44012580,RAM Laptop Samsung 8GB DDR4 Bus 3200 - Hàng Nhập Khẩu,3732050000000.0,500000,600000,100000,17,available,1000,1000
-41,44012841,RAM Laptop Samsung 16GB DDR4 Bus 3200 - Hàng Nhập Khẩu,7390780000000.0,1300000,1300000,0,0,available,1000,1000
-42,136981085,USB 3.2 Gen 1 Kioxia U301 64GB - Hàng Nhập Khẩu,9438690000000.0,125000,125000,0,0,available,1000,1000
-43,15215426,"Dây nguồn máy tính, dây nguồn PC dài 1.5-2m, dây nguồn lõi đồng tương thích với đồ gia dụng",2246910000000.0,50000,50000,0,0,available,1000,1000
-44,138481685,Phần mềm Microsoft 365 Family English APAC EM Subscr 1YR Medialess P8 (6GQ-01555) - Hàng Chính Hãng,5057440000000.0,1490000,1490000,0,0,available,1000,1000
-45,187392403,(Giá Hủy Diệt) Ổ Cứng Di Động SSD Samsung T7 Shield USB 3.2 Gen 2 - Hàng Nhập Khẩu,4144060000000.0,2249000,2500000,251000,10,available,1000,1000
-46,74311543,Bộ Phát Wifi Mesh TP-Link Deco E4 (3-pack) Băng Tần Kép MU-MIMO AC1200 - Hàng Chính Hãng,9563110000000.0,1799000,3499000,1700000,49,available,1000,1000
-47,10001369,RAM Laptop Samsung 8GB DDR4 2666MHz SODIMM - Hàng Nhập Khẩu,6222570000000.0,450000,540000,90000,17,available,1000,1000
+﻿id,name,sku,price,list_price,discount,discount_rate,inventory_status,max_sale_qty,qty
+247241481,Phần Mềm Diệt Virus BKAV Profressional 1 PC 12 Tháng - Hàng Chính Hãng,1014979908670,190000,190000,0,0,available,1000,1000
+217317583,Box Orico Đựng Ổ Cứng HDD/SSD 2.5 inch 2520C3 - Hàng Nhập Khẩu,3771762210965,97000,100000,3000,3,available,1000,1000
+74975883,Bộ Phát Wifi TP-Link Archer C54 Băng Tần Kép Chuẩn AC1200 - Hàng Chính Hãng,8856697508143,409000,858000,449000,52,available,1000,1000
+216462048,Box đựng ổ cứng Orico SSD M2 PCIe NVMe To USB 3.1 Gen 2 Type C Aluminum M2PJ C3 - Hàng nhập khẩu,5472671799437,350000,350000,0,0,available,1000,1000
+53056161,Phần mềm Microsoft 365 Family English APAC EM Subscr 1YR Medialess P6 (6GQ-01144) - Hàng Chính Hãng,3405828458427,1345000,1690000,345000,20,available,1000,1000
+167932609,Màn hình MSI PRO MP241X 23.8 inch FHD/VA 75Hz - Hàng Chính Hãng,3409851016192,2470000,3742200,1272200,34,available,1000,1000
+17967481,Bộ Kích Sóng Wifi Xiaomi Repeater Pro - Hàng Nhập Khẩu,9823030367490,225000,299000,74000,25,available,1000,1000
+10001384,RAM Laptop Samsung 8GB DDR3L bus 1600 - Hàng Nhập Khẩu,7156126384920,420000,500000,80000,16,available,1000,1000
+204765801,Máy Chiếu Mini BEECUBE X2 MAX GEN 3 2023 - Hàng Chính Hãng,3494286450975,3900000,5000000,1100000,22,available,1000,1000
+76030024,Bộ Chuyển Đổi USB Wifi TP-Link Archer T2U Nano Băng Tần Kép AC600 - Hàng Chính Hãng,5855681709477,219000,329000,110000,33,available,1000,1000
+174029994,USB Kingston 64GB DataTraveler Exodia(DTX/64GB) - Hàng chính hãng,6692827442616,109000,109000,0,0,available,1000,1000
+247241493,Phần Mềm Diệt Virus BKAV Profressional Internet Security (1 năm) - Hàng Chính Hãng,3960256358285,190000,190000,0,0,available,1000,1000
+15668735,"Ổ đĩa dvd rời cho laptop, desktop, máy tính bàn, ổ đĩa quang dvd rw gắn ngoài qua cổng USB hỗ trợ đọc, ghi đĩa dvd, cd không kén đĩa.",4123277955098,295000,320000,25000,8,available,1000,1000
+44012580,RAM Laptop Samsung 8GB DDR4 Bus 3200 - Hàng Nhập Khẩu,3732052764513,500000,600000,100000,17,available,1000,1000
+134561311,USB 3.0 SanDisk Ultra Flair CZ73 - Hàng Nhập Khẩu,8367091212771,110000,110000,0,0,available,1000,1000
+556642,Ổ Cứng SSD WD Green 240GB - WDS240G1G0A - Hàng Chính Hãng,1404391895891,379000,379000,0,0,available,1000,1000
+419322,Máy In Laser Đơn Năng Canon LBP 6030W Wifi - Hàng chính hãng,8509998773863,2950000,4400000,1450000,33,available,1000,1000
+160440903,USB Kingston 32GB DataTraveler Exodia(DTX/32GB) - Hàng chính hãng ,2431616848892,82000,82000,0,0,available,1000,1000
+38323087,(Giá Hủy Diệt) Ổ Cứng Di Động HDD WD My Passport 1TB / 2TB / 4TB / 5TB Model 2019 - Hàng Nhập Khẩu,9386902161867,1385000,1390000,5000,0,available,1000,1000
+74559331,Bộ Mở Rộng Sóng Wifi TP-Link TL-WA850RE Chuẩn N 300Mbps - Hàng Chính Hãng,1101420480034,229000,399000,170000,43,available,1000,1000
+419310,Máy In Laser Đơn Năng Canon LBP 2900 - Hàng chính hãng,8501600143880,3850000,5830000,1980000,34,available,1000,1000
+51845073,Máy In Laser Đa Năng HP LaserJet Pro MFP 135W (4ZB83A) - Hàng Chính Hãng,2338561832135,3290000,4190000,900000,21,available,1000,1000
+214050026,Màn hình máy tính Cong Full Viền K- VISION 23.8 inches (GM241CVG)  IPS FHD 75Hz - Hàng chính hãng,2403083234356,1843000,3590000,1747000,49,available,1000,1000
+146012358,Ổ cứng di động External SSD Sandisk Extreme V2 E61 New 2021 - 1TB Hàng Nhập Khẩu,3987082079960,2220000,2290000,70000,3,available,1000,1000
+2901371,Máy In Phun Màu Canon Pixma G1010 - Hàng Chính Hãng,8090133519212,2390000,3520000,1130000,32,available,1000,1000
+26314426,Dây Cáp Mạng Cat6 Bấm Sẵn 2 đầu,9365508570174,75000,75000,0,0,available,1000,1000
+74573141,Bộ Phát Wifi TP-Link Archer AX10 Wifi 6 1500Mbps - Hàng Chính Hãng,5037111393191,1199000,2398000,1199000,50,available,1000,1000
+197190455,"Bộ phát Wifi di động PROLiNK DL7203E, SIM 4G LTE 150Mbps, pin 5200mAH, màn hình 1.44"", cổng RJ45, USB 2.0, microSD - Hàng chính hãng",7935392044462,1479000,1509000,30000,2,available,1000,1000
+174593821,"Kích Sóng Wifi Tốc Độ Cao 4 Râu 300M PIX-LINK LV-WR09 Thiết Bị Mở Rộng Sóng Bao Phủ Căn Nhà, Văn Phòng - Hàng Chính Hãng",9152381708033,269000,649000,380000,59,available,1000,1000
+21089128,Bộ Thu Wifi USB TP-Link TL-WN722N Chuẩn N 150Mbps - Hàng Chính Hãng,9411825928607,155000,279000,124000,44,available,1000,1000
+10001351,RAM Laptop Samsung 8GB DDR4 2400MHz SODIMM - Hàng Nhập Khẩu,2445811217687,529000,529000,0,0,available,1000,1000
+138481685,Phần mềm Microsoft 365 Family English APAC EM Subscr 1YR Medialess P8 (6GQ-01555) - Hàng Chính Hãng,5057438857877,1490000,1490000,0,0,available,1000,1000
+51729979,Máy in Laser trắng đen HP 107w (4ZB78A) - Hàng Chính Hãng,4798577402711,2430000,3000000,570000,19,available,1000,1000
+416978,Bộ Chuyển Đổi USB Wifi Nano TP-Link TL-WN725N Chuẩn N 150Mbps - Hàng Chính Hãng,7504604440345,119000,239000,120000,50,available,1000,1000
+511960,Bộ Kích Sóng Wifi Repeater 300Mbps TP-Link TL-WA855RE -  Hàng Chính Hãng,7503312319622,259000,459000,200000,44,available,1000,1000
+8608925,Hộp mực dành cho máy in Laser Brother HL-L2321D.,6460064428402,111900,111900,0,0,available,1000,1000
+217443551,(Giá Hủy Diệt) Ổ Cứng SSD Western Digital Green 2.5 inch SATA iii 240GB / 480GB / 1TB Model G3G0A mới nhất 2023 - Hàng Chính Hãng,7152045017570,1600000,1600000,0,0,available,1000,1000
+618526,Ổ Cứng SSD Kingston A400 (240GB) - Hàng Chính Hãng,1401282416319,399000,424000,25000,6,available,1000,1000
+73312665,(Giá Hủy Diệt) Ổ cứng di động External SSD SanDisk Extreme E61 Portable USB Type C 3.2 Gen 2 - Hàng Nhập Khẩu,1506698541287,1880000,1988000,108000,5,available,1000,1000
+194134411,"Cục PhátWifi 4 Râu PIX-LINK LV-WR08, Modem Wifi 300Mbps Cường Độ Sóng Khỏe, Phủ Sóng Rộng - Hàng chính hãng",9182411724311,295000,598000,303000,51,available,1000,1000
+54439144,Bộ Chuyển Đổi USB Wifi TP-Link Archer T2U Plus Công Suất Cao AC600 - Hàng Chính Hãng,1416843001118,249000,349000,100000,29,available,1000,1000
+200815573,Phần mềm Microsoft 365 Personal English APAC EM Subscr 1YR Medialess P8 ( QQ2-01398 ) - Hàng Chính Hãng,8257253453622,920000,1290000,370000,29,available,1000,1000
+2130041,Bộ Phát Wifi Di Động TP-Link M7350 3G/4G LTE 150Mbps - Hàng Chính Hãng,6805733565659,1366000,1999000,633000,32,available,1000,1000
+58116278,RAM Laptop DDR4 Hynix 8GB Bus 3200 - Hàng Nhập Khẩu,7713409812022,500000,550000,50000,9,available,1000,1000
+754249,Bộ Kích Sóng Wifi Repeater Mercusys MW300RE 300Mbps - Hàng Chính Hãng,7500518341020,228000,228000,0,0,available,1000,1000
+12404568,Bộ Phát Wifi TP-Link TL-WR820N Chuẩn N 300Mbps - Hàng Chính Hãng,5716033749964,219000,299000,80000,27,available,1000,1000
+20637413,"Hộp mực máy in 2900, 303 in đẹp, nhập khẩu mới. Là Cartridge, catrich, toner dùng cho máy in Canon LBP 2900, 3000",6921140214161,116500,116500,0,0,available,1000,1000
+16770500,Đĩa DVD Maxell( lốc 50 chiếc) Hàng nhập khẩu,7269066579919,240000,240000,0,0,available,1000,1000
+208062520,RAM PC DDR3 8GB Bus 1600mhz Hàng Nhập Khẩu,4752230141865,209000,209000,0,0,available,1000,1000
+77915998,Ngăn kéo đựng tiền thu ngân RC 407,8981412418787,891000,900000,9000,1,available,1000,1000
+10001382,RAM Laptop Samsung 4GB DDR3L bus 1600 - Hàng Nhập Khẩu,9836923467665,210000,250000,40000,16,available,1000,1000
+73666130,"Hộp mực Canon 325 cho máy in Canon LBP 6030, 6030w, 6000, MF3010",7601202929699,119500,119500,0,0,available,1000,1000
+16572969,Hộp mực máy in 12A Dành Cho máy in Canon 2900 3000 HP 1010 1020,1700605617199,115500,115500,0,0,available,1000,1000
+193763732,Bộ kích sóng Wifi 5G PIX-LINK LV- AC24 Pro Tần Số Kép AC 1200 Mở Rộng Vùng Phủ Sóng Thêm 50m cực Khỏe - Hàng Chính Hãng,5252432188817,468000,998000,530000,53,available,1000,1000
+10769836,Ổ Cứng SSD Samsung 970 Evo Plus NVMe M.2 2280 (500GB) - Hàng Nhập Khẩu,1678201331613,1000000,1100000,100000,9,available,1000,1000
+66930382,TOTOLINK - A720R - Router băng tần kép AC1200 - Hàng chính hãng,9724736358105,340000,345000,5000,1,available,1000,1000
+10001369,RAM Laptop Samsung 8GB DDR4 2666MHz SODIMM - Hàng Nhập Khẩu,6222566607927,450000,540000,90000,17,available,1000,1000
+547563,Bộ Kích Sóng Wifi Repeater 300Mbps Totolink EX200 - Hàng Chính Hãng,7506266142100,209000,239000,30000,13,available,1000,1000
+74561265,Hộp Đựng Ổ Cứng  Di Động HDD Box 2.5 VINETTEAM USB 3.0 Nhựa Trong Suốt Tốc Độ 5gbs-3297-Hàng Chính Hãng,4182667499147,122780,122780,0,0,available,1000,1000
+215099700,Phần mềm Microsoft 365 Family | 12 tháng | Dành cho 6 người Trọn bộ ứng dụng Office Hàng chính hãng,4136177571948,1350000,1990000,640000,32,available,1000,1000
+63191179,Ổ cứng gắn trong HDD Western Digital BLUE 6TB - Hàng nhập khẩu,8780373828150,2700000,3000000,300000,10,available,1000,1000
+76283023,(Giá Hủy Diệt) Ổ Cứng gắn trong SSD Samsung 870 EVO 2.5 inch sata III - Hàng Nhập Khẩu,3349850572129,800000,879000,79000,9,available,1000,1000
+187392403,(Giá Hủy Diệt) Ổ Cứng Di Động SSD Samsung T7 Shield USB 3.2 Gen 2 - Hàng Nhập Khẩu,4144057953384,2249000,2500000,251000,10,available,1000,1000
+77605790,Bộ Phát Wifi Mercusys AC10 Băng Tần Kép AC1200 - Hàng Chính Hãng,6377425288036,349000,559000,210000,38,available,1000,1000
+74311543,Bộ Phát Wifi Mesh TP-Link Deco E4 (3-pack) Băng Tần Kép MU-MIMO AC1200 - Hàng Chính Hãng,9563110588437,1799000,3499000,1700000,49,available,1000,1000
+356387,Ổ Cứng Di Động WD Elements 1TB 2.5 USB 3.0 - WDBUZG0010BBK - Hàng Chính Hãng,6203550291988,1440000,1835900,395900,22,available,1000,1000
+25319983, USB 3.1 SanDisk Ultra Luxe CZ74 - 128GB (Hàng Nhập Khẩu),5552073151752,230000,230000,0,0,available,1000,1000
+416911,TP-Link  TL-WN823N - USB Wifi chuẩn N tốc độ 300Mbps - Hàng Chính Hãng,7505896127457,139000,259000,120000,46,available,1000,1000
+221225607,"Màn hình máy tính E-dra EGM24F75 (23.8""/FHD/IPS/75Hz/1ms) - Hàng Chính Hãng",4882499559710,1879000,1879000,0,0,available,1000,1000
+459733,"Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng",8505023584480,455000,455000,0,0,available,1000,1000
+124483882,RAM Máy bàn PC DDR4 Samsung 8GB Bus 3200 - Hàng Nhập Khẩu,9109412755771,530000,600000,70000,12,available,1000,1000
+199051799,Màn Hình Thông Minh Samsung LS24AM506NEXXV 24 Inch 1920 x 1080 FHD - Hàng chính hãng,9545500337051,2990000,6990000,4000000,57,available,1000,1000
+1582161,Bộ Phát Wifi Di Động 4G LTE TP-Link M7200 150Mbps - Hàng Chính Hãng,4086659137782,999000,1599000,600000,38,available,1000,1000
+124742926,MacBook Air M1 13 inch 2020,4409272649267,18590000,29990000,11400000,38,available,1000,1000
+15270539,Bộ Thu Wifi TP-Link Archer T3U AC1300Mbps - Hàng Chính Hãng,4329393925490,289000,599000,310000,52,available,1000,1000
+243252575,Bộ Phát WiFi 4G/5G LTE - Bộ Phát Wifi Di Động 4G/5G LTE - Tốc Độ 150Mb Hỗ Trợ Tất Cả Nhà Mạng - Hàng Chính Hãng,7253935348290,523000,990000,467000,47,available,1000,1000
+143714177,USB 128GB Kingston DTX- Hàng chính hãng,4818920520335,269000,269000,0,0,available,1000,1000
+68828151,Bộ Phát Sóng WiFi Xiaomi Router 4A Siêu Mạnh 2 Băng Tần 2.4G 5G AC1200 - Hàng Chính Hãng,2923176562616,440000,440000,0,0,available,1000,1000
+35339655,Màn Hình Samsung LS24R350FZEXXV 24inch FullHD 5ms 75Hz AMD FreeSync - Hàng Chính Hãng,6464335587492,2890000,4590000,1700000,37,available,1000,1000
+410704,Ổ Cứng Di Động WD Elements 2TB 2.5 USB 3.0 - WDBU6Y0020BBK - Hàng chính hãng,6200544678190,2280000,2739000,459000,17,available,1000,1000
+87034145,"Hộp mực dùng cho máy in Canon 6030, 6030W CÓ LỔ NẠP MỰC-XẢ THẢI NGOÀI - MÃ 35A/85A/325",3314619100240,116500,116500,0,0,available,1000,1000
+32246331,"Hộp mực TN 2385, TN 2325 dùng cho máy in Brother HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW (hàng nhập khẩu 100%)",4645509166879,113900,113900,0,0,available,1000,1000
+23393172,Máy in Laser HP Neverstop 1000W (4RY23A) - Hàng Chính Hãng,7036636340800,2750000,3381400,631400,19,available,1000,1000
+754245,Bộ Chuyển Đổi USB Wifi Mini Mercusys MW300UM N300 - Hàng Chính Hãng,7506005964796,278000,278000,0,0,available,1000,1000
+9979633,Sạc dành cho Laptop Dell chân kim nhỏ 19.5V - 4.62A- 90w,3087320618730,220000,220000,0,0,available,1000,1000
+52105812,Cụm trống (Drum) Brother DR-2385 - Dùng cho các dòng máy in Brother HL(L2321D;L2361DN;L2366DW); MFC(L2520D;L2701D;L2701DW),2182519880187,184000,184000,0,0,available,1000,1000
+20907214,RAM Laptop Samsung 4GB DDR3 (PC3) Bus 1333   - Hàng Nhập Khẩu,7296956533577,210000,220000,10000,5,available,1000,1000
+74547194,Bộ Phát Wifi Di Động 3G/4G TP-Link M7000 - Hàng Chính Hãng,2581948283284,899000,1399000,500000,36,available,1000,1000
+456510,TP-Link TL-SF1008D - Bộ Chia Tín Hiệu Để Bàn 8 cổng 10/100Mbps - Hàng Chính Hãng,7502395786185,159000,289000,130000,45,available,1000,1000
+52373199,"Hộp mực in 337 dùng cho máy in Canon MF211, MF221D, LBP252DW, MF215, MF241D,... - CRG 337",3881519247219,117700,117700,0,0,available,1000,1000
+43973407,Hộp mực TN 2385 cho máy in Brother 2321D 2361DN 2366Dw 2520D 2701D 2701Dw,1235495581676,113900,113900,0,0,available,1000,1000
+72741594,"Bộ nguồn cấp điện liên tục UPS PROLINK 650VA (PRO700SFC) Công suất 360W, công nghệ Line Interactive tích hợp bộ AVR, sạc siêu nhanh - Hàng chính hãng",2188766907837,859000,899000,40000,4,available,1000,1000
+97991447,Mực nạp Brother hàng chính hãng Alphacartridge dành cho hộp mực TN 2280 2385 1010 Máy in HL1111/1511/2321/2340/2360/2361/2240/2280/2380 MFC1601/2701/2720/2740/7060/7360,2662768250064,29200,29200,0,0,available,1000,1000
+183050828,Quạt tản nhiệt cho điện thoại G6 cao cấp TiMa.lala - Hàng chính hãng,5122930553120,65000,99000,34000,34,available,1000,1000
+201965201,(COMBO) 3 chai mực nạp 35A 78A 83A 85A 79A 48A 337 312 325 dùng cho máy in HP P1005 1006 Cannon 3050 6000 6030 ...,2405402218100,63000,63000,0,0,available,1000,1000
+140107134,Ổ Cứng Di Động SSD Sandisk E30 - Hàng Nhập Khẩu,9961280368105,1530000,1530000,0,0,available,1000,1000
+189371238,Mã code Kaspersky Internet Security - Hàng Nhập Khẩu,7723387428960,135000,135000,0,0,available,1000,1000
+12404601,Bộ Phát Wifi Mesh TP-Link Deco M4 (3-pack)  Băng Tần Kép MU-MIMO AC1200 - Hàng Chính Hãng,6626706308031,2766000,5790000,3024000,52,available,1000,1000
+169695798,Keo Tản Nhiệt Cooler Master Mastergel Pro V2 - Hàng Chính Hãng,3462696420104,99000,99000,0,0,available,1000,1000
+225386873,USB Kingston 32GB DataTraveler Exodia M (DTXM/32GB) - Hàng chính hãng,3119363398190,80000,80000,0,0,available,1000,1000
+89783330,Ngăn kéo đựng tiền thu ngân RC 330,1850276886582,549000,620000,71000,11,available,1000,1000
+74561661,Bộ Chuyển Đổi USB Wifi TP-Link TL-WN727N Chuẩn N 150Mbps - Hàng Chính Hãng,3939315874143,129000,239000,110000,46,available,1000,1000
+63190320,Ổ cứng gắn trong HDD Western Digital BLUE 4TB - Hàng nhập khẩu,7503847208538,2000000,2150000,150000,7,available,1000,1000
+212558124,Ổ Cứng SSD Western Digital BLACK SN770 500GB / 1TB / 2TB M2 PCIe NVMe Gen 4x4 - Hàng Nhập Khẩu,6431268120891,1066000,1250000,184000,15,available,1000,1000
+110055062,"Dây cáp sata 3 dành cho ổ cứng HDD, SSD",8306149972608,28420,29000,580,2,available,1000,1000
+191975880,USB 3.2 Gen 1 Acer UP300 dung lượng USB 8GB - 1TB - Hàng chính hãng ,6361135443083,102000,185000,83000,45,available,1000,1000
+6909331,Bộ Kích Sóng Wifi Repeater Băng Tần Kép AC750 TP-Link RE200 - Hàng Chính Hãng,4417398345419,379000,699000,320000,46,available,1000,1000
+74850075,Ổ cứng HDD Laptop WD Blue 2TB SATA 6GB/s 2.5 inch - Hàng Nhập Khẩu,9531295788546,1650000,1650000,0,0,available,1000,1000
+10001353,RAM Laptop Samsung 16GB DDR4 2400MHz SODIMM - Hàng Nhập Khẩu,2001202836389,1000000,1120000,120000,11,available,1000,1000
+193925997,Màn hình Dell SE2723DS 27 inch 2K IPS 75Hz - Hàng Chính Hãng,5560556432061,6290000,6290000,0,0,available,1000,1000
+52192246,Hộp mực máy in Laser Brother HL-L2321D - TN 2385,4700182905006,118900,118900,0,0,available,1000,1000
+207891244,Phần Mềm Diệt Virus BKAV Profressional 1 PC 12 Tháng - Hàng Chính Hãng,3533832833768,197000,197000,0,0,available,1000,1000
+17620717,"Hộp mực Dành Cho máy in Canon LBP 2900, 3000 siêu nét",8697641780570,116500,116500,0,0,available,1000,1000
+205957921,Quạt Tản Nhiệt Fan Case Led 12cm - Arigato AR101B - Hàng nhập khẩu,1457843043810,67620,69000,1380,2,available,1000,1000
+191271050,Màn hình K-vision 24 inch GM241VNG độ phân giải FUll HD 1920x1080 - Chống Lóa - Tần số 75Hz - Hàng Chính Hãng NEW FullHD,5942016479672,1856000,2086000,230000,11,available,1000,1000
+173164642,Dây cáp mạng LAN bấm sẵn 2 đầu Cat6 UTP Kingmaster - Hàng chính hãng,8745709331527,50000,50000,0,0,available,1000,1000
+16387290,RAM PC DDR3L Samsung 8GB Bus 1600 - Hàng Nhập Khẩu,4573241404389,420000,520000,100000,19,available,1000,1000
+456506,TP-Link TL-SF1005D - Bộ Chia Tín Hiệu Để Bàn 5 cổng 10/100Mbps - Hàng Chính Hãng,7509586864301,139000,259000,120000,46,available,1000,1000
+14388647,"Hộp đựng ổ cứng 2,5"" SSD/HDD SATA 3 Orico 2577U3(HDD Box 2,5"" USB 3.0) - Hàng Nhập Khẩu",5590029706298,135000,199000,64000,32,available,1000,1000
+17954263,Màn hình máy tính AOC 24V2Q 24 inches IPS FHD 75Hz (Đen) - Hàng chính hãng,1940481645262,2790000,3590000,800000,22,available,1000,1000
+150672784,Hộp mực dùng cho máy in HP 107a/ 107w/ 135a/ 135w / 137a / 137w ( Mã mực W1107A ),4931370483080,325000,325000,0,0,available,1000,1000
+6910261,Phần Mềm Diệt Virus Trend Micro Internet Security Bản Quyền 1 PC 12 Tháng - Hàng chính hãng,8591147509591,105000,110000,5000,5,available,1000,1000
+206112507,USB Kingston 64GB DataTraveler M 3.2 - Hàng chính hãng FPT phân phối,9930260560904,96900,96900,0,0,available,1000,1000
+54616069,USB SanDisk Cruzer Blade CZ50 USB2.0- 64GB - Hàng nhập khẩu,1134626886775,135000,135000,0,0,available,1000,1000
+59502552,Máy in laser đen trắng đa chức năng HP 135A - 4ZB82A - Hàng Chính Hãng,5442404904518,2890000,3390000,500000,15,available,1000,1000
+459201,Máy In Laser Đen Trắng Đơn Năng Brother HL-L2321D Duplex - Hàng Chính Hãng,8502748339364,2870000,2870000,0,0,available,1000,1000
+57357726,"Nguồn máy tính VSP 750W (4+4pin)  cung cấp cho chiếc máy tính của bạn nguồn năng lượng ổn định, không bị quá tải, sai dòng hay vượt công suất",2702231223484,233266,233266,0,0,available,1000,1000
+95266695,Cáp chuyển đổi Displayport sang VGA,8961405209536,80750,85000,4250,5,available,1000,1000
+10001326,RAM Laptop Samsung 8GB DDR4 2133MHz SODIMM - Hàng Nhập Khẩu,1240786617514,480000,490000,10000,2,available,1000,1000
+6711831,Hộp mực máy in canon Lbp 6030/ 6030w,1573001744413,116900,116900,0,0,available,1000,1000
+7458771,Hộp mực dùng cho máy in HP 1102 ( 85A),6739655716748,115900,115900,0,0,available,1000,1000
+157504855,Bộ Phát Wifi TP-Link Archer AX53 Chuẩn Wifi 6 Tốc Độ 3000Mbps - Hàng Chính Hãng,2041706152773,1366000,2999000,1633000,54,available,1000,1000
+15680869,"Cụm drum (trống mực) DR 2385 cho máy in Brother HL- L2361DN, L2366DW, L2321D. DCP- L2520D. MFC- L2701DW",8626011130813,199000,199000,0,0,available,1000,1000
+130048917,Màn hình Dell P2722H  27 inch Full HD IPS 60Hz - Hàng Chính Hãng,5507906312829,5870000,7744000,1874000,24,available,1000,1000
+81830444,Avast Premium Security (For 1 PC – 1 year)- Hàng chính hãng ,8641003605503,155000,155000,0,0,available,1000,1000
+11194805,Ổ Cứ́ng SSD Samsung 970 EVO PLUS 1TB M2 2280 PCIe NVMe MZ- V7S1T0BW - Hàng Nhập Khẩu,2718184086595,1490000,1750000,260000,15,available,1000,1000
+196939150,"Màn hình máy tính LCD VSP VL24 Cong Full Viền  (1920x1080, 75Hz, HDMI, VGA)  - Hàng Chính Hãng ",1843604760315,2468000,2468000,0,0,available,1000,1000
+189540673,Đầu cắm nguồn dành cho sạc Macbook Macbook Air Macbook Pro ( dạng 2 chấu ) - Hàng Nhập Khẩu,8266852848602,79000,79000,0,0,available,1000,1000
+155765566,Ram PC Corsair Vengeance LPX 16GB 3200MHz DDR4 (1x16GB) CMK16GX4M1E3200C16 - Hàng Chính Hãng,2029637953075,980000,980000,0,0,available,1000,1000
+98233872,"Hộp mực 35A/36A/85A dùng cho máy in HP LaserJet P1005, 1006, M1120, Canon LBP 3050, 3018, 3100, 3151...",3671354523417,100000,100000,0,0,available,1000,1000
+10001377,RAM Laptop Hynix 8GB DDR4 2666MHz SODIMM - Hàng Nhập Khẩu,1518250373649,480000,570000,90000,16,available,1000,1000
+23397939,Mực in Laser HP 103AD 2 hộp Black Neverstop Toner Reload Kit - Dual Kit Đen (Máy in HP Neverstop Laser 1000A/1000W/HP Neverstop Laser MFP 1200A/1200W/HP Laser NS 1020/1020W/HP Laser NS MFP 1005/1005W/1005C/W1103AD) - Hàng Chính Hãng,4457771884937,690000,690000,0,0,available,1000,1000
+134559638,USB SanDisk CZ73 Ultra Flair - USB 3.0 - Hàng Chính Hãng,7310552769494,95000,95000,0,0,available,1000,1000
+24902640,"Ram PC 4gb ddr3 bus 1600, ram máy tính 4gb, bộ nhớ trong dùng cho PC ",2289823878937,132000,132000,0,0,available,1000,1000
+806744,USB Team Taiwan C171 8GB - Hàng Chính Hãng,6106897573864,72000,100000,28000,28,available,1000,1000
+110948705,"[CÓ SẴN] USB WIFI 5G, tốc độ cao 600Mbps, thu sóng WIFI chuẩn AC cho máy bàn pc laptop",8803246848349,115000,159000,44000,28,available,1000,1000
+215099692,Phần mềm Microsoft Office 365 Personal Hàng chính hãng,9629563039488,1010000,1290000,280000,22,available,1000,1000
+8089082,Cáp Chuyển Đổi Kết Nối Ổ Cứng HDD Từ USB 3.0 Sang Sata 22 Pin 2.5 Inch,9936336454433,140000,140000,0,0,available,1000,1000
+107360880,Bộ Mở Rộng Sóng Wifi Mesh TP-Link RE315 Chuẩn AC 1200Mbps - Hàng Chính Hãng,8141128709824,499000,899000,400000,44,available,1000,1000
+69162730,Bộ Phát Wifi Router 4G LTE TP-Link TL-MR6400 - Hàng Chính Hãng,6773015143744,1180000,1180000,0,0,available,1000,1000
+561879,Kaspersky Internet Security Cho 1 Máy Tính - KIS1U - Hàng chính hãng,2896544681069,274000,274000,0,0,available,1000,1000
+763675,Máy In Laser Đơn Năng Brother HL-L2366DW - Hàng Chính Hãng,8504441045641,3880000,3880000,0,0,available,1000,1000
+191270045,Màn hình Cong Provision 27 inch GM271VNG - Tấm nền PLS - FUll HD 1920x1080 - Chống Lóa - Tần số 75Hz New FullBox - Hàng Chính Hãng,8674443409954,2850000,2850000,0,0,available,1000,1000
+208077288,BỘ NGUỒN MÁY TÍNH AIGO CK650 650W - HÀNG CHÍNH HÃNG,7691493298416,625000,625000,0,0,available,1000,1000
+138315921,"20 cuộn giấy in nhiệt k80, giấy in bill, đường kính 80mm, giấy in hóa đơn Ocha, Pos 365",8766783831462,379000,379000,0,0,available,1000,1000
+10001367,RAM Laptop Samsung 4GB DDR4 2666MHz SODIMM - Hàng Nhập Khẩu,1334415567629,300000,350000,50000,14,available,1000,1000
+10001357,RAM Laptop Hynix 8GB DDR4 2400MHz SODIMM - Hàng Nhập Khẩu,2858005770620,440000,450000,10000,2,available,1000,1000
+8114281,Máy In Đa Năng Canon E410 - Hàng Chính Hãng,3522815178677,1790000,2150000,360000,17,available,1000,1000
+12404603,Bộ Phát Wifi Mesh TP-Link Deco M4 AC1200 MU-MIMO (1-pack) - Hàng Chính Hãng,6087916128350,966000,1899000,933000,49,available,1000,1000
+77105849,Ổ cứng gắn trong SSD Samsung PM9A1 M2 PCIe 4.0 - Hàng Nhập Khẩu,2833701937966,888000,900000,12000,1,available,1000,1000
+14293641,Dây Mạng Lan 30 MÉT Đúc Sẵn 2 Đầu Hạt Mạng,5969530058859,46690,46690,0,0,available,1000,1000
+137959617,Màn hình VSP 22 inch - màu trắng - Full viền - Chất lượng cao - Hàng chính hãng,1365381566894,1925000,1925000,0,0,available,1000,1000
+32453922,"Giấy In Màu Kỹ Thuật Số MEDIA 1 Mặt Bóng (Glossy) Khổ A4 (210 x 297mm) Định Lượng 230gsm 50 Tờ, Dùng In Ảnh Màu & Tài Liệu Màu - Hàng Chính Hãng",3766594784364,85000,85000,0,0,available,1000,1000
+165667261,"Bộ lưu điện UPS CyberPower BU600E - 600VA/360W - Tích hợp công nghệ ổn áp AVR, Công nghệ tiết kiện điện GreenPower - Hàng chính hãng",8188771717974,799000,1050000,251000,24,available,1000,1000
+198207951,"Máy in tem nhãn, mã vạch Xprinter XP-420B cổng USB + LAN. Máy in đơn hàng, in tem, in vận đơn TMĐT khổ 110mm [HÀNG CHÍNH HÃNG]",5616721381216,1887000,1887000,0,0,available,1000,1000
+25206026,Bộ Phát Wifi Mesh TP-Link Deco E4 (2-pack) Băng Tần Kép MU-MIMO AC1200 - Hàng Chính Hãng,8977091213638,1233000,1999000,766000,38,available,1000,1000
+114699552,USB nghe nhạc chất lượng cao 320kps cho xe ô tô,7960368302365,197000,197000,0,0,available,1000,1000
+16667097,Hộp mực dành cho máy in canon Lbp 6030/ 6030w,7166707193148,116500,116500,0,0,available,1000,1000
+109347126,[CÓ SẴN CHIP] Hộp mực 107A dùng cho máy in HP 107A/ 107w/ 135A/ M135w/ 137fnw,6200886378374,345000,345000,0,0,available,1000,1000
+94173429,Màn hình máy tính LG 24QP750-B 23.8inch QHD 5ms 75Hz IPS - Hàng Chính Hãng,2996632743909,5990000,8000000,2010000,25,available,1000,1000
+5413859,USB SanDisk CZ430 Ultra Fit - USB 3.1 - Hàng Nhập Khẩu,1964502828519,89000,89000,0,0,available,1000,1000
+195656641,️Bộ mực in 664 4 màu Xanh/đỏ/vàng/đen cho Epson L300 / L310 / L350 / L360 / L1300 / L100 / L120 / L200 / L210 / L565 Hàng nhập khẩu,1129182843221,80000,80000,0,0,available,1000,1000
+165588636,"Bộ lưu điện UPS CyberPower BU1000EA 1000VA/630W - Tích hợp công nghệ ổn áp AVR, Công nghệ tiết kiện điện GreenPower - Hàng chính hãng",8853527593602,1690000,2250000,560000,25,available,1000,1000
+15353548,"Hộp mực in 53A cho máy in HP LaserJet M2727, P2015",1057428249565,199000,199000,0,0,available,1000,1000
+73199681,Focusrite Scarlett Solo Gen 3 Sound Card Âm Thanh Hàng Chính Hãng - Focus USB Audio Interface SoundCard (3rd - Gen3) - Kèm Móng Gẩy DreamMaker,1710961941920,2750000,2750000,0,0,available,1000,1000
+16396285,RAM PC DDR4 Samsung 4GB Bus 2400 - Hàng Nhập Khẩu,1484869471871,300000,330000,30000,9,available,1000,1000
+101901207,TOTOLINK A650USM - USB Wi-Fi mini băng tần kép AC650 Hàng chính hãng,1663377210960,209000,379000,170000,45,available,1000,1000
+12404609,Bộ Phát Wifi Mesh TP-Link Deco M5 AC1300 MU-MIMO (1-pack) - Hàng Chính Hãng,8215882571742,1399000,2399000,1000000,42,available,1000,1000
+74309855,Bộ loa hội nghị Jabra Speak 410 - Hàng Chính Hãng,5769349835791,2530000,2750000,220000,8,available,1000,1000
+142782679,Kaspersky Antivirus 1 year 1 PC - Hàng chính hãng,6869340383767,159000,180000,21000,12,available,1000,1000
+198203383,Máy in hóa đơn bán hàng kết nối điện thoại Xprinter K80mm cổng Lan,4054500278596,1306800,1320000,13200,1,available,1000,1000
+26218961,Dây mạng bấm sẵn 2 đầu cat5e 50M (màu ngẫu nhiên),9405349911870,66000,66000,0,0,available,1000,1000
+17904891,Hộp mực TN 2385 dùng cho máy in Brother HL-L2320D/ 2321D/ 2340DW,3089600744306,118000,118000,0,0,available,1000,1000
+203213313,(Giá Hủy Diệt) Ổ Cứng gắn trong HDD Western Digital Ultrastar 20TB / 22TB SATA iii 3.5 inch cho Serve dòng Enterprise - Hàng Nhập Khẩu,6229903875590,8300000,9000000,700000,8,available,1000,1000
+44012841,RAM Laptop Samsung 16GB DDR4 Bus 3200 - Hàng Nhập Khẩu,7390783501744,1299000,1299000,0,0,available,1000,1000
+152383382,"Bộ Phát Wifi Từ Sim 4G ZTE Olax Ax6 Pro Tốc Độ 300Mb Cắm Điện 24/24 Có Hỗ Trợ Pin Dự Phòng Dùng Thêm 18 Giờ, Hàng Nhập Khẩu",6094526733795,999000,999000,0,0,available,1000,1000
+182308716,USB Hikvision M200 32G - Hàng chính hãng,6243547955927,79000,79000,0,0,available,1000,1000
+197670914,"Siêu phẩm màn hình Tomko 24 inch  - 144Hz Tấm nền IPS - siêu rẻ siêu chất lượng - Hàng Chính Hãng , CHƠI GAME NGON lại CHIẾN ĐỒ HỌA TỐT, XEM PHIM CỰC NÉT.",6090942442260,2950000,2950000,0,0,available,1000,1000
+249288542,USB SanDisk Ultra Shift USB 3.0 Flash Drive 32GB-128GB - Hàng Chính Hãng,9469416783633,108000,130000,22000,17,available,1000,1000
+169198565,Bộ Phát Wifi Mesh TP-Link Deco X50 Chuẩn WiFi 6 AX3000 - Hàng Chính Hãng,6935734341840,5989000,8999000,3010000,33,available,1000,1000
+7857797,Khay Ổ Cứng Caddy Bay 9.5mm Siêu Mỏng (Gắn Ổ Cứng Thay Ổ Quang Laptop),9849214246948,35800,35800,0,0,available,1000,1000
+201965545,(COMBO) 3 chai mực nạp 12A - Canon 2900 / Loại tốt siêu đậm,7204143660133,78000,78000,0,0,available,1000,1000
+206157359,Phần Mềm diệt Virut BKAV Pro Internet Security 1PC/1 năm - Hàng chính hãng ,3534856623295,185900,185900,0,0,available,1000,1000
+56380242,Giấy in nhiệt K57x38mm thùng 100 cuộn,8054637352195,419000,419000,0,0,available,1000,1000
+49728912,"Ổ Cứng Di Dộng HDD WD My Passport 1TB 2.5"" USB 3.2 WDBYVG0010B - Hàng Chính Hãng",6774872450181,1510000,1690000,180000,11,available,1000,1000
+58677681,N200RE_V5 - Mini Router Wi-Fi chuẩn N 300Mbps,2171117219802,197000,197000,0,0,available,1000,1000
+213920368,"Hộp mực máy in Canon LBP 3300( Mới 100%- chất lượng in rõ nét và đậm) , Cartridge 49a",4945442503119,155000,155000,0,0,available,1000,1000
+169039064,Router Wifi 6 Asus RT-AX1800HP MU-MIMO AiMesh AX1800Mbps (Xuyên tường) - Hàng Chính Hãng,7769246002964,1350000,1350000,0,0,available,1000,1000
+98923791,Bộ chia mạng Switch Tenda S105 5 cổng Ethernet 100Mbps - Hàng Chính Hãng,6053631972082,119000,149000,30000,20,available,1000,1000
+56190273,Máy In Laser Đen Trắng HP 107A (4ZB77A) – Hàng Chính Hãng,2279349572167,2180000,2180000,0,0,available,1000,1000
+46757834,Đèn treo màn hình máy tính laptop hiệu Baseus - DGIWK-01 - Hàng nhập khẩu ,9815524916031,480000,480000,0,0,available,1000,1000
+8081443,Sạc Cho Laptop HP Chân Kim Nhỏ 19.5V - 3.33A,5200625398338,235000,285000,50000,18,available,1000,1000
+56067914,Hộp mực in laser  HP 107A (KHÔNG CHIP) – dùng cho máy in HP 107A/ 107w/ 135A/ M135w/ 137fnw,3243102474769,194000,194000,0,0,available,1000,1000
+186359410,Máy tính xách tay Asus BR1100FK cảm ứng Chip Intel N6000 | RAM 8GB | 128GB-EMMC | 11.6 Inch IPS | Wifi6 | 3C42WHR | win bản quyền - Hàng Chính Hãng,1309631301453,7325000,14650000,7325000,50,available,1000,1000
+171233670,Mica khay đỡ giấy dành cho máy in Canon 2900,5515494128784,35000,35000,0,0,available,1000,1000
+220671238,"Giấy in nhiệt OCHA khổ K80x80mm, Giấy in bill, in hóa đơn K80",4705984807392,18500,25000,6500,26,available,1000,1000
+23557774,"USB 32GB C171 Team Taiwan chống shock, chống nước (Trắng) - Hàng Chính Hãng",5603676386895,85000,87000,2000,2,available,1000,1000
+459084,Bộ Phát Sóng Wifi Router Chuẩn N 300Mbps Tenda F3 - Hàng Chính Hãng,7500837409487,243000,243000,0,0,available,1000,1000
+144232807,Máy chiếu mini độ phân giải thực Full-HD Vankyo Leisure 495W - Hàng chính hãng,6485122304384,4900000,4900000,0,0,available,1000,1000
+195536650,"Màn Hình Galax Prisma-01 (24""/FHD/VA/75Hz/USB-C Supported/Galax PR-01) - Hàng Chính Hãng",3302171326954,2349000,3499000,1150000,33,available,1000,1000
+173380884,"Hộp mực in HP 103A/W1103A hàng chính hãng Viettoner dùng cho máy in HP Neverstop Laser 1000A, 1000W, 1200A, 1200W mới 100% [Fullbox]",2854582095941,109000,109000,0,0,available,1000,1000
+16161475,RAM PC DDR3L Samsung 4GB Bus 1600 – Hàng Nhập Khẩu,4741644159797,210000,320000,110000,34,available,1000,1000
+54764213,"Cụm Trống Máy In Brother HL-L2321D, HL-L2361DN, HL-L2366DW, DCP-L2520D, MFC-L2701D, MFC-L2701DW - Mã Cụm Drum DR-2385",9293046072945,189000,189000,0,0,available,1000,1000
+201936149,Mực nạp cho hộp mực Brother TN 1010 1111 2240 2250 2260 2280 2385 2321 2701 XEROX P115 P225 ...,1157763505946,27000,27000,0,0,available,1000,1000
+76664325,Nguồn máy tính GIGABYTE GP-P750GM 750W 80 PLUS  - Hàng Chính Hãng,7708068421615,1740000,1740000,0,0,available,1000,1000
+416990,TP-Link  TL-WN722N - USB Wifi (high gain) tốc độ 150Mbps - Hàng Chính Hãng,7507716307926,195000,195000,0,0,available,1000,1000
+188176208,Thiết bị chuyển mạch Switch Để Bàn 5 Cổng TP-LINK LS1005G - Hàng chính hãng,3178982805868,242000,254000,12000,5,available,1000,1000
+80799408,Ổ Cứng SSD Samsung 870 Evo 500GB 2.5-Inch SATA III - Hàng Nhập Khẩu (Box Anh),3295612130721,910000,910000,0,0,available,1000,1000
+204664136,(Giá Hủy Diệt) Máy Chiếu Mini BEECUBE X2 MAX GEN 3 Hệ Điều Hành Android Kết nối Điện thoại Full HD 1080 - Hàng Chính Hãng,3624713094428,3900000,4050000,150000,4,available,1000,1000
+11354023,USB OTG SanDisk Ultra Dual Drive m3.0 64GB - Hàng Nhập Khẩu,4059128835595,165000,195000,30000,15,available,1000,1000
+55196708,Kìm bấm hạt mạng xuyên thấu,8623171979870,198745,198745,0,0,available,1000,1000
+106375760,Màn hình Dell Ultrasharp U2422H 23.8 inch Full HD 60Hz - Hàng Chính Hãng,3956174519626,6390000,6790000,400000,6,available,1000,1000
+202492275,"Bộ nút bịt cổng USB, HDMI, TypeC... cho laptop cực tiện dụng, giữ máy tính luôn sạch sẽ Yorn - Hàng Chính Hãng",7239618063321,12000,12000,0,0,available,1000,1000
+185922577,Bộ Kích Sóng Wifi Xiaomi Repeater Pro R03 - Hàng Nhập Khẩu,3655952136812,185000,195000,10000,5,available,1000,1000
+22555481,Box ổ cứng 2.5 inch SATA USB 3.0 2577U3,9919932202332,113900,113900,0,0,available,1000,1000
+99998451,Màn hình máy tính LG UHD 4K 27'' IPS VESA DisplayHDR 400 27UP600-W - Hàng chính hãng,2228735644002,6890000,8090000,1200000,15,available,1000,1000
+57268501,Màn Hình Chuyên Đồ Họa Asus ProArt PA248QV 24.1inch WUXGA 5ms 75Hz IPS - Hàng Chính Hãng,7651795132969,5650000,6590000,940000,14,available,1000,1000
+205757256,[CAM KẾT RẺ NHÂT]Màn hình PC Chuyên Game Tomko 27 inch 2K IPS T2721Q-2K  / độ phân giải 2K / IPS - Hàng Chính Hãng,8791809383684,1590000,1700000,110000,6,available,1000,1000
+191918608,Ổ cứng SSD Acer SA100 SATA 3 3D NAND 120GB - 1920GB - Hàng chính hãng,9451252954286,280000,550000,270000,49,available,1000,1000
+196057971,"Ổ đĩa quang CD/DVD-RW cắm ngoài USB 3.0, Type-C cho PC, Macbook, Laptop, Đọc tốc độ Cao",5488657675983,400000,400000,0,0,available,1000,1000
+57657389,Tenda USB kết nối Wifi U10 chuẩn AC tốc độ 650Mbps - Hãng phân phối chính thức,8357964449348,232000,329000,97000,29,available,1000,1000
+159887307,Màn hình máy tính Dell E2222H 21.5inch FullHD 10ms 60Hz VA - Hàng Chính Hãng,2196267433991,2730000,3990000,1260000,32,available,1000,1000
+248645535,(Giá Hủy Diệt) RAM Laptop DDR4 G.Skill Ripjaws Bus 3200Mhz SODIMM - Hàng Chính Hãng,5550688173516,1040000,1040000,0,0,available,1000,1000
+185944336,Màn hình Gaming GALAX Vivance VI-01 27″ QHD IPS 165Hz 1ms HDR G-Sync - Hàng Chính Hãng,4021528313424,5890000,6900000,1010000,15,available,1000,1000
+86123397,(Giá Hủy Diệt) Ổ Cứng gắn trong SSD Samsung 980 M2 2280 PCIe - Hàng Nhập Khẩu,9470393480091,990000,1000000,10000,1,available,1000,1000
+186267931,Màn hình máy tính PROVISION / K- VISION  23.8 inches IPS FHD 75Hz (Đen) - Hàng chính hãng,1856010579092,1842000,1899000,57000,3,available,1000,1000
+178477024,Bộ Phát Wifi Mesh TP-Link Deco E4 (1-pack) Chuẩn AC 1200Mbps Dành Cho Gia Đình - Hàng Chính Hãng,6643922398840,699000,1399000,700000,50,available,1000,1000
+40547505,Combo Kìm Bấm Hạt Mạng(RJ45+RJ11) + 100 Hạt mạng RJ45 + 100 đầu chụp hạt mạng + Hộp Test mạng,7798058697169,129000,129000,0,0,available,1000,1000
+53704413,"Hộp mực Dành Cho máy in Canon LBP 2900, 3000",9028918740765,114500,114500,0,0,available,1000,1000
+51733508,"Cụm trống /cụm drum CF232A (32A) dùng cho máy in HP LaserJet Pro M203dn (G3Q46A), M203dw (G3Q47A), MFP M227fdn (G3Q79A), MFP M227fdw (G3Q75A), MFP M227sdn (G3Q74A), MFP M206, MFP M230",1475294098337,179500,179500,0,0,available,1000,1000
+57091076,"Sạc dành cho Laptop Asus A456U, A456UA Adapter 19V-2.37A",4266230426638,219000,219000,0,0,available,1000,1000
+173969491,Combo 02 ống mực 103A dùng cho máy in HP Neverstop MFP 1200w/ 1200A/ 1000W/ 1000A - Laser torner,6664837956500,196000,199000,3000,2,available,1000,1000
+142459136,Hộp Mực Cartridge 12A Máy In Canon LBP 2900 (303) 3000 HPQ2612A 1020 M1005 M1010 1018 Có Lỗ Nạp Mực - Hàng Chính Hãng,2368418900355,117800,117800,0,0,available,1000,1000
+24801234,Ổ cứng SSD 256GB Lexar NS100 2.5-Inch SATA III - Hàng Chính Hãng,8225415420942,465000,465000,0,0,available,1000,1000
+109890380,Bộ test mạng đa năng RJ45 + Kìm bấm mạng đa năng xanh + 100 hạt mạng,8861342523422,107000,107000,0,0,available,1000,1000
+51424090,Màn hình Cong Samsung LC32R500FHEXXV 31.5 inch FHD 75Hz - Hàng Chính Hãng,5573097076210,4540000,4540000,0,0,available,1000,1000
+253721467,"Bộ kích sóng wifi 4 râu Vinetteam tốc độ 300mbps 2 cổng RJ45 ăng ten phát xuyên tường cắm trực tiếp dùng cho điện thoại, laptop, máy tính, PC - hàng chính hãng",7983626204079,199000,269000,70000,26,available,1000,1000
+77947090,Tenda Thiết bị phát Wifi AC10 Chuẩn AC 1200Mbps - Hàng Chính Hãng,5531260015003,699000,799000,100000,13,available,1000,1000
+50086320,Màn Hình Gaming Samsung LS27R350FHEXXV 27 inch FullHD 5ms 75Hz IPS - Hàng Chính Hãng,9799062034221,3460000,3460000,0,0,available,1000,1000
+44180345,Quạt CPU Led lõi đồng Coolmoon 11X for Intell - hàng nhập khẩu,2306525000777,175000,175000,0,0,available,1000,1000
+76297472,"Ổ cứng SSD Samsung 870 EVO SATA III 2.5"" SSD 500GB ( MZ-77E500BW ) - Hàng Chính Hãng",1306683858778,1600000,2530000,930000,37,available,1000,1000
+9845151,"Hộp mực máy in HP 85a (Cartridge, catrich, toner 85a, 1102, 1212, 1132)",1763573959852,249000,249000,0,0,available,1000,1000
+179539764,"Hộp đựng ổ cứng 3.5"" ORICO 3588US3- Hàng chính hãng",2023895297567,362880,385000,22120,6,available,1000,1000
+59115735,Sạc dành cho Microsoft Surface Pro 7,6050178530094,580000,580000,0,0,available,1000,1000
+22100084,Sạc cho Laptop Sony Vaio 19.5v-4.7a,4551154050282,180000,245000,65000,27,available,1000,1000
+205961356,Dây cáp mạng 2 đầu đúc sẵn Cat6 UTP UGREEN NW102 20164 dài 10M - Hàng chính hãng,1138335415264,102000,120000,18000,15,available,1000,1000
+100031927,Màn hình LG 32UN500-W 31.5 Inch UHD 4K HDR - Hàng chính hãng,5857125394327,7150000,10736000,3586000,33,available,1000,1000
+125893668,Gaming Router Wifi Băng Tần Kép ASUS RT-AX53U AX1800 MU-MIMO AiProtection- Hàng Chính Hãng,2999984203850,1247000,1371700,124700,9,available,1000,1000
+49366640,Combo 5 Đầu Nối Mạng 1 Ra 1- Đầu Mạng RJ45,7523280707573,20482,19700,0,0,available,1000,1000
+185654769,"Bộ PC All In One MCC 3341P19 CPU Core i3 Processor, 4GB, 120GB SSD, WIFI, 19"" - Hàng chính hãng",3935703341810,7480000,7900000,420000,5,available,1000,1000
+192863109,Màn Chiếu 3 Chân Apollo 135 inch - Hàng Chính Hãng,9146149239466,1500000,1500000,0,0,available,1000,1000
+506497,"Mực In Canon Cartridges PG - 810 Cho Máy in Canon iP 2770, MP 287, iP 2772 - Hàng Chính Hãng",2685369942024,560000,560000,0,0,available,1000,1000
+204314240,Sạc Laptop dành cho máy tính Lenovo Type C 65W 20V-3.25A,8779806897991,375000,375000,0,0,available,1000,1000
+184904857,"Máy quét mã vạch cầm tay có dây YHD 1100D 2D dùng dây trực tiếp cắm cổng USB Máy tính, Laptop - Hàng nhập khẩu",7630822740534,849000,1273500,424500,33,available,1000,1000
+121024249,Bộ 4 màu mực Canon GI790 dành cho Máy In Canon G4010,3983446897390,185000,185000,0,0,available,1000,1000
+199109494,Ram Laptop 8GB DDR3L bus 1600 (12800S) ram dùng cho laptop,5381996048067,359000,359000,0,0,available,1000,1000
+700901,Phần Mềm Diệt Virus Bitdefender Internet Security BIS - Hàng Chính Hãng,2897343244950,96000,290000,194000,67,available,1000,1000
+24850430,Đĩa CD Trắng Maxell ( Đĩa Kèm Hộp Mika)- Hàng Nhập Khẩu,4533843529040,30000,30000,0,0,available,1000,1000
+22414760,Giá treo máy chiếu đa năng  áp trần 20cm ( Hàng nhập khầu),3686367870486,139000,139000,0,0,available,1000,1000
+8095982,Adapter nguồn đa năng điện áp ra từ 12V-24V,2085643469054,122000,122000,0,0,available,1000,1000
+10868001,Sạc Laptop Đa Năng 8 Đầu - Sạc Đa Năng,9531844626589,99000,99000,0,0,available,1000,1000
+162617728,Đầu Mạng VP-Link CAT5E Xuyên Thấu RJ45 (100pcs) - Hàng chính hãng,6937490208104,97020,99000,1980,2,available,1000,1000
+166319807,Router Asus RT-AX55- Hàng chính hãng,6739460503515,1895000,2084500,189500,9,available,1000,1000
+220679465,Ổ cứng SSD TeamGroup CX2 512GB 2.5 inch SATA III - Hàng chính hãng Viễn Sơn phân phối,7121336192491,594000,594000,0,0,available,1000,1000
+34476640,BỘ Máy Tính Đồng Bộ Dell CORE I5-4570/RAM 8GB /SSD 120GB/HDD 500GB và Màn hình Dell 21.5 inch / BÀN PHÍM CHUỘT DELL/BAN DI CHUỘT /USB WIFI - Hàng Nhập Khẩu,7957254166583,4489000,4650000,161000,3,available,1000,1000
+172960181,Ổ cứng di động Seagate Backup Plus Ultra Touch 1TB_USB-C + Gói cứu dữ liệu_Hàng chính hãng,4981315116783,1990000,1990000,0,0,available,1000,1000
+11200514,Mực in Phun HP 680 - Đen (F6V27AA) - Hàng Chính Hãng,7740666804712,266000,266000,0,0,available,1000,1000
+191829340,Bộ Chia Tín Hiệu Switch TP-Link LS1008G Để Bàn 8 Cổng 10/100/1000Mbps - Hàng Chính Hãng,2019323060623,412000,425000,13000,3,available,1000,1000
+13864122,USB Lexar JumpDrive V40 Flash 2.0 64GB - Hàng Chính Hãng,2901354904106,85900,85900,0,0,available,1000,1000
+168372008,VGA Gigabyte GT 730 2G GDDR5 (GV-N730D5-2GL) - Hàng Chính Hãng,6951632111254,1300000,1300000,0,0,available,1000,1000
+95564239,Hộp mực 12A Canon 2900 hàng nhập khẩu Hộp mực dành cho máy in Canon LBP 2900/3000 HP Laser Jet 1010/1015/1020/3015/3020/3030/3050,5745134000307,116300,116300,0,0,available,1000,1000
+998687,Màn Hình Cong Samsung LC27F397FHEXXV 27inch FullHD 4ms 60Hz FreeSync VA - Hàng Chính Hãng,7209684701583,3490000,4490000,1000000,22,available,1000,1000
+136032838,Bộ Mở Rộng Sóng Wifi TP-Link RE505X Chuẩn AX1500 - Hàng Chính Hãng,4046045539269,1489000,1999000,510000,26,available,1000,1000
+110317258,Phát wifi từ sim 4G MIXIE LTE4G hỗ trợ 32 user phát sóng cực xa - nguồn trực tiếp 12V (Đen) HÀNG NHẬP KHẨU,2438312363167,770000,770000,0,0,available,1000,1000
+100265665,Màn hình LCD LG 24QP750 (2560 x 1440/IPS/75Hz/5 ms/FreeSync)- Hàng Chính Hãng,8997697761698,5790000,5790000,0,0,available,1000,1000
+164304313,"Hộp mực sử dụng cho máy in Canon MF241d, 244dw, 211, 221d, LBP 151dw/ HP LaserJet M127, M126, 125 (83A/337 (Cartridge)",2562508788720,119000,119000,0,0,available,1000,1000
+76186679,Router Totolink Wi-Fi 6 băng tần kép Gigabit AX1800 - X5000R - Hàng Chính hãng,3973414070235,935000,935000,0,0,available,1000,1000
+44896399,RAM Laptop Samsung 32GB DDR4 Bus 2666 - Hàng Nhập Khẩu,8105710884642,2050000,2100000,50000,2,available,1000,1000
+15644245,Hộp mực in 328 cho máy in Canon LBP6200D/ LBP6230DN,3069754263304,119000,119000,0,0,available,1000,1000
+96707403,Hộp mực 12A Canon 2900 Hộp mực dành cho máy in Canon 2900/3000 HP  Laser Jet 1010/1015/1020/3015/3020/3030/3050,5681651162777,114500,114500,0,0,available,1000,1000
+22385802,RAM desktop G.SKILL Aegis F4-2666C19S-8GIS (1x8GB) DDR4 2666MHz - Hàng chính hãng,2726860437043,445000,445000,0,0,available,1000,1000
+32108134, Trống (phấn) 12A cho máy Canon 2900 3000 HP 1010 1020,9539484077891,17800,17800,0,0,available,1000,1000
+520204,Ổ Cứng HDD WD Blue™ 2TB/64MB/5400/3.5  - WD20EZRZ - Hàng chính hãng,1424737076623,1342000,1342000,0,0,available,1000,1000
+11353901,RAM PC DDR3 8GB Bus 1600mhz Hàng Nhập Khẩu,2542097761207,209000,209000,0,0,available,1000,1000
+25962819,"Hộp mực 17A (có CHIP) cho máy in HP M102w, M102a, MFP M130fn, MFP M130fw, MFP M130a, MFP M130w ",5547396172331,142000,142000,0,0,available,1000,1000
+199235020,Ram Laptop 2GB DDR2 bus 667 (5300s) dùng cho laptop,6225354870398,59000,59000,0,0,available,1000,1000
+14518091,Đầu bấm mạng RJ45 loại xịn AMP (Hộp 100 hạt),3211221023007,69000,69000,0,0,available,1000,1000
+108590741,Máy in Brother HL-L2321D- hàng chính hãng,1742611850789,2750000,2750000,0,0,available,1000,1000
+102157843,"Ram DDR4  4G bus 2400, 2133 tháo máy",4338430700510,165000,165000,0,0,available,1000,1000
+74775970,Giá đỡ Coolmoon chống xệ cong chân VGA cho máy tính - hàng nhập khẩu,5180154494605,91000,91000,0,0,available,1000,1000
+806672,USB Team Taiwan C171 16GB - Hàng Chính Hãng,6101576467779,79000,85000,6000,7,available,1000,1000
+117572921,Màn Hình Dell S2721QS 27 inch 4K IPS 60Hz - Hàng Chính Hãng,2655522951651,8650000,8990000,340000,4,available,1000,1000
+60715918,Dây cáp mạng 2 đầu đúc sẵn Cat6 UTP UGREEN NW102 - Hàng chính hãng,3426354675515,50000,70000,20000,29,available,1000,1000
+7460207," Hộp mực máy in Canon LBP 2900, 3000",2730252685905,118400,118400,0,0,available,1000,1000
+196425212,Đĩa trắng CD Maxell (Hộp 50c) - JL - HÀNG CHÍNH HÃNG,5708015946969,240100,245000,4900,2,available,1000,1000
+103791477,Màn hình LG 27UP850-W 27 Inch UHD 4K  IPS/ HDR/USB Type-C - Hàng chính hãng,8711167472676,9490000,11990000,2500000,21,available,1000,1000
+15163759,"Dây nguồn PC, Máy in, Máy Chiếu, dây nguồn máy tính dài 1.5-2m, dây nguồn lõi đồng tương thích với đồ gia dụng chất lượng cao ",9339461391114,39000,45900,6900,15,available,1000,1000
+8114283,Máy Scan Canon Lide 400 - Hàng Chính Hãng,7777816996737,2950000,3490000,540000,15,available,1000,1000
+14242308,Bộ chia HDMI 1 ra 4 loại mạch ngắn,5102281252439,189000,189000,0,0,available,1000,1000
+82288567,"Pin Model M5Y1K dành cho Laptop Dell Vostro 3468, 3568",2994279267341,523994,523994,0,0,available,1000,1000
+704169,Màn Hình LG 24MP88HV-S 24inch FullHD 5ms 60Hz IPS Speaker - Hàng Chính Hãng,8700708622222,3855000,3855000,0,0,available,1000,1000
+117093771,Pin Dành Cho Laptop HP CQ42 CQ32 CQ43 CQ56 CQ57 CQ62 G42 G32 G56 G62 - Hàng Nhập Khẩu,3354107426945,324000,374000,50000,13,available,1000,1000
+7908729,USB Thu Wifi LB-LINK BL-WN151 Nano - Hàng chính hãng ,8875146521878,105000,125000,20000,16,available,1000,1000
+57692036,Thiết bị lưu trữ mạng Synology DS220+ (Đen) - Hàng Chính Hãng,6086068951076,8320000,8320000,0,0,available,1000,1000
+72752336,Dây Nguồn PC - Cắm PC - Màn Hình Máy Tính - Nồi Cơm Điện,5179898992287,31000,32000,1000,3,available,1000,1000
+191089410,Màn hình Provision 24 inch GM241VNG độ phân giải FUll HD 1920x1080 - Chống Lóa - Tần số 75Hz NEW FullB - Hàng Chính Hãng ,9742719515762,1886000,2045000,159000,8,available,1000,1000
+26218971,Dây mạng bấm sẵn 2 đầu cat5e 40M (màu ngẫu nhiên),3354865759663,56990,56990,0,0,available,1000,1000
+26218953,Dây mạng bấm sẵn 2 đầu cat5e 10M (màu ngẫu nhiên),5001200981095,17000,17970,970,5,available,1000,1000
+208438905,Hộp mực Brother TN 2385 dùng cho máy in Brother HL-L2361DN/HL-2321D/MFC-L2701DW/HL-L2366DW/L2701D/ 2320/ 2321/ 2340/ 2360/ 2361/ 2365/ 2366/ 2700/ 2701/ 2701/ 2720/ 2740 (Black),8208968715268,146000,160000,14000,9,available,1000,1000
+21056582,Hạt mạng RJ45 Golden Japan (100 hạt chân đồng) - Hàng Nhập Khẩu,2768602020755,99875,99875,0,0,available,1000,1000
+110990926,"USB WIFI 5G 1200Mbps, Nâng cấp WiFi cho máy bàn laptop thu sóng 5Ghz dễ dàng, USB 3.0",6587445714378,125000,139000,14000,10,available,1000,1000
+249682317,Hộp mực 49A - Cartridge 308 dùng cho máy in Canon LBP 3300,3571085560463,107250,214500,107250,50,available,1000,1000
+51615378,"Hộp mực 48A cho máy in HP M15a, M16a, M28a, M28w, M29a...CF248A",5252569977476,153000,153000,0,0,available,1000,1000
+566274,USB Lexar S57 32GB - USB 3.0 - Hàng Chính Hãng,6103282698461,75000,75000,0,0,available,1000,1000
+8011164,Bộ Chia Mạng 8 Cổng TP-Link TL-SG108E - Hàng chính hãng,1677578991987,779000,779000,0,0,available,1000,1000
+79316248,Ổ Cứng Di Động Gắn Ngoài HDD Seagate ONE TOUCH 2.5 inch USB 3.0 - Hàng Nhập Khẩu,8410079405936,2750000,2850000,100000,4,available,1000,1000
+35603100,Ổ Cứng SSD Samsung 970 EVO PLUS 2TB M2 2280 PCIe NVMe - Hàng Nhập Khẩu,5841412752256,2888000,3500000,612000,17,available,1000,1000
+416625,Router Wifi Chuẩn N 300Mbps TP-Link TL-WR840N - Hàng Chính Hãng,7508580829088,259000,529000,270000,51,available,1000,1000
+58669073,"Hộp mực Brother TN2385 dùng cho máy in HL-L2321D, HL-2361DN, HL-2366DW, DCP-L2520D, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng",3655107160910,455000,455000,0,0,available,1000,1000
+248186394,Bộ tản nhiệt nước ID-COOLING ZOOMFLOW 240-XT ARGB - Hàng Chính hãng,6174407209517,1690000,1690000,0,0,available,1000,1000
+196948702,Ổ cứng di động SDSSDE81-1T00 Sandisk Extreme Pro E81 - 1TB Hàng Nhập Khẩu,1679357351576,3450000,3790000,340000,9,available,1000,1000
+14379439,Trống máy in Brother HL-2385/L2320D/2321D/2340DW/2360DN/2361dn/2365DW - Hàng nhập khẩu,8246149193551,54900,54900,0,0,available,1000,1000
+222439592,"Màn Hình Máy Tính 27 inch, Màn Hình Gaming T2721QQ 27 Inch – Tấm nền IPS Tần số quét 75HZ- Màn Hình Giá Rẻ - Hàng chính hãng",1277734966421,4575000,4575000,0,0,available,1000,1000
+125582349,Máy in Laser Trắng Đen HP 107A - Hàng chính hãng,3543068947951,2180000,2180000,0,0,available,1000,1000
+179550020,"Ổ Cứng SSD WD Green Sata 6Gb/s ( 2.5 Inch , 7mm cased ) - Hàng Chính Hãng",5086723048910,397000,397000,0,0,available,1000,1000
+185442369,"Bộ Phát Wifi 4G Công Nghiệp Edup AZ800 Tốc Độ 300Mb Có 4 Ăng Ten Cực Khỏe, Kết Nối 64 Thiết Bị, Vỏ Hợp Kim Cao Cấp , Hàng chính hãng",1355614331616,1842000,1899000,57000,3,available,1000,1000
+94173532,Màn hình LCD LG 24QP500-B 23.8 inch IPS 2K QHD - Hàng Chính Hãng,2886329568067,4740000,4740000,0,0,available,1000,1000
+51970596,Cụm Drum (khay trống) cho máy In Brother HL-L2321D/ 2361DN/ 2366DW/ DCP-L2520D/ MFC-L2701D/ MFC-L2701DW - Mã DR-2385 ,1510745589832,188000,188000,0,0,available,1000,1000
+8114282,Máy Scan Canon Lide 300 - Hàng Chính Hãng,3084537339007,1990000,2490000,500000,20,available,1000,1000
+158820238,USB 128GB SanDisk Ultra Dual Drive Luxe Type-C (SDDDC4-128G-G46)- Hàng chính hãng,2167804982033,329000,329000,0,0,available,1000,1000
+187770519,Máy Tính Siêu Nhỏ Ultra Mini Morefine ZX01 - thế hệ 11 Jasper Lake N5105 - Hỗ Trợ Xuất Hình 4K 60hz - Hàng Nhập khẩu,1046566289097,4960000,4960000,0,0,available,1000,1000
+248360352,"Máy Hủy Tài Liệu Cao Cấp Deli Chính Hãng - Phù Hợp Cho Bảo Mật Giấy Tờ Trong Doanh Nghiệp, Văn Phòng, Nhà Trường - Hàng Chính Hãng - E9947",2272808657247,1099000,1962000,863000,44,available,1000,1000
+262065570,"Bộ phát wifi từ sim 4G PIX-LINK USB Modem  ,USB phát Wifi 4G LTE từ sim 4G, Dcom phát wifi di động  tốc độ cao, phủ sóng rộng - Hàng chính hãng / Hàng nhập khẩu",1279657733747,299000,589000,290000,49,available,1000,1000
+116490029,Bộ lưu điện 70mai Midrive PS06 Jump Starter Max - Hàng nhập khẩu,6577206663474,1749000,1749000,0,0,available,1000,1000
+137741171,Ổ Cứng Di Động HDD WD My Book 3.5 USB 3.0 - Hàng Nhập Khẩu,8845737039666,2750000,2860000,110000,4,available,1000,1000
+20584637,100 Đầu Mạng RJ45 Xuyên Thấu Pass Through,2429728076704,69900,69900,0,0,available,1000,1000
+165941799,Màn hình Samsung LS19A330NHEXXV 19 Inch 1366 x 768 60Hz - Hàng Chính Hãng,8774250044454,1832000,1879000,47000,3,available,1000,1000
+2045801,Đầu Nối Dây Mạng Ugreen RJ45 20390 - Hàng Chính Hãng,2605107200513,71000,71000,0,0,available,1000,1000
+561924,Kaspersky Internet Security Cho 3 Máy Tính - KIS3U - Hàng Chính Hãng,2899710380414,598000,598000,0,0,available,1000,1000
+554426,Bộ Kích Sóng Wifi Repeater 300Mbps Tenda A9 - Hàng Chính Hãng,7509199036751,174000,174000,0,0,available,1000,1000
+93294232,Bộ card WIFI Intel WIFI 6E AX210 cho máy bàn dùng cổng PCIe hỗ trợ 2.4Ghz 5Ghz và 6Ghz - Bluetooth 5.3 - Hàng nhập khẩu,9947097107298,730000,730000,0,0,available,1000,1000
+1690577,"Pin Dành Cho Laptop Dell Inspiron N4010 N4050 N4120, N5050 13R 14R 15R - Hàng Nhập Khẩu",5626167845527,286900,286900,0,0,available,1000,1000
+67861239,Sạc dành cho laptop Asus 19V-3.42A - Vuông - Chân nhỏ 65W,9795932032700,209000,209000,0,0,available,1000,1000
+6413195,Cáp mạng 2 đầu đúc Cat7 UTP Patch Cords dạng dẹt - dài 3M - UGREEN NW106 - 11262 - Hãng phân phối chính thức,9366117174975,120000,143000,23000,16,available,1000,1000
+4981861,USB SanDisk CZ430 Ultra Fit 128GB - USB 3.1 - Hàng Chính Hãng,7713780639522,280000,299000,19000,6,available,1000,1000
+964243,Ổ Cứng SSD WD Green 240GB 3D NAND - WDS240G2G0A - Hàng Chính Hãng,9229899332325,379000,379000,0,0,available,1000,1000
+53080935,Phần mềm Microsoft 365 Personal English APAC EM Subscr 1YR Medialess P8 ( QQ2-01398  ) - Hàng Chính Hãng,1084495096501,1060000,1290000,230000,18,available,1000,1000
+71062304,"Bộ sản phẩm 5 lọ mực nạp ( mực đổ ) thương hiệu HA dùng cho hộp mực máy in Canon 2900/ 3300/ 251/ 251, 252, 253, 411, 5870, 5980, 6300, 6650, 6670, 6680/ HP 1010/1020/ HP 400, 401, 425, 2035, 2050, 2055, - Hàng nhập khẩu",4037430316025,165000,175000,10000,6,available,1000,1000
+217462144,(Giá Hủy Diệt) Ổ cứng SSD Western Digital Green M2 2280 SATA III 240GB / 480GB model G3G0B mới nhất 2023 - Hàng Chính Hãng,5005965176940,460000,460000,0,0,available,1000,1000
+111452388,Màn hình máy tính LG UltraGear 27'' 2K 27GP850-B Hàng Chính Hãng,5632779232616,9250000,11990000,2740000,23,available,1000,1000
+154706046,"Đèn treo màn hình bảo vệ mắt Baseus i-Work Series (3 Light Mode, Anti Bluelight, USB Stepless Dimming Screen Hanging Light, New Model) - DGIWK-B02 - Hàng chính hãng",4222748013919,442499,442499,0,0,available,1000,1000
+51987865,"Hộp mực 48A cho máy in HP M15a, M15w, M28a, M28w,...CF 248A",8181499990682,153000,153000,0,0,available,1000,1000
+194125697,Adapter nguồn màn hình LG 19v 1.2A / 1.3A,1192640216390,150000,150000,0,0,available,1000,1000
+74547151,Bộ Phát Wifi TP-Link Archer C24 Băng Tần Kép AC750 - Hàng Chính Hãng,8024696689402,389000,699000,310000,44,available,1000,1000
+26314030,Phần mềm diệt Virus KASPERSKY ANTIVIRUS cho 1PC/Năm - Phân phối Chính hãng,5859343078918,175000,184000,9000,5,available,1000,1000
+181120107,Màn Hình máy tính Dell P2723QE ( 27inch 4K UHD (3840 x 2160) 8ms 60Hz IPS HDMI/DP/USB Type-C Upto 90W / RJ45 Network ) - Hàng Chính Hãng,5552308055915,10940000,10990000,50000,0,available,1000,1000
+16613522,RAM PC DDR4 Samsung 16GB Bus 2666 - Hàng Nhập Khẩu,9493165309667,1050000,1100000,50000,5,available,1000,1000
+96903639,Drum Trống in 12A hàng chính hãng Alphacartridge Loại theo phôi Zin DUC dành cho Máy in HP 1010/1020/1015/1018/1022 Canon 2900/3000/,4430195074459,19000,19000,0,0,available,1000,1000
+159313503,Máy Chiếu Mini BeeCube Xtreme Hệ Điều Hành Android + Kết nối Điện thoại + Full HD 1080 - Hàng Chính Hãng,9069011022781,6400000,6850000,450000,7,available,1000,1000
+249457337,"Hộp mực 12A/303 dùng cho máy in Canon 2900/3000, HP 1010, 1020",7976065509300,82500,165000,82500,50,available,1000,1000
+19701154,USB THU WIFI CHO MÁY TÍNH,5395109411365,52530,52530,0,0,available,1000,1000
+44248667,"Bàn phím kiêm chuột không dây mini cho tivi box, smart tivi UKB-500RF có đèn led (màu ngẫu nhiên)",7359851507330,88480,88480,0,0,available,1000,1000
+51111825,Combo Dây nhảy quang Single Mode SC-FC 3m (5 sợi),1557687895997,160000,160000,0,0,available,1000,1000
+54365768,"Tủ Mạng, Tủ Rack 12U – TMC RACK 19’’",9203738830852,2200000,2200000,0,0,available,1000,1000
+213960192,VGA (Cạc màn hình) GIGABYTE GeForce GTX 1660Ti 6GB/D6/2FAN - HÀNG CHÍNH HÃNG,4603895410446,5500000,5500000,0,0,available,1000,1000
+82842545,Trống Drum Mit-su 1606 dùng cho mực in Hp 35A / 85A / 83A/ 78A/ 79A/ 36A Canon 325/ 326/ 328/ 337/ 312/ 313,6768606828611,48100,48100,0,0,available,1000,1000
+102780872,Rulo ép HP LaserJet P1005/1006/ M1130/ M1319f MFP/M1522n/P1102w,7667307213583,120000,120000,0,0,available,1000,1000
+196236093,"Giấy In Nhiệt In Hóa Đơn, In Bill OJI K80x45 Chất Lượng Cao",6879544216060,9000,9000,0,0,available,1000,1000
+31233999,Máy tính chuyên Game Intel Core i5 3470 RAM 8GB SSD 240GB (Dell 21.5 inch)  - Hàng nhập khẩu,2000725978613,5390000,5390000,0,0,available,1000,1000
+215746674,Usb Phát WiFi 4G LTE Di Động Băng Tần Rộng 150Mbps,6780570070097,315500,315500,0,0,available,1000,1000
+200728422,Card đồ họa Nvidia Quadro P1000 4GB GDDR5 128bit,7981051837624,3899000,3899000,0,0,available,1000,1000
+10315830,"Nhãn in tiêu chuẩn HZe-541, khổ 18mm x 8m, chữ đen nền xanh dương, dùng cho máy in nhãn Brother",4591507179666,160000,160000,0,0,available,1000,1000
+199997474,"Ram PC 8GB DDR4 bus 2666, ram dùng cho PC, desktop",4158785278590,419000,419000,0,0,available,1000,1000
+35921896,Giấy in tem vàng bạc trang sức 42*10mm,2412862172142,140000,140000,0,0,available,1000,1000
+56000864,Mực chuyển nhiệt Inktec - Hàng nhập khẩu,8316848070986,450000,450000,0,0,available,1000,1000
+120034245,"Mực nạp dành cho HP M102w, M102a, MFP M130fn, M203dn, M203dw, M227sdn, M227fdn",2267321689178,25000,25000,0,0,available,1000,1000
+44335445,Combo 10 cuộn mực dùng cho máy in date ,9462406251843,264000,330000,66000,20,available,1000,1000
+189460846,USB Acer UP300 tốc độ đọc/ghi lên đến 120 MB/s - Hàng chính hãng bảo hành 5 năm - Thiết bị lưu trữ dung lượng 8GB - 1TB,9468691622168,90000,165000,75000,45,available,1000,1000
+86155648,Bo mạch chủ Mainboard ASUS PRIME H410M-F - Hàng Chính Hãng,2316111114370,1650000,1650000,0,0,available,1000,1000
+213922724,Bo Mạch Chủ (Mainboard) Gigabyte GA B75M-D3H - HÀNG CHÍNH HÃNG,9550227855944,1590000,1590000,0,0,available,1000,1000
+117093418,Pin thay thế dành cho Laptop Asus A46c - Hàng Nhập Khẩu ,4735943130955,354900,374900,20000,5,available,1000,1000
+137169723,Bàn Phím dành cho ASUS K550C K550V K550L K550J - Hàng Nhập Khẩu,8491576669729,300500,320500,20000,6,available,1000,1000
+117093393,Pin dành cho Laptop Lenovo Ideapad G480 G485 - Hàng Nhập Khẩu ,8335216466658,533000,583000,50000,9,available,1000,1000
+117094215,Pin dành cho Laptop Lenovo Thinkpad L14 L15 L480 L490 L580 L590 01AV463 - Hàng Nhập Khẩu ,7012579940331,789000,839000,50000,6,available,1000,1000
+20410427,Cặp Converter Quang 1000mb (1gb) - Netlink  Single Mode 1 Sợi Quang - Hàng Chính Hãng,7671065075116,522000,522000,0,0,available,1000,1000
+144354877,Chai mực màu xanh nhạt dành cho máy Epson L805 / L850 / L1800 / L810 / L800 -light cyan ,9164882610086,110000,110000,0,0,available,1000,1000
+87393332,Hộp mực in SAHA TN-2385 - CÓ NẮP NẠP MỰC - Dùng cho máy in Brother - Chính Hãng (BOX),9747642963349,165000,165000,0,0,available,1000,1000
+125579605,"Fan case LED 12 cm Cao Cấp. Fan tản nhiệt. trang trí cho case máy tính, pc gaming",5852411519745,45000,45000,0,0,available,1000,1000
+184634783,Bộ đồ nghề Nạp mực máy in 8 món giá rẻ số 2,7915472402598,155000,155000,0,0,available,1000,1000
+127377456,Mực OEM dùng cho máy photo Ricoh Type 3554 – Cho máy MP 2554/ 2555/ 3054/ 3055/ 3555SP,3262266212763,770000,770000,0,0,available,1000,1000
+208085385,Vỏ Bọc Bảo Vệ Dây Cáp Sạc/Cốc sạc bằng Silicon Hoạ tiết Hình đáng yêu Cho bộ sạc 18W/20w và sạc op,1375274144803,76500,76500,0,0,available,1000,1000
+205228808,Card Nvidia Tesla K80 24GB GDDR5 768 bit ,5201708566036,6499000,6499000,0,0,available,1000,1000
+23395721,"Máy In Laser Trắng Đen Đa Năng HP Neverstop Laser 1200A (In/Copy/Scan/Trắng,đen-4QD21A) - Hàng Chính Hãng",2068059955755,3750000,3750000,0,0,available,1000,1000
+215889906,Con lăn ra giấy máy in Canon 3300 HP 2015d 2015dn 1320,6511353321661,55000,55000,0,0,available,1000,1000
+214859851,Ram Pioneer Udimm 16GB DDR4 3200MHz Tản Nhiệt. Hàng Chính Hãng ,1276677933512,1300000,1300000,0,0,available,1000,1000
+41314748,Máy đếm tiền  OUDIS 2400C - Hàng chính hãng,7928117938371,2300000,2300000,0,0,available,1000,1000
+134607384,USB 3.0 Sandisk CZ600 Cruzer Glide - Hàng Nhập Khẩu,5692031164826,215000,215000,0,0,available,1000,1000
+246163295,Ổ cứng HDD tím 500G-1TB- 2TB chuyên dụng cho camera- Hàng chính hãng,3292581745587,450000,450000,0,0,available,1000,1000
+204954024,"Cục phát wifi 4 râu PIX-LINK LV-WR08, Modem wifi 300Mbps cường độ sóng khỏe, phủ sóng rộng - Hàng chính hãng",6962158106120,345000,345000,0,0,available,1000,1000
+196292349,Màn Hình LCD HIKVISION DS-D5019QE-B (18.5 inch/HD/TN/60Hz/5ms/200 nits/HDMI+VGA) - Hàng Chính Hãng,7250768972493,1650000,1650000,0,0,available,1000,1000
+7736571,Adapter Nguồn 9V - 0.6A TP-LINK - Hàng Nhập Khẩu,4312608409861,55000,55000,0,0,available,1000,1000
+214615798,Laptop HP 240 G9 6L1X7PA (i3-1215U | 8GB | 256GB | Intel Iris Xe Graphics | 14' FHD | Win 11) Hàng chính hãng,2549976186278,14286000,17143200,2857200,17,available,1000,1000
+204044334,Máy Soi Tiền - Máy Soi Tiền Oudis 520 - Hàng Chính Hãng,6042011585353,700000,700000,0,0,available,1000,1000
+190294912,"Màn hình máy tính 2K  Tomko 27 inch T2721F-2K - Hàng Chính Hãng  , CHƠI GAME NGON lại CHIẾN ĐỒ HỌA TỐT, XEM PHIM CỰC NÉT.",7491869769279,3158000,3689000,531000,14,available,1000,1000
+204614080,USB 8Gb vỏ nhựa xoay dùng lưu trữ dữ liệu,6720801427591,69900,69900,0,0,available,1000,1000
+173640823,Cáp mạng Cat7 Ugreen 40166 dài 15m 10Gbps 600mhz dây dẹt Nylon Braided Màu Đen NW189 Hàng chính hãng,4350646211286,473000,473000,0,0,available,1000,1000
+213698300,Hôp mực TN2385/TN2325 - Dùng cho máy in Brother HL 2360/2361/(TN2385/TN2325),5035943445170,125000,125000,0,0,available,1000,1000
+214915395,Mực Chai Brother 2240/2270 ,4553330296043,28000,28000,0,0,available,1000,1000
+19554563,"Giấy In Hóa Đơn Nhiệt, In Bill K80 Phi 80",4020897384669,17700,17700,0,0,available,1000,1000
+171653285,"Sạc dành cho Laptop MSI Modern 14 A10M, 14 A10RB, 14 A10RAS",7973195962941,330000,330000,0,0,available,1000,1000
+109890229,Bộ test cáp mạng RJ45/RJ11/USB đa năng M726AT + Tặng kèm Tool nhấn mạng KD-01,1326074958286,165000,165000,0,0,available,1000,1000
+26221901,Hộp Ổ Cứng Box 3.5 Orico 3588US3 - Hàng Nhập Khẩu,3031070198943,350000,450000,100000,22,available,1000,1000
+35585756,Mực in phun màu Canon CL746S - Hàng chính hãng,9156604171385,399000,399000,0,0,available,1000,1000
+59203466,"Hộp mực in SAHA 35A/36A/85A cho máy in HP, Canon - Hàng chính hãng",8698192689824,155000,155000,0,0,available,1000,1000
+205516175,Nguồn adapter cấp điện 3 chấu cho Mixer F4 vs F7 giúp cung câp điện áp ổn định hơn,2726078024855,135000,135000,0,0,available,1000,1000
+198546564,"Giấy in Ảnh A4 Rõ Đẹp 1 mặt / 2 mặt, Định Lượng 115g, 135g, 140g, 160g, 180g, 210g, 230g, 260g, 300g",6914948006877,67200,67200,0,0,available,1000,1000
+112331205,Hộp Test Dây Mạng RJ45 _ RJ 11 Đa Năng+ Tặng Pin,1449394650571,63000,65000,2000,3,available,1000,1000
+193669071,[Tặng tua vít] Thiết bị chia mạng Switch Để Bàn TP-LINK TL-SF1006P 6 Cổng 10/100Mbps với 4 Cổng PoE+ - Hàng chính hãng,1881845797102,685000,1025000,340000,33,available,1000,1000
+13624452,Pin lap top dung lượng 2600MAh,7098496542503,71091,71091,0,0,available,1000,1000
+250338432,Kích Sóng Wifi 4 Râu Ăng Ten Phát Xuyên Tường Chuẩn N Tốc Độ 300mbps Màu Trắng Bộ Kích Sóng Wifi Thu Phát Mở Rộng Khuếch Đại Sóng Wifi USB Wifi Kiêm Router Wifi Băng Tần Rộng,5941865872920,285000,610000,325000,53,available,1000,1000
+74854740,Sạc dành cho HP Pavilion X360 11 Series Model: ad026TU (2GV32PA),3745513875352,278000,278000,0,0,available,1000,1000
+171806447,"Mực nạp VIETTONER 17A-30A hàng chính hãng (tặng kèm phễu) dùng cho hộp mực CF217A, CF230A, CRG-047, CRG-051",3139660720003,20000,20000,0,0,available,1000,1000
+185862606,Máy tính để bàn PC i5 6500 - vga rời GT 730 2GB D5 gaming văn phòng - Hàng nhập khẩu,8260321678085,5320000,5320000,0,0,available,1000,1000
+31375366,[Sét 10 cuộn] Giấy in nhiệt K80x80,5477303852073,155000,155000,0,0,available,1000,1000
+211286008,Pin phụ kiện dành cho phát wifi Huawei E5573 dung lượng 1500mAh,4540958734728,86000,86000,0,0,available,1000,1000
+76028767,USB 2.0 HOCO UD9 Insightful 8GB / 16GB / 32GB / 64GB - Vỏ kim loại cực đẹp (Hàng chính hãng),1798777880343,159000,159000,0,0,available,1000,1000
+197148356,"Màn hình máy tính SKYWORTH 27"" IPS Full HD 75Hz VESA sRGB 99% Tích hợp loa 27B1H - Hàng chính hãng",4484313989634,2630000,2630000,0,0,available,1000,1000
+87009984,"Màn Hình MSI Optix MAG251RX 240Hz (24.5 inch, 1920 x 1080, 240Hz, IPS, 1ms) -Hàng Chính Hãng",8894518099231,8990000,8990000,0,0,available,1000,1000
+223895571,Ổ Cứng SSD Adata SU650 512GB 2.5inch SATA III - Hàng Chính Hãng,5369538937374,770000,770000,0,0,available,1000,1000
+181097381,Đầu Bấm Mạng RJ45 CAT6 Golden Link – 100PCS - (100 cái/ hộp) - Hàng chính hãng,9402590239839,800000,800000,0,0,available,1000,1000
+215123575,Màn hình phẳng gaming 24 inch VSP VU241Q 2K - QHD /USB-C Type-C - Hàng chính hãng,5142332774820,4350000,4350000,0,0,available,1000,1000
+33197221,Bộ Phát Mesh Router Wifi TOTOLINK T6 AC1200 (2 pack) - Hàng Chính Hãng,3013626500059,890000,890000,0,0,available,1000,1000
+151596121,Bộ phát wifi TP-Link Archer AX55 - Hàng Chính Hãng,4127365321895,1580000,1580000,0,0,available,1000,1000
+191767693,Đầu in nhiệt dùng cho máy in hóa đơn khổ 80mm (K80) - Hàng nhập khẩu,5539188650526,740000,740000,0,0,available,1000,1000
+63635262,Bộ hạt mạng RJ45(50 cái),2154659303239,18000,18850,850,5,available,1000,1000
+112136464,"Hộp mực dùng cho máy in Canon LBP 621Cw/ 623Cdw/ MF641Cw/ 643Cdw/ 645Cx - CRG 054 BK / C / Y / M chất lượng, cartridge laser color, giá kinh tế hơn nạp mực",9292250403981,409000,440000,31000,7,available,1000,1000
+11200172,"Hộp mực 15A, hộp mực HP 1000 1200 3300MFP 3380MFP, Canon EP25",1963814058850,228000,270000,42000,16,available,1000,1000
+205930850,Mực TN-B022 dành cho Máy in Brother HL-B2000D/ DCP-B7535dw/mfc-B7715DW/B2080DW,3395080032880,112000,120000,8000,7,available,1000,1000
+145309902,Sạc nhanh đa năng 65W Baseus GaN3 Pro Desktop Powerstrip- hàng chính hãng,7935496770541,652000,689000,37000,5,available,1000,1000
+31237022,Máy tính chuyên chơi game Core i5 3470 / 16G / SSD 240G - Hàng nhập khẩu,3387284718041,2900000,2990000,90000,3,available,1000,1000
+222665328,"Bộ máy tính để bàn Dell 3040 và Màn hình Dell 22 inch Tặng bàn phím chuột , bàn di chuột - Hàng chính Hãng",1404602914956,4802000,4950000,148000,3,available,1000,1000
+222716773,Ổ cứng gắn trong Sata 2000Gb / 1000Gb/ 500Gb - Hàng Chính Hãng,4517183812109,175000,180000,5000,3,available,1000,1000
+10603668,Mực in phun Canon PG745s - Hàng chính hãng,5674315776520,310000,310000,0,0,available,1000,1000
+87167484,"Mực nạp inkMAX IM-22_Sử dụng cho: Brother TN-2280, TN-2385.  Panasonic KX-FA 88, KX-FAT 92, 411.  Xerox P255D, P265D, Hàng chính hãng",9423250108982,52000,52000,0,0,available,1000,1000
+123860034,Sound card H9 Bluetooth thu âm livestream,8387390331529,589998,589998,0,0,available,1000,1000
+125589385,Bộ Nguồn cho máy đồng bộ Dell optiplex 390 - 790 - 990 SFF,9107359133931,486000,486000,0,0,available,1000,1000
+205539458,[XẢ HÀNG ] Màn hình PC để bàn Monitor Tomko 21.5 inch FULL VIỀN  Chính hãng - BH 3 năm - Hàng Chính Hãng,1107042322337,1542000,1590000,48000,3,available,1000,1000
+68068823,Mực máy in hp neverstop laser MFP 1200w (mã mực HKC-103A),1451328282026,95000,99000,4000,4,available,1000,1000
+37891357,Màn hình AOC  27B1H/74 27 inches FHD IPS - Hàng chính hãng,7273302999294,2890000,3999000,1109000,28,available,1000,1000
+159313501,Màn chiếu tương phản cao hỗ trợ máy chiếu - Hàng Chính Hãng,3585328325690,300000,450000,150000,33,available,1000,1000
+185511132,"Cục Phát Wifi 4G CPE R8 có 4 ăng ten - Tốc Độ 300Mb - Hỗ Trợ 16 User - 1 Cổng LAN -  Nguồn điện 5V Tiện Lợi , Hoạt Động 24/24 , Màu ngẫu nhiên",2265132433113,889000,889000,0,0,available,1000,1000
+111484881,Nguồn Adapter 12V- 5A ( Kèm dây nguồn),3775174147279,87000,87000,0,0,available,1000,1000
+26218947,Dây mạng bấm sẵn 2 đầu cat5e 5M (màu ngẫu nhiên),1485889486388,22900,22900,0,0,available,1000,1000
+134598637,USB OTG SanDisk Ultra Dual Drive Type-C 3.1 (SDDDC2-G46) - Hàng Chính Hãng,9488322485305,192000,259000,67000,26,available,1000,1000
+200008469,Pin dùng cho Laptop DELL XPS 13 9343 XPS 13 9350 52WHR JD25G 0N7T6 90V7W - Hàng Nhập Khẩu New Seal,3602145595682,1021441,1184280,162839,14,available,1000,1000
+147763775,Máy in đa chức năng HP LaserJet M236dw (9YF95A)- Hàng chính hãng,1208099227560,5590000,5590000,0,0,available,1000,1000
+59250043,Tenda Bộ kích sóng Wifi A18 Chuẩn AC 1200Mbps - Hàng Chính Hãng,6196667930867,270000,660000,390000,59,available,1000,1000
+143714095,Switch Linksys LGS108- Hàng chính hãng,3430046243716,979000,979000,0,0,available,1000,1000
+202414702,Switch Cấp nguồn PoE 8 Port,7791263055338,540000,540000,0,0,available,1000,1000
+243093254,"Sạc dành cho MacBook Pro 13"" 2020 Adapter Charger A1947 A2338 A2251 A1534 A2289 Type-C 87W",7651719353884,840000,840000,0,0,available,1000,1000
+91190628,"Hộp đựng ổ cứng 2.5 inch SSD, HDD hỗ trợ 6TB,chuẩn SATA UGREEN US221 vỏ nhựa ABS - Hàng chính hãng",8526810046942,520000,637000,117000,18,available,1000,1000
+200007071,Pin cho Laptop HP Pavilion CQ40 CQ42 CQ45 DV4 DV6 - Hàng Nhập Khẩu  MIBAT60,5986235140506,360180,417600,57420,14,available,1000,1000
+142432254,SSD KINGMAX Zeus 1TB PX3480 NVMe M.2 2280 PCIe Gen 3.0 x4 - Hàng Chính Hãng,1099541368848,1750000,1750000,0,0,available,1000,1000
+20704481,"Hộp mực máy in 326, 328 in đẹp, nhập khẩu mới, dùng chung với 78a. Là Cartridge, catrich, toner dùng cho máy in Canon LBP 6200, 6230, MF 4820d, 4412, 4450, 4720w, 4870, mf4750, mf4700, D500, D520, L170",6345305681085,118900,118900,0,0,available,1000,1000
+220669499,Keo Tản Nhiệt ARCTIC MX-4 - Hàng Chính Hãng,5025871565180,169000,169000,0,0,available,1000,1000
+197072973,Bộ chuyển đổi USB Type-C sang Ethernet RJ45 Gigabit và 3 cổng USB 3.0-U1003C_HÀNG CHÍNH HÃNG,6414680700098,299000,459000,160000,35,available,1000,1000
+199009064,Bộ Phát Wifi Di Động 4G LTE TOTOLINK LR350 Phát Wifi từ Sim Hàng chính hãng,1049249437526,915000,915000,0,0,available,1000,1000
+68221371,Mực nạp máy in Ricoh - Dùng cho hộp mực máy in Ricoh SP 100/ 111/ 200/ 210/300/310,7983728494562,26900,26900,0,0,available,1000,1000
+12037628,Cáp chia nguồn SATA 1 ra 2,3773397606199,22000,22000,0,0,available,1000,1000
+192810278,Màn hình HP M24FW 2E2Y5AA 23.8Inch 75Hz IPS - Hàng Chính Hãng,5955705774177,3790000,4590000,800000,17,available,1000,1000
+9837192,"Pin Dành Cho Laptop Dell Lattitude E6400, E6410, E6500, E6510, Precision M6400, M2400, M4400, M4500 - Hàng Nhập Khẩu",5599581637835,288840,288840,0,0,available,1000,1000
+8315121,Dây Mạng Bấm Sẵn 2 Đầu CAT5  10 Mét (màu ngẫu nhiên),6905298225958,26000,26560,560,2,available,1000,1000
+56433502,Pin dành cho Laptop Dell Latitude E6440,9449186109748,428000,428000,0,0,available,1000,1000
+57047283,Sạc dành cho Laptop Asus Zenbook UX305UA Adapter 19.5V-2.37A,6300793995540,230904,230904,0,0,available,1000,1000
+57147408,"Sạc dành cho Laptop Asus X501, X501A, X501U Adapter 19.5V-3.42A",9953092769663,251489,251489,0,0,available,1000,1000
+23290826,Pin cho Laptop Dell Inspiron 3521 3421 5437 5521 3737,1998319094232,392690,392690,0,0,available,1000,1000
+21788815,"Pin Dành cho Laptop Acer Aspire V5 V5-431 V5-471 V5-531 V5-551 V5-571 E1-472, E1-572",9621197757792,289690,289690,0,0,available,1000,1000
+113331833,Sạc cho Laptop ASUS ROG Zephyrus S G14 G15 Series Laptop Charger/Adapter+Cord 3.7*6.0 230W,2606523633729,1190000,1190000,0,0,available,1000,1000
+121065787,Bộ Chuyển Đổi USB Wifi MERCUSYS MU6H Băng Tần Kép Độ Lợi Cao AC650 - Hàng Chính Hãng,5627490300765,219000,369000,150000,41,available,1000,1000
+161490007,Màn hình máy tính Dell P3421W ( 34inch WQHD 3440 x 1440 / IPS / USB Type-C ) - Hàng Chính Hãng,9347724571297,13490000,14100000,610000,4,available,1000,1000
+129650198,Đĩa DVD trắng Maxell (Hộp 50c) - Hàng Chính Hãng ,1139240181178,225000,244100,19100,8,available,1000,1000
+1713195,Bàn Phím Dành Cho Laptop Dell Inspiron 3521 3537 5521 3531 5535 5537 15R - Hàng Nhập Khẩu,5144138976778,190000,250000,60000,24,available,1000,1000
+56365639,Pin thay thế dành cho Laptop Dell Vostro 3450,2206643092138,298200,298200,0,0,available,1000,1000
+173153435,Fan Tản Nhiệt CPU  Led RGB 16 - Tự Động Đổi Màu Không Cần Hub,5833078311030,118000,127800,9800,8,available,1000,1000
+29837913,"Máy In Lazer Đa Năng Trắng Đen Brother DCP-B7535DW (Print, Copy, Scan, Duplex) - Hàng Chính Hãng",6302136186240,5450000,5690000,240000,4,available,1000,1000
+15533211,Sound card V8 có Auto Tone dành cho micro thu âm,7257683906805,189000,189000,0,0,available,1000,1000
+1605999,Máy In Ảnh Canon SELPHY CP1300 Wifi - Hàng Chính Hãng,9760575433092,3490000,3790000,300000,8,available,1000,1000
+122425966,Chai mực màu đen dành cho máy Epson,7154640745049,30000,30000,0,0,available,1000,1000
+138315916,"Giấy In Mã Vạch 2 tem, In tem Decal nhiệt 2 tem 70x22 mm ",1167019762048,35000,35000,0,0,available,1000,1000
+57483936,Soundcard âm thanh Behringer U-Phoria UMC1820-Hàng chính hãng,9076806683007,7450000,7450000,0,0,available,1000,1000
+10050407,Hộp mực in ACO CF217A/17A - Hàng chính hãng,9495548506137,750000,750000,0,0,available,1000,1000
+50477210,Nguồn máy tính Xigmatek X-POWER II 650- Hàng Chính Hãng,6964975278816,849000,849000,0,0,available,1000,1000
+117813574,Lô sấy dành cho  máy in Brother L2320D/2321D/2340DW/2360DN/2361dn/2365DW /2366dw/ MFC-L2700DW/2701d/2701dw/2720DW/2740DW,4165638686889,150000,150000,0,0,available,1000,1000
+150018210,MIK LV07 – White – Mid Tower Case_ HÀNG CHÍNH HÃNG,5183609764152,1700000,1700000,0,0,available,1000,1000
+116420484,Nguồn tổ ong 24V 20A có quạt tản nhiệt thông minh,7679193354147,363000,363000,0,0,available,1000,1000
+26107549,Miếng dán bàn phím tiếng Thái Lan (Thai Keyboard Stickers),5111499608327,38000,38000,0,0,available,1000,1000
+21095783,Thiết bị thu wifi TPLINK  TL- WN822N. - Hàng chính hãng (tốc độ 300mbps- Màu Trắng ),8527481367740,254000,254000,0,0,available,1000,1000
+11340356,Mực in phun Canon PG740 - Hàng Chính Hãng,1444553384092,480000,480000,0,0,available,1000,1000
+213521314,Bộ chia HDMI 1 ra 4 Full HD 1080 giá rẻ,7121510287537,220000,220000,0,0,available,1000,1000
+34718290,Ngăn kéo đựng tiền Siêu thị Cash HT251 ,5615953148850,590000,590000,0,0,available,1000,1000
+25556273,Cuộn Dây mạng Cat 6e ADB-Link màu xanh 305 mét - Hàng Chính Hãng,9287408678913,680000,680000,0,0,available,1000,1000
+68170002,Fiml sấy ( lụa sấy ) máy in Canon 2900/ 3300/ 6200 HP 1010/ 1005/ 2035/ 400/401( GH ),5732286033865,80000,80000,0,0,available,1000,1000
+135454674,Hộp 10 Cái Đầu Bấm Mạng Ugreen RJ45 CAT6 20333 - Hàng Chính Hãng,3441140024545,60000,60000,0,0,available,1000,1000
+178044799,Bộ Lưu Điện UPS SANTAK BLAZER2200 - PRO 2200VA/1200W - Hàng Chính Hãng,1514285523932,4500000,4500000,0,0,available,1000,1000
+184639271,BỘ đồ nghề nạp mực máy in 12 món số 1 không túi,2308459249907,220000,220000,0,0,available,1000,1000
+125433137,Sạc cho Laptop Sony Vaio SVS13 SVS15 SVF14N SVE14 - Kèm Dây nguồn - Hàng Nhập Khẩu,1255088340753,216900,236900,20000,8,available,1000,1000
+121229121,Ruột băng mực dành cho máy in Epson Lq300,7958223166008,18000,18000,0,0,available,1000,1000
+102111614,Thiết Bị Thu Phát Sóng Wifi – Aruba Instant On AP11 (Hàng chính hãng),3683956747619,2289000,2289000,0,0,available,1000,1000
+54365865,"Tủ Mạng, Tủ Rack 10U Treo Tường - TMC Rack 19”",8129428449252,1650000,1650000,0,0,available,1000,1000
+43865791,Máy chấm công thẻ giấy Okyo A08 - Hàng nhập khẩu,9503109016756,1950000,2500000,550000,22,available,1000,1000
+222683698,Lọ mực đổ DH dùng cho máy HP-5200/2035/401d/402d Canon-3300/3500/8780x,5403312881657,42000,42000,0,0,available,1000,1000
+213521606,USB thu Wifi 300Mbps cho Máy tính - card mạng wifi 300M/600M,3552087859235,80000,80000,0,0,available,1000,1000
+217342467,Hộp Mực máy photo Konica Minolta Bizhub 227 / 287/367 (TN323_322)_400g,1204332622612,378000,378000,0,0,available,1000,1000
+215746668,Usb Phát WIFI 4G LTE Di động - Hàng Chuẩn Tốc độ Cao - Bộ Phát Wifi Mini,8514836841425,316000,316000,0,0,available,1000,1000
+117093757,Pin dành cho Laptop Lenovo Thinkpad L420 L421 - Hàng Nhập Khẩu ,2378889584668,331000,381000,50000,13,available,1000,1000
+137171129,Bàn Phím Thay Thế Cho Máy Tính Lenovo G40-70 G40-30  - Hàng Nhập Khẩu,4242409631335,292500,312500,20000,6,available,1000,1000
+117093804,Pin Laptop dành cho Dell Vostro 1310 - Hàng Nhập Khẩu ,8619033408307,355000,375000,20000,5,available,1000,1000
+186000732,Bàn Phím dành cho laptop Sony SVT-13 SVT-14 MÀU ĐEN - Hàng Nhập Khẩu,5934600277668,624000,674000,50000,7,available,1000,1000
+117094152,Pin thay thế cho Laptop Dell Latitude 5270 5470 5570 62Wh - Hàng Nhập Khẩu ,7647393338936,942000,992000,50000,5,available,1000,1000
+117093528,Pin thay thế cho laptop Dell 3521 - Hàng Nhập Khẩu ,3267887259045,345000,445000,100000,22,available,1000,1000
+70633421,"Bộ bánh răng (Nhông) trung gian cụm sấy máy photocopy dùng cho Ricoh 2060, 2075, 5500, 6000, 6500, 7000, 7500, 8000, 6001, 7001, 6002, 6502, 7502, 7503",4720006659434,280000,280000,0,0,available,1000,1000
+146364782,USB thu wifi LB-LINK BL-WN151 Nano - Hàng Chính Hãng,2583008921784,71900,71900,0,0,available,1000,1000
+205516950,Loa Máy Tính PC Bluetooth Cao Cấp Sunsure M63 màn hình led cực Hay màu Gỗ sang trọng Nhỏ Gọn bảo hành 12 tháng,2115705996372,1050000,1050000,0,0,available,1000,1000
+141919550,KỆ ĐỂ MÁY CHIẾU 3 CHÂN ĐA NĂNG DI ĐỘNG,3388230253874,399000,399000,0,0,available,1000,1000
+42373861,Giấy In Ảnh Chính hãng KODAK - Siêu Mịn  Siêu Bóng- 230gsm - High Glossy,8091928650349,35000,35000,0,0,available,1000,1000
+249997438,"Giấy in tem kính mắt cho máy in tem nhiệt Xprinter XP 350B, Tem gọng kính - Giấy in nhiệt cuộn 30m",7756221952344,70000,70000,0,0,available,1000,1000
+117095066,Pin dành cho Laptop Dell Vostro 3468 3568 Model M5Y1K cho máy chạy chip intel gen 7 8 9 - Hàng Nhập Khẩu,4723834529950,568000,590000,22000,4,available,1000,1000
+117093368,Pin dành cho Laptop Acer Aspire E5-473 - Hàng Nhập Khẩu ,1086270477278,639000,689000,50000,7,available,1000,1000
+142369953,"Máy in nhiệt DP23 in bill, tem nhãn mã vạch cầm tay bluetooth - hỗ trợ nhiều mẫu cho điện thoại",2876238388736,1500000,1500000,0,0,available,1000,1000
+195510725,Màn hình LCD HP P204v 5RD66AA - Hàng chính hãng,2694638053085,2640000,3168000,528000,17,available,1000,1000
+102780789,Mực in màu  G1010 bộ 4 màu đen xanh đỏ vàng,8347122043806,145000,145000,0,0,available,1000,1000
+109890379,Ổ ghi đĩa DVD RW Cổng USB cắm ngoài cho Laptop,6582368829344,235000,320000,85000,27,available,1000,1000
+230171811,Ví lạnh SafePal S1 - Hàng nhập khẩu Binance SafePal,2022111150773,1490000,1490000,0,0,available,1000,1000
+83663607,Kaspersky Internet Security - Multi-Device - 5 DVC PP Chính hãng,9658583781107,855000,900000,45000,5,available,1000,1000
+125579213,"DÂY MẠNG 5m, 10m, 15m, 20m ,25m dây mạng đã bấm 2 đầu",3587814421460,25900,25900,0,0,available,1000,1000
+93239845,Card Màn Hình MSI Geforce GT 1030 2GD4 LP OC - Hàng Chính Hãng ,3477429400451,2250000,2250000,0,0,available,1000,1000
+170989410,"Bộ lưu trữ mạng NAS Synology DS220+ CPU 2-core 2.0GHz, RAM 2 GB, LAN 2x 1GbE, 2 khay ổ cứng - Hàng chính hãng",8958771457867,8490000,8690000,200000,2,available,1000,1000
+214908408,Mực Chai CF217A/CF230A - Dùng cho máy HP M102/130A( CF217A) ,4945649307481,20000,20000,0,0,available,1000,1000
+195714841,"Bộ lưu điện UPS CyberPower VALUE Pro VP1000ELCD - 1000VA/550W - Tích hợp điều khiển Nas, Màn hình hiển thị LCD, dòng sản phẩm cao cấp - Hàng Chính Hãng",6248036264112,2990000,3390000,400000,12,available,1000,1000
+145232831,Cục Phát Wifi 4G Netgear Jetpack MiFi 8800L - Tốc độ 4G lên tới 12Gbps - Hàng nhập khẩu,8026371721691,2900000,2900000,0,0,available,1000,1000
+220671265,"Giấy in tem, decal nhiệt 2 hàng tem (cuộn 2000 tem), Giấy in mã vạch 35x22mm, 70x22mm, 72x22mm",9392437578023,36000,50000,14000,28,available,1000,1000
+125581398,Dây mạng LAN RJ45 internet 2M - 3M - 5M - 10M bấm sẵn 2 đầu,1523540055396,19500,19500,0,0,available,1000,1000
+138315871,"100 cuộn giấy in nhiệt, giấy in bill k57x45, giấy in hóa đơn k57",7529942653820,390000,390000,0,0,available,1000,1000
+48923082,Phần mềm Norton Security - 1 year 1 user - chính hãng ,5087852327009,350000,350000,0,0,available,1000,1000
+1713049,Bàn Phím Dành Cho Laptop Toshiba Satellite L600 L640 L645 C640 C600 C645 - Hàng Nhập Khẩu,3635588934514,175000,230000,55000,24,available,1000,1000
+195861449,"Ví cứng tiền mã hóa Ledger Nano X, hàng nhập khẩu Pháp",6883559454057,3890000,3890000,0,0,available,1000,1000
+182308659,USB Hikvision M200 8G - Hàng chính hãng,6466630772476,65000,65000,0,0,available,1000,1000
+129540429,Dây nguồn AC số 8 ,6343746846177,34300,35000,700,2,available,1000,1000
+22400934,AVERMEDIA GC513 ULTRA HD 4K CAPTURE VIDEO- Hàng chính hãng,1869388803233,4600000,4600000,0,0,available,1000,1000
+102947935,Giấy in mã vạch 2 tem 35x22,4503747399091,26800,26800,0,0,available,1000,1000
+59392986,Hộp mực in SAHA 12A/FX9 cho máy in Laser HP. Canon - Hàng chính hãng,3032285651988,155000,155000,0,0,available,1000,1000
+132837642,Máy đo công suất quang MT-7615 - 4in1 - soi 15KM,7588724596277,682000,682000,0,0,available,1000,1000
+199583260,CPU Intel Core i5 10400F 2.9GHz Không GPU Socket 1200/6 nhân/12 luồng/12MB - Hàng chính hãng,4421570369672,2606000,2606000,0,0,available,1000,1000
+35239842,Set 10 cuộn giấy in tem mã vạch 60*40mm,3681783365493,290000,290000,0,0,available,1000,1000
+15257150,"Dây nguồn UPS, PDU, Server , dây nguồn máy tính chuyên dụng C13, C14 hai đầu đực, cái 3Gx0.75mm dài 2m lõi đồng nguyên chất",8926077280607,75000,75000,0,0,available,1000,1000
+77917036,Nguồn Corsair HX1000 1000W (80 Platinum/Màu Đen/Fulfl Modul) -Hàng Chính Hãng,1243078971243,5280000,5280000,0,0,available,1000,1000
+200780041,"Màn hình ViewSonic VA2209-H 22"" IPS FHD 75Hz viền mỏng - HÀNG CHÍNH HÃNG",1128084074217,2250000,2250000,0,0,available,1000,1000
+230203528,Bộ chuyển đổi quang điện TP-Link MC112CS - Hàng Chính Hãng,5636566235169,759000,759000,0,0,available,1000,1000
+208120467,"MÀN CHIẾU ĐIỆN TREO TƯỜNG TỰ ĐỘNG CÓ REMOTE 120 INCH - 2,13MX2,13M - P84ES HÀNG NHẬP KHẨU",5039333633469,1249000,1249000,0,0,available,1000,1000
+575389,Hộp Đựng Ổ Cứng Di Động HDD Box ORICO 2189U3 USB3.0/2.5 Nhựa Cứng - Hàng Chính Hãng,3360744931174,139880,179000,39120,22,available,1000,1000
+125935609,Mainboard H110 ddr4 socket 1151  mới đẹp,3494451440213,380000,380000,0,0,available,1000,1000
+135496562,Đầu chia LAN RJ45 UGREEN CM210 50923 - 1 cổng ra 2 cổng - hàng chính hãng,6420681401699,162000,162000,0,0,available,1000,1000
+243145877,Vỏ máy tính Case VSP T510 [ĐEN] ~ không kèm FAN (ATX/Micro ATX)  - Hàng chính hãng TECH VISION phân phối,9003393318563,554000,554000,0,0,available,1000,1000
+247662345,"Màn hình cong Samsung LS24C360EAEXXV ( 24"" VA / FDH / 75Hz / 4ms / D-Sub / HDMI ) - Hàng Chính Hãng",7330773845035,2760000,3290000,530000,16,available,1000,1000
+177278960,"Màn hình máy tính Gaming Samsung Odyssey LS27AG320NEXXV ( 27 Inch FHD VA (1,920 x 1,080) 165Hz / 1ms / DP / HDMI / Jack Audio 3.5 / Freesync ) - Hàng Chính Hãng",8770482224658,5380000,6390000,1010000,16,available,1000,1000
+204942121,"Bộ vi xử lý Intel CPU Core i5-8400/ i5 6500/ i5 4570/ i5 3470 / i5 2400  3.20GHz , 4 lõi 4 luồng , 4MB Cache Socket Intel LGA 1151 Hàng Chính Hãng",4221436958902,377000,389000,12000,3,available,1000,1000
+23820137,"Thùng CPU Dell optiplex  Core i7 2600, ram 8gb, ổ cứng ssd 120gb. Hàng Nhập Khẩu",5770145994643,2571000,2650000,79000,3,available,1000,1000
+24969297,"Màn Hình Máy Tính DELL 22 Monitor P2217 22"" - Hàng Chính Hãng",9910100293237,1930000,3500000,1570000,45,available,1000,1000
+253059157,Bộ Máy tình Để Bàn Dell X020 ( Core i7 - 4770 / Ram 8GB / SSD 240GB / Card hình Quadro K620- 2Gb) Và Màn hình Dell U2419H và Bàn Phím chuột Dell - Dòng Dùng Đồ Họa cao cấp - Hàng chính hãng,4408060338937,4462000,4600000,138000,3,available,1000,1000
+172802609,"Laptop Lenovo 100e Gen 2 N4020/4GB/64GB eMMC/Intel UHD Graphics 600/11.6""HD/Win 10 Pro - HÀNG CHÍNH HÃNG",8979190300209,4646000,4790000,144000,3,available,1000,1000
+214717379,"Mực nạp dành cho máy in Brother HL-L2361DN, 2321, 2366, 2701D, 2701DW",3814594142360,30000,30000,0,0,available,1000,1000
+196913162,Laptop Lenovo ThinkPad T450s Core I5-5200U – Ram 8GB – SSD 256GB – Intel HD Graphics 5500 - MH 14″ HD - HÀNG CHÍNH HÃNG,1216447710256,4019000,4930000,911000,18,available,1000,1000
+122222084,"Hộp mực in màu xanh 119A C/W2091A (không chip) cho máy in HP Color Laser 150a, HP Color Laser 150nw, HP Color Laser MFP 178nw, HP Color Laser MFP 179fnw - hàng nhập khẩu",7137477464370,189000,189000,0,0,available,1000,1000
+246168019,Mac mini M2 2023,1656516083442,15590000,19990000,4400000,22,available,1000,1000
+35776240,Box chuyển ổ cứng di động SSK HE-V600 chuẩn 3.0 - Hỗ trợ đến 5Gbps (xám) Hàng Nhập Khẩu,6773354452224,195000,195000,0,0,available,1000,1000
+67911084,"10 cuộn giấy nhiệt in bill, in hóa đơn (thermal paper) TOPCASH khổ K57mm x 38mm dùng cho máy cà thẻ ngân hàng, máy in cầm tay, máy tính tiền POS cầm tay Now Delivery / Grab / Gojek - Hàng chính hãng",8733016170673,39500,65000,25500,39,available,1000,1000
+121242205,Box đựng ổ cứng 2.5 sata cổng USB 3.0 Ugreen 30847-Hàng chính hãng.,3790845945707,179000,179000,0,0,available,1000,1000
+20680434,"Hộp mực máy in 05a in đẹp, nhập khẩu mới. Là Cartridge, catrich, toner dùng cho máy in HP p2035, p2055dn, p2035n, 2055d, p2055d",1163433063970,168000,168000,0,0,available,1000,1000
+205741562,[CÓ SẴN CHIP] Hộp mực 107A dùng cho máy in HP 107A/ 107w/ 135A/ M135w/ 137fnw,5832578361836,325000,330000,5000,2,available,1000,1000
+19740582,"Rệp nối cáp mạng, rệp nối cáp thoại (100 hạt/hộp)",4552537624847,67000,67000,0,0,available,1000,1000
+187217179,(Chính hãng Asta)Hộp mực in laser màu đen/xanh/vàng/đỏ ACO CRG 054 (BK/C/Y/M)-Hàng chính hãng,7367858687622,342000,342000,0,0,available,1000,1000
+125046635, SSD Crucial MX500 3D NAND 2.5-Inch SATA III 1TB CT1000MX500SSD1- HÀNG CHÍNH HÃNG,1824792978471,3500000,3500000,0,0,available,1000,1000
+122326314,Máy in phun đa chức năng Canon TS6370- Hàng chính hãng,3452374304127,5610000,5610000,0,0,available,1000,1000
+10913824,"Hôp mực 85A/35A, canon 325 được sử dụng cho máy in HP-P1102,P1102w,M1212NF,M1132,p1005,p1006, canon lbp 6030, 6030w, 6000, mf 3010.",4020972517654,119000,119000,0,0,available,1000,1000
+74573466,"Hộp mực in HP 05A, 80A, Canon 319 máy in Hp: P2035/P2055/Pro 400 Printer M401/M425, Canon: 6300DN/6650DN/6750...",6048607144844,175000,175000,0,0,available,1000,1000
+204871986,Màn hình Dell S2722DC 27inch QHD 4ms 75Hz IPS - Hàng Chính Hãng,3198740176459,8550000,8990000,440000,5,available,1000,1000
+405252,USB Kingston DT100G3 - 64GB - USB 3.0 - Hàng Chính Hãng,6108392509751,145000,249000,104000,42,available,1000,1000
+20637248,"Hộp mực máy in Canon 3300, 308 in đẹp, nhập khẩu mới. Là Cartridge, catrich, toner dùng cho máy in Canon LBP 3300",8555380674768,198000,198000,0,0,available,1000,1000
+125428218,"Đầu đọc dữ liệu ổ cứng: 2.5"""" SATA 3 USB 3.0 Orico 20UTS-BK Hàng Chính Hãng",2481374006754,138000,180000,42000,23,available,1000,1000
+63183906,Ổ Cứng Di Động HDD WD My Passport Ultra 5TB - Hàng Nhập Khẩu,1331484518217,3800000,4200000,400000,10,available,1000,1000
+34159103,"Bàn Phím Bluetooth cho điện thoại, máy tính bảng, iphone, ipad thông minh",3333333848030,114000,124400,10400,8,available,1000,1000
+99667879,Sạc dành cho Laptop Lenovo Ideapad (Các model) 65W 20V 3.25A chuẩn chân nhỏ 4.0 x 1.7mm,7909937672417,349000,349000,0,0,available,1000,1000
+21574865,Pin cho Laptop Asus K43E X53S K53S X54C K54C X44H,3648171528564,286490,286490,0,0,available,1000,1000
+44602406,Sạc cho Laptop Dell Latitude E6410  E6400 E6420 E4300 E5420,5365795724001,215000,265000,50000,19,available,1000,1000
+15245131,Quạt Tản Nhiệt 220VAC 12x12x3.8Cm Cao Cấp,4249105515354,104000,104000,0,0,available,1000,1000
+22179387,Bộ thiết bị kích sóng wifi 3 râu MERCURY - Hàng Nhập Khẩu,1721359481454,191000,191000,0,0,available,1000,1000
+14642163,Bộ Kích Wifi Mecury,9060756484371,236500,236500,0,0,available,1000,1000
+8315202,Dây Mạng Bấm Sẵn 2 Đầu CAT5  20 Mét (màu ngẫu nhiên),5043510588113,35530,35530,0,0,available,1000,1000
+86164513,Bàn phím dành cho Laptop HP 15-bs Series,6968493466868,250000,250000,0,0,available,1000,1000
+56606148,Sạc dành cho Laptop HP Probook 450G4 Adapter 19.5V-3.33A,6973677621219,299000,329000,30000,9,available,1000,1000
+51326676,"Hộp mực 17A sử dụng cho máy HP LaserJet Pro M102a , M102w, M130a, M130fn, M130fw, M130nw",7422862352838,145000,145000,0,0,available,1000,1000
+109339385,Pin dành cho Laptop Dell Latitude E5450 E5470 E5550 E5570 6MT4T 62Wh,7676862324680,800000,800000,0,0,available,1000,1000
+109080718,Sạc cho Laptop Lenovo IdeaPad 530 530S Series 530S-14IKBR 530S-14IKB,1039111197216,334996,334996,0,0,available,1000,1000
+53184762,Tản nhiệt khí CPU RGB Jonsbo CR-1000 - Hàng Chính hãng,7187527549892,311000,311000,0,0,available,1000,1000
+116577418,Giá đỡ Led Coolmoon GH2 chống xệ cong chân cho VGA - hàng nhập khẩu,7942486397827,205000,205000,0,0,available,1000,1000
+24418785,Box ổ cứng trong suốt 2.5 inch chuẩn SATA USB3.0 2139U3,7092460074823,100000,100000,0,0,available,1000,1000
+171233544,Lô sấy dành cho máy in canon 2900 3000 1020,8930206264730,80000,80000,0,0,available,1000,1000
+144354811,Chai mực vàng dành cho máy Epson L805 / L850 / L1800 / L810 / L800,2828382212859,110000,110000,0,0,available,1000,1000
+171233554,BO NGANG ECU DÀNH CHO MÁY IN CANON 2900,4241693291273,180000,180000,0,0,available,1000,1000
+208766959,USB Kingston DataTraveler 101 2GB,7727218343426,99000,99000,0,0,available,1000,1000
+173627054,Mực đổ dùng cho máy photo ricoh mp4054/5054/3054/6054,4154391878088,400000,400000,0,0,available,1000,1000
+130432566,"Nhãn in 1, Khổ rộng 12mm, chữ đen nền đỏ ( Black on red), nhãn đa lớp, bám dính cao",8746746269314,140000,140000,0,0,available,1000,1000
+207723368,Chuột chơi game không dây Logitec G304 giá rẻ,4861924230802,99000,99000,0,0,available,1000,1000
+117095462,Pin dành cho Laptop Asus K45A - Hàng Nhập Khẩu ,4649934587372,324000,374000,50000,13,available,1000,1000
+137169702,Bàn phím dành cho Lenovo Idepad G40-70 G4070 - Hàng Nhập Khẩu,5845233833694,246000,296000,50000,17,available,1000,1000
+117092970,Pin dành cho Laptop DELL XPS 13 9370 DELL XPS 13 9380 - G8VCF 0H754V DXGH8 - Hàng Nhập Khẩu,3227601128820,1344000,1394000,50000,4,available,1000,1000
+193617555,Mực photo màu Ricoh MPC 2003/C3003/C6003/C2503/C3503/C4503/C5503/C2011/C2004 - hàng nhập khẩu,8897568406772,685000,685000,0,0,available,1000,1000
+10308656,Nhãn in siêu dẻo HZe-FX441,6261582086958,180000,180000,0,0,available,1000,1000
+33734471,Đầu Đọc Mã Vạch Đa Tia 2D Để Bàn Honeywell HF600 - Hàng Chính Hãng,6508421635978,2250000,2250000,0,0,available,1000,1000
+137171747,Bàn phím dành cho Laptop Toshiba Satellite L770 L775 - Phím Zin - Hàng Nhập Khẩu,3708541081275,267000,317000,50000,16,available,1000,1000
+150931404,Giấy in ảnh NTS A4 1 mặt 115gsm 100 tờ/ xấp,3668833811548,90800,90800,0,0,available,1000,1000
+199624128,Thiết bị chia mạng Switch TP-Link LS1008 8 cổng - Hàng chính hãng,9719963707597,191000,199000,8000,4,available,1000,1000
+186078120,Máy in màu Laser HP 150nw/Wifi (4ZB95A)- Hàng chính hãng,2649280162929,6890000,8268000,1378000,17,available,1000,1000
+136796489,Bộ chia quang PLC 1x2 SC/APC,8242497339134,68000,68000,0,0,available,1000,1000
+104070204,Nguồn adapter 12v 1a,1351020909712,55000,55000,0,0,available,1000,1000
+191123325,Màn hình Cong Kvision 27 inch GM271VNG - Tấm nền PLS - FUll HD 1920x1080 - Chống Lóa - Tần số 75Hz New FullBox - Hàng Chính Hãng,4454009619727,2586000,2850000,264000,9,available,1000,1000
+4319355,Hộp mực Thuận Phong NPG 28 / 59 dùng cho máy photocopy Canon IR 2016/ 2018/ 2020/ 2022/ 2030/ 2002/ 2004 - Hàng Chính Hãng,6992536732552,380000,380000,0,0,available,1000,1000
+49904752,Dây nhảy quang LC-FC ( FC-LC ) dài 3M Single Mode Simplex,1656002416043,35000,35000,0,0,available,1000,1000
+139268847,Bánh răng tranfer belt máy photocopy Ricoh 1060/1075/2051/2060/2075/5500/6500/7500/6000/7000/8000/6001/7001/8001//6002,5988339601958,135000,135000,0,0,available,1000,1000
+208120476,"MÀN CHIẾU ĐIỆN TỬ TREO TƯỜNG TỰ ĐỘNG 136 INCH - 2,44M X 2,44M - P96ES HÀNG NHẬP KHẨU",9026941412044,1580000,1580000,0,0,available,1000,1000
+21057049,"Bộ 6 chai mực bơm cho máy in phun Epson màu chuẩn, bảo vệ đầu phun (Mực nước nạp, đổ cho máy in Inkjet Ink Epson)",6889061138273,184000,184000,0,0,available,1000,1000
+185718448,"Máy quét mã vạch Bluetooth YHD 6200DB 2D đọc mã Barcode (1D) Qrcode (2D) kết nối không dây dùng trên Điện thoại, Máy tính - Hàng Nhập Khẩu",9468259193266,1499000,1900000,401000,21,available,1000,1000
+222678661,"Dây usb máy in nhiệt, máy in hóa đơn, máy in màu, máy in laser, máy in mã vạch dài 1.5m",2816473617593,15000,15000,0,0,available,1000,1000
+708952,Router Wifi Chuẩn N Mercusys MW155R (150Mbps) - Hàng Chính Hãng,7509501588688,179000,179000,0,0,available,1000,1000
+205059171,"Sound Card Thu Âm online, Livestream, Hát Karaoke V8 V8S - Bluetooth Pin Sạc USB Audio Interface Soundcard Auto Tune",9246277636017,225000,225000,0,0,available,1000,1000
+190321017,Adapter nguồn cho màn hình HP 19V,1754849351673,200000,200000,0,0,available,1000,1000
+217342594,"Ru Lô sấy trên máy photo Sharp  5520, 5516, 5316, 5618, 5320, 5623/5015, 5115, 5120,5620 (AR 270/358)/6018/6020/6023",3116594030644,238000,238000,0,0,available,1000,1000
+181808741,Combo 100m Cáp Quang Bấm Sẵn + Cặp Converter 100Mbps + Kèm Phụ Kiện,6868801465800,621000,621000,0,0,available,1000,1000
+205891612,Vỏ Case máy tính Venus 312,7200191652051,160000,160000,0,0,available,1000,1000
+117094429,Pin cho Laptop Dell Vostro V131 Inspiron 13Z N311z 14Z N411z - Hàng Nhập Khẩu ,5814540149497,354900,374900,20000,5,available,1000,1000
+137169678,Bàn phím dành cho Laptop Lenovo Ideapad B490 - Hàng Nhập Khẩu,3729603698580,207000,257000,50000,19,available,1000,1000
+173640815,Ugreen 40171 Cáp mạng Cat8 dài 2m 40Gbps 2000mhz dây dẹt Nylon Braided Màu Đen Hàng chính hãng,7454032652847,208000,208000,0,0,available,1000,1000
+73568332,"Máy hút mực, hút bụi vệ sinh máy in, máy photocopy và các máy văn phòng",5769991557782,2700000,2700000,0,0,available,1000,1000
+67827661,USB Verbatim OTG Type C USB 3.0 32GB - Hàng chính hãng,3333030251966,159000,290000,131000,45,available,1000,1000
+249022225,"Màn hình máy tính Dell E1916HV ( 19"" 1366 x 768 at 60 Hz / VGA / 5ms ) - Hàng Chính Hãng",7905831791863,1178100,1190000,11900,1,available,1000,1000
+199709609,Bộ Vi Xử Lý CPU Intel Core i3 10105F - Hàng Chính Hãng,5157486408980,1790000,1790000,0,0,available,1000,1000
+169922418,Cổng USB mini 5P chân cắm/chân dán,5362761081412,1940,1940,0,0,available,1000,1000
+216371858,Dây cáp mạng dây mạng Lan bấm sẵn 2 đầu Cat 5E 01.5M 2M 3M 5M cao cấp bền bỉ ổn định giao màu ngẫu nhiên,8047021437507,6300,9000,2700,30,available,1000,1000
+207282431,"Máy dò dây mạng, dây thoại NF- 806R, test thông mạch cáp mạng, cáp điện thoại , dò tìm dây âm tường",8548516609225,850000,850000,0,0,available,1000,1000
+252178591,"Cụm drum 19A - Cụm trống 19A (hàng nhập khẩu) dùng cho máy in HP Laserjet M102, M102A, M102W, M130, M130A, M130FN, M130FW, M130NW - Canon LBP 112, LBP 113w - Drum Unit CF219A mới 100%",9684963314886,170000,170000,0,0,available,1000,1000
+175526036,"Hộp Đựng Ổ Cứng Gắn Ngoài HDD,SSD Box SATA USB 3.0 (2.5-inch) ( Tặng kèm bao da đựng box)",8575532989479,169000,199000,30000,15,available,1000,1000
+38147216,Giấy in tem mã vạch khổ 50*50mm cuộn 30m,7710136881505,19800,19800,0,0,available,1000,1000
+171233483,Khay giấy vào dành cho Canon 2900 - 3000,5718809713612,50000,50000,0,0,available,1000,1000
+249772459,"Hộp mực CE285A cho HP P1102, P1102W, M1132 MFP, M1210, M1212, M1130, Canon MF3010",8402653952085,148500,165000,16500,10,available,1000,1000
+130769123,Modem GSM 16-32 cổng tiếp nhận / tiếp thị sử dụng để gửi SMS,8520382656471,5500000,5500000,0,0,available,1000,1000
+115269605,USB thu sóng Wifi cho máy tính để bàn có Anten,5176307013040,43900,43900,0,0,available,1000,1000
+198490494,Giấy In Ảnh A4 - 2 mặt,2793575241357,71100,71100,0,0,available,1000,1000
+184588373,Máy in laser đen trắng đa chức năng HP 137fnw - 4ZB84A - Hàng chính hãng,2424717278293,4389000,4389000,0,0,available,1000,1000
+73366064,Cuộn 500m Dây Cáp Quang 1FO (Sợi Cáp Dẹt),5969284071302,495000,495000,0,0,available,1000,1000
+215141173,Mực nạp DT121 - Dùng cho máy photocopy  Toshiba E600/720/810/850/855/857 (1kg),6345304149259,201000,201000,0,0,available,1000,1000
+212357626,"Bộ lưu điện UPS CyberPower VALUE Pro VP1200ELCD - 1200VA/720W - Tích hợp điều khiển Nas, pc, Màn hình hiển thị LCD, dòng sản phẩm cao cấp - Hàng Chính Hãng",4214689445754,3590000,4650000,1060000,23,available,1000,1000
+220671251,"Thùng 50 cuộn giấy in nhiệt, Giấy in bill, Giấy in hóa đơn 80x80mm",3185738012976,920000,1200000,280000,23,available,1000,1000
+186270895,Phần mềm diệt virus Bitdefender Total Security 5PC1Y - Hàng chính hãng,9138291007596,479000,1290000,811000,63,available,1000,1000
+205529455,Sound Card K500 có Bluetotoh Auto-tune Đèn Led Hỗ Trợ Dòng 5V Phù Hợp Cho Các Mic Thu Âm Tích Hợp Pin,2998556144069,430000,430000,0,0,available,1000,1000
+108954644,Bộ Thu Sóng Wifi USB - không ăn ten,6909831937979,40000,40000,0,0,available,1000,1000
+193549202,máy in bluetooth A4-A5 cầm tay kết nối được tất cả các dòng điện thoại-latop-pc-máy tính bảng androi và ios pin lithium 30000 mah cổng sạc typec tốc độ in nhanh 20 tờ/1p nhỏ gọn tiện lợi dễ dàng mang đi sử dụng không cần đến nguồn điện 220v mực lưu 10 năm,1395306241595,2852000,6000000,3148000,52,available,1000,1000
+177562198,Nguồn Cooler Master MWE 700 700W 80 Plus Bronze V2 230V - Hàng Chính Hãng,4152197289998,1495000,1495000,0,0,available,1000,1000
+13114633,Màn Hình AOC 22B1HS 22 inch (1920x1080) Full HD 5ms 60Hz IPS - Hàng Chính Hãng,8074348556217,2350000,2350000,0,0,available,1000,1000
+250496151,Ram Máy Tính ADATA XPG SPECTRIX D50 RGB 8GB DDR4 3200MHz (AX4U320038G16A-ST50) - Hàng Chính Hãng,3041106961496,1050000,1050000,0,0,available,1000,1000
+8105301,Màn Hình Dell P2418HT 24 inch IPS Full HD Cảm Ứng - Hàng Chính Hãng,1520010055795,8700000,8700000,0,0,available,1000,1000
+163928170,Bo Mạch Chủ Mainboard Mainboard Gigabyte B660M A PRO AX DDR4 - Hàng Chính Hãng,7682744633879,4490000,4490000,0,0,available,1000,1000
+248798031,Vỏ máy tính Case VSP OMG [XANH] ~ Gaming LED II-ATX - Hàng chính hãng TECH VISION phân phối,3941374556626,654000,654000,0,0,available,1000,1000
+32859534,"Giấy in nhiệt, in mã vạch, in dán tem phụ, in tem cân 58x40mm",7838444073013,29000,29000,0,0,available,1000,1000
+221807085,Màn hình Cong K-VISION  - độ phân giải FUll HD 1920x1080 - Chống Lóa - Tần số 75Hz - Hàng Chính Hãng,2460417729445,1699000,1990000,291000,15,available,1000,1000
+262304617,Máy tính chơi game ( Main H61/ Core i7 / core i5 / ram 8gb / ssd 120gb/ HDD 500GB / card màn hình 4gb NEW) và màn hình 22 inch tặng bàn phím chuột - Hàng Chính Hãng,2930141122184,5083000,5240000,157000,3,available,1000,1000
+193439213,Ổ cứng Silicon Power M.2 2280 PCIe SSD A60 512GB - Hàng chính hãng,4745611396946,750000,910000,160000,18,available,1000,1000
+222562256,Bộ Máy Tính Để Bàn Dell Optiplex  ( Corei5 -2400 / 8gb /SSD 120GB ) Và Màn Hình Dell 18.5 Inch - Tặng Ngay Bàn Phím Chuột + Lót Chuột + USB Wiif. - Hàng Nhập Khẩu,6021770702183,3729000,4390000,661000,15,available,1000,1000
+225960182,"Màn hình máy tính K-vision - Chuyên dùng cho học tập , văn phòng , bán hàng - Hàng chính hãng",5598976352390,1249000,1530000,281000,18,available,1000,1000
+225208138,Nguồn Máy Tính Asus Tuf Gaming 750B - 750W 80 Plus Bronze Non Modular - Hàng Chính Hãng,3309963684372,1736000,2499000,763000,31,available,1000,1000
+247436625,Laptop Asus Zenbook i5-1240P/8GB/512GB/Win11 UX3402ZA-KM220W - Hàng chính hãng,9604524338184,20990000,26990000,6000000,22,available,1000,1000
+247656230,Laptop Asus Vivobook i3-1220P/8GB/256GB/Win11 X1402ZA-EB100W - Hàng chính hãng,5884142611680,10990000,13490000,2500000,19,available,1000,1000
+257780423,Quạt tản nhiệt điện thoại Memo CX04 sò lạnh từ tính - Quạt hạ nhiệt không dây có led RGB tương thích nhiều thiết bị - Hàng nhập khẩu,6719871205953,318000,450000,132000,29,available,1000,1000
+202258575,Nguồn Thermaltake Litepower RGB 650W - Hàng chính hãng,5726481664791,990000,1350000,360000,27,available,1000,1000
+47514139,Cáp mạng Cat6 UTP đúc sẵn 2 đầu dài 1m đến 10m Vention - Hàng chính hãng,8025661640886,55000,55000,0,0,available,1000,1000
+175425776,Ví lạnh Ledger Nano S Plus - Nhập khẩu Pháp,2363350532728,2190000,2190000,0,0,available,1000,1000
+214598278,"Mực Epson 664 màu đen xanh đỏ vàng dành cho máy Epson L110, L120, L210, L310, L360, L350, L405",2445644182938,80000,80000,0,0,available,1000,1000
+247718667,Máy tính xách tay - Laptop Asus ExpertBook B1500 (Chip Intel Core i5-1235U | RAM 8GB | SSD 512GB NVMe | 15.6' Full HD | Bảo mật vân tay | Bảo mật TPM 2.0 | Độ bền chuẩn quân đội US) - Hàng Chính Hãng,2127065129612,14990000,21090000,6100000,29,available,1000,1000
+200009564,Pin dùng cho Dell Inspiron 15 7566 7567 7557 7000 Series - Hàng Nhập Khẩu New Seal,4403188189832,921046,1067880,146834,14,available,1000,1000
+481615,Máy In Laser Đơn Năng Canon LBP 6230DN Duplex / Network - Hàng chính hãng,8503597864298,4599000,4599000,0,0,available,1000,1000
+187188650,Bộ chia mạng lan 5 8 cổng Mercusys MS105G MS108G switch 5 port 8 port gigabit 10/100/1000 Mbps - Hàng chính hãng,2557332183489,289000,289000,0,0,available,1000,1000
+107362077,Bộ Chuyển Đổi Card Mạng Wifi TP-Link Archer T2E PCIe Băng Tần Kép AC600 - Hàng Chính Hãng,8211290534942,439000,699000,260000,37,available,1000,1000
+76198752, Router Wifi Chuẩn N 300Mbps TP-Link TL-WR844N  - Hàng Chính Hãng,7239872780823,269000,589000,320000,54,available,1000,1000
+201934939,Mực nạp 35A/78A/83A/85A/337/312 dùng cho máy in HP 1005/1006/1102 - Canon 3050/6000/6030/6030w/6200d/6230dn/mf 241d ...,5778214915083,21000,21000,0,0,available,1000,1000
+56951056,"CPU Intel Core i5-10400F (2.9GHz turbo up to 4.3Ghz, 6 nhân 12 luồng, 12MB Cache, 65W) - Socket Intel LGA 1200 - Hàng Chính Hãng",4480483459933,2590000,2590000,0,0,available,1000,1000
+200009149,Pin dùng cho Laptop Acer Aspire 4752 4752Z 4752G - Hàng Nhập Khẩu  MIBAT366,6229630390958,360180,417600,57420,14,available,1000,1000
+172960162,"Ổ cứng Seagate One Touch HDD 5TB 2.5"" USB 3.0 + Giải cứu Dữ liệu miễn phí_Hàng chính hãng",6610764227239,5390000,5390000,0,0,available,1000,1000
+200026745,Bàn Phím cho Laptop Asus K45A  - Hàng Nhập Khẩu,8952805072077,205861,238680,32819,14,available,1000,1000
+52054902,"Hộp mực 26A - Hộp mực HP M402d, M402n, M402dn, M426dw, M426dw,...CF 226A ",7322238408179,169000,169000,0,0,available,1000,1000
+11224567,Ổ cứng gắn trong SSD Crucial MX500  500GB 2.5 inch Sata III CT500MX500SSD1 - Hàng Nhập Khẩu,5106236176825,1050000,1140000,90000,8,available,1000,1000
+150167422,Dây cáp mạng đúc sẵn 2 đầu Cat6 SSTP - Hàng chính hãng Vention độ dài 1m - 30m,4177038625412,75000,98000,23000,23,available,1000,1000
+203810780,Laptop HP ProBook 450 G9 6M107PA (i7-1260P/ 16Gb/ 512GB SSD/ 15.6FHD/ VGA ON/ Win 11/ Silver) - Hàng Chính Hãng,2508547662553,24990000,27090000,2100000,8,available,1000,1000
+74342203,Hộp mực in laser W1107A (không chip) dùng cho máy in HP Laser 107a/107w/MFP 135a/MFP 135w/MFP 137fnw - Hàng nhập khảu,4413003883406,190900,190900,0,0,available,1000,1000
+149485922,Hệ Thống Wifi Mesh Mercusys Halo H50G Dành Cho Gia Đình Chuẩn AC1900 - Hàng Chính Hãng,8855684578836,1299000,1999000,700000,35,available,1000,1000
+201965118,Combo 3 chai mực nạp 107A (W1107A) cho máy in Hp 107A 107w 135A 135w 137fnw ...,6024806910334,81000,81000,0,0,available,1000,1000
+186161528,Quạt tản nhiệt Brushless 12V đủ kích thước 4x4/5x5/6x6/8x8/9x9/12x12cm,4049048221647,19000,19000,0,0,available,1000,1000
+448543,Ổ Cứng Camera WD Purple 1TB/64MB/3.5 IntelliPower WD10PURZ/WD10PURX - Hàng Chính Hãng,1428651698114,920000,1150000,230000,20,available,1000,1000
+197648114,Bo Mạch Chủ Main Gigabyte H510M-H socket LGA1200 - Hàng Chính Hãng ,6239075441286,1750000,1750000,0,0,available,1000,1000
+110736166,"Dây cáp mạng đúc sẵn 2 đầu Cat 7 Vention dạng dẹt, hỗ trợ tốc độ 10Gbps/s - Hàng chính hãng",4260059187294,109000,145000,36000,25,available,1000,1000
+16609730,RAM PC DDR4 Samsung 4GB Bus 2666 - Hàng Nhập Khẩu,1536793844617,320000,320000,0,0,available,1000,1000
+13150843,USB SanDisk CZ430 Ultra Fit 16GB USB 3.1 - Hàng Chính Hãng,6020381986957,88000,88000,0,0,available,1000,1000
+59502158,Máy in laser đen trắng đa chức năng HP 137fnw - 4ZB84A - Hàng Chính Hãng,4978050293177,4090000,4590000,500000,11,available,1000,1000
+136676515,Máy in HP LaserJet M211d (9YF82A) - Hàng Chính Hãng,1600339355829,3090000,3690000,600000,16,available,1000,1000
+142782737,Phần Mềm Diệt Virus BKAV Profressional 1 PC 12 Tháng - Hàng Chính Hãng,6083639278355,185900,185900,0,0,available,1000,1000
+44545853,đồng hồ test kiểm tra mạng đa năng RJ45 and RJ11 Network Cable Tester kem pin 9v,9010010401590,42900,42900,0,0,available,1000,1000
+59499178,Bàn phím dành cho Laptop Dell XPS 15 9550,6768674152213,380000,380000,0,0,available,1000,1000
+17611318,"Sạc Laptop Acer 19V - 3.42A,65W Đầu Nhỏ Xíu, Size 3.0mmX1.1mm",2903603198304,210000,260000,50000,19,available,1000,1000
+2045587,Dây Cáp Mạng Ugreen CAT7 11268 (1m) - Hàng Chính Hãng,5241669734904,87000,87000,0,0,available,1000,1000
+63917083,Bàn phím dành cho Laptop HP Elitebook 2560P,4769209940376,345000,345000,0,0,available,1000,1000
+70839219,"Cuộn lau máy photocopy dùng cho Ricoh 1060, 1075, 2060, 2075, 5500, 6500, 7500, 6001, 7001, 8001, 9001, 6002, 7502, 8002, 9002, 6503, 7503",9539374489360,190000,190000,0,0,available,1000,1000
+115977775,Mực in  màu ip2770- bộ 4 màu,1064620282872,145000,145000,0,0,available,1000,1000
+136586126,5 cuộn giấy in nhiệt tem dán 50x15mm cuộn nhỏ dành cho máy in cầm tay mini,5262159432597,96000,96000,0,0,available,1000,1000
+206502059,Đèn led USB dẻo mini siêu sáng và nhiều màu 5V 1.2W ,9390467645311,9000,9000,0,0,available,1000,1000
+171233623,Cụm Drum dành cho máy in - DR-2255 Brother HL-2240/ 2250DN/ MFC7360 (DR2255) 10K,8817980661821,165000,165000,0,0,available,1000,1000
+125936664,Combo main Giga H81- CPu G3250 - Ram 4Gb - Quạt,2257599374815,890000,890000,0,0,available,1000,1000
+57357411,Sét 5 cuộn mực in mã vạch WAX W21 110mmx100m,2536114639266,350000,350000,0,0,available,1000,1000
+48116252,Vỏ case máy tính Mini VSP 2873 - Hàng Chính Hãng,1579712154640,250000,250000,0,0,available,1000,1000
+215746706,USB Phát Wifi 4G Dongle tốc độ cao,3190320544943,315400,315400,0,0,available,1000,1000
+73333568,"Mực in SAHA 49A/53A sử dụng cho HP Laser 1160, 1320 / P2014, P2015 – Canon LBP 3300 (CRG-308), 3310, 3370 (CRG 315) - Hàng chính hãng",9737365262118,250000,250000,0,0,available,1000,1000
+173640782,Cáp nhảy quang Single mode Duplex Fiber Ugreen 80323 dài 3M SC-ST Màu vàng NW227 hàng chính hãng,8107917613239,211000,211000,0,0,available,1000,1000
+76047456,Tản nhiệt khí CPU RGB Jonsbo CR 1000 màu trắng - Hàng Chính hãng,1559939885794,350000,350000,0,0,available,1000,1000
+96366247,"Mực nước máy in màu, Chai 1L_cho máy Epson L100, L110, L120, L200, L210, L220, L300, L310, L350, L355, L360, L385, L455",3202809390767,195000,195000,0,0,available,1000,1000
+10308185,"Nhãn in siêu dẻo HZe-FX741, khổ 18mm x 8m",7717571680113,180000,180000,0,0,available,1000,1000
+24510077,"40 cuộn Giấy in nhiệt K57, giấy in bill K57 (bill)- Hàng chính hãng Hansol",9586941923598,199000,199000,0,0,available,1000,1000
+145301864,Mực nạp IM-36 inkMAX,2625134932456,26000,26000,0,0,available,1000,1000
+199111362,Ram Laptop 8GB DDR3 bus 1600 (12800s) 1.5V ram cho laptop,8791312942544,505000,505000,0,0,available,1000,1000
+137170217,Bàn Phím Dành Cho Laptop Acer Aspire V5-471G V5-471P V5-471-PG V5-431P V5-431G V5-431PG V5-471 V5-471P V5-471G - Hàng Nhập Khẩu mới 100%,8334626224455,194900,214900,20000,9,available,1000,1000
+137170320,Bàn phím dành cho laptop Lenovo B460 Y450 Y460 Y550  - Hàng Nhập Khẩu,7383887342802,294000,344000,50000,15,available,1000,1000
+117093142,Pin dành cho laptop Asus K55 K55VD - Hàng Nhập Khẩu ,8553879330993,325000,375000,50000,13,available,1000,1000
+117094414,Pin cho Laptop Lenovo IdeaPad LE-G430 b460 - Hàng Nhập Khẩu ,9489144425747,355000,375000,20000,5,available,1000,1000
+137169991,Bàn phím dành cho Laptop Dell Latitude E5420 E5420M E5430 - Hàng Nhập Khẩu,2857299999875,355000,405000,50000,12,available,1000,1000
+125432260,Sạc dành cho Laptop Dell Inspiron 13 7359 - Kèm Dây nguồn - Hàng Nhập Khẩu,2964196330034,318000,368000,50000,14,available,1000,1000
+15510300,Pin thay thế dành cho laptop SAMSUNG N150,2868074029536,384790,384790,0,0,available,1000,1000
+113099786,Công tơ điện tử 2P 60A 15000W LW đo điện tiêu thụ phòng trọ kinh doanh độ chính xác cao,1385621770310,119000,119000,0,0,available,1000,1000
+213956144,Bo Mạch Chủ (Mainboard) MSI H110M PRO-VD PLUS - HÀNG CHÍNH HÃNG,2600566627468,1190000,1190000,0,0,available,1000,1000
+183035883,Phần Mềm Avast Premium Security - For Win - 1PC 1 Year - Hàng Chính Hãng,5671821540124,160000,160000,0,0,available,1000,1000
+217344026,Ru Lô ép dưới máy photo Sharp AR-5625/5631/5726/5731/6031N/6026/M256/316/258/318/260/ ARM208/235/270/275/MX,8306403858223,348000,348000,0,0,available,1000,1000
+100159246,"Hộp mực inkMAX 35A dùng cho máy in Canon LBP 3050, 3100, 3018, 3151, 3108, 3010.. HP P1005, P1006, P1100, P1102,P1102W,... Hàng chính hãng",6905158364725,650000,650000,0,0,available,1000,1000
+117095328,Pin dành cho Laptop Dell Latitude 5480 - Model: GJKNX - Hàng Nhập Khẩu ,2201079046133,846000,896000,50000,6,available,1000,1000
+117094659,Pin Dành Cho Laptop HP ProBook 650 G1 - Hàng Nhập Khẩu ,6864069676917,378000,378000,0,0,available,1000,1000
+107469785,Dây Cáp Sạc Cao Cấp Cho Xe Điều Khiển Từ Xa,5542524012619,15000,15000,0,0,available,1000,1000
+29609934,"Ổ cứng di động 1TB/USB 3.0  chống sốc, chống nước ADATA HD700 (Đen) - Hàng Chính Hãng + Tặng Đèn Led",6543907783385,1229000,1229000,0,0,available,1000,1000
+199201198,"Ram Laptop 2Gb DDR3 bus 1333 (10600s), ram dùng cho laptop",9522597015634,59000,59000,0,0,available,1000,1000
+117811811,"Hộp mực Topjet  92A - CZ192A - HP - 93A  dành cho  HP M435NW, M706N - Hàng Chính Hãng ",4847187051929,675000,675000,0,0,available,1000,1000
+137149364,Infinity Soko – M-ATX Case_ HÀNG CHÍNH HÃNG,4368141092891,520000,520000,0,0,available,1000,1000
+32128974,Dung Dịch Tản Nhiệt Nước Làm Mát Siêu Nhanh (Màu Sắc Ngẫu Nhiên),1439716185500,141000,141000,0,0,available,1000,1000
+74342692,Hộp mực in laser CZ192A/93A dùng cho máy in HP LaserJet Pro M435nw/M706n/M701n,8222810618127,770000,770000,0,0,available,1000,1000
+37408608," Tủ Mạng, Tủ Rack 15U Để Đất Mẫu C– TMC RACK 19’’ ",9516051441019,2350000,2350000,0,0,available,1000,1000
+174153373,Card màn hình Nvidia Quadro 600 1Gb - 128bit GDDR3 - Chuyên dùng vẽ đồ họa cho máy Bộ - Hàng Chính Hãng,4290741837133,659000,659000,0,0,available,1000,1000
+201851825,Màn hình HP M27fw FHD 27 inch 2H1B1AA - Hàng chính hãng,4889300055187,5501000,6601200,1100200,17,available,1000,1000
+174944633,Nút nguồn khởi động máy tính có Led dây dài 80cm,8908629239934,22500,22500,0,0,available,1000,1000
+144354545,Mực dành cho máy in Epson L3110 bộ 4 màu,3085655486369,150000,150000,0,0,available,1000,1000
+179539777,"HDD Box SSD và HDD 2.5"" ORICO 2588US3 - Hàng Chính Hãng",5435807145448,155000,195000,40000,21,available,1000,1000
+248792234,Hộp mực cho máy in HP Neverstop Laser 1000w / 1000a hàng nhập khẩu mới 100% [Full box] -  103A / W1103A,4885813972224,110000,110000,0,0,available,1000,1000
+171233615,Trống ES 12A dành cho Canon 2900-3000-Mf 4320-Hp 1010-1018-1020,7203709621024,22000,22000,0,0,available,1000,1000
+183376205,"Caddy Bay ssd sata 3 9.5mm /12.7mm, khay ổ cứng thay vị trí ổ DVD",3053449519918,35000,35000,0,0,available,1000,1000
+108242720,"Giắc chuyển từ cổng Type-C sang USB giành cho macbook, máy tính bảng, điện thoại (Mã: PKL02) ",6376052166747,25000,25000,0,0,available,1000,1000
+195091387,Card Màn Hình Gigabyte RX 6600 Eagle 8GB GDDR6 - Hàng Chính Hãng,8193026741343,5090000,5090000,0,0,available,1000,1000
+95564308,Mực nạp dùng chung 12A 35A dành cho hộp mực HP 05A 49A 80A 78A 83A 85A Canon 2900 3300 6300 6030w 6230dn 6200 151dw 337 309 312 325 326 328,3647766932737,28500,28500,0,0,available,1000,1000
+138456711,"Chân giá đa năng cho máy chiếu, máy tính laptop Vankyo Tripod PT-30 - Hàng Chính Hãng",5703033470090,590000,590000,0,0,available,1000,1000
+95052000,NGĂN KÉO ĐỰNG TIỀN CHO QUẦY THU NGÂN XPRINTER XP-500 ( HÀNG NHẬP KHẨU),6528228052190,841500,850000,8500,1,available,1000,1000
+252581911,Ổ cứng di động SSD-HDD USB 3.0 512GB-500GB-1TB,8448256695279,450000,450000,0,0,available,1000,1000
+141356532,Dock Ổ Cứng 3.5 / 2.5 USB 3.0 - Biến HDD Thường Thành HDD Di Động - Dock Nguồn Cáp,1138307481970,135000,135000,0,0,available,1000,1000
+201911223,Laptop Lenovo K21 i3 6100 4GB 128SSD,9990140635010,3600000,3600000,0,0,available,1000,1000
+136796494,Bộ chuyển đổi quang điện HTB GS03 1Gbps 1 cặp AB - Converter quang 1G,9690141826527,356000,356000,0,0,available,1000,1000
+124897486,Dây mạng cat5e dài 20M 25M 30M 40M 50M 60M chuẩn đúc sẵn 2 đầu bấm-dây mạng lan internet tốt xịn cao cấp,7041388775280,47000,47000,0,0,available,1000,1000
+56693070,Pin dành cho Laptop Asus K45A,2856704238397,282900,282900,0,0,available,1000,1000
+188482039,[Siêu phẩm] M074 - Giá Treo Màn Hình [17-32inch] Kèm khay Đỡ Laptop/MacBook [10– 17Inch] [Ưu việt hơn M052/ NB H180] mẫu mới 2022,3087509691343,499000,499000,0,0,available,1000,1000
+207374394,"Màn hình máy tính 21inch VSP E2107H (20.7"" FHD 60Hz, HDMI+VGA) – Hàng chính hãng TECH VISION phân phối",6465868170769,1420000,1420000,0,0,available,1000,1000
+67235516,"Hộp Đựng Ổ Cứng ORICO 2526C3-BK (Đen) 2.5"""" SSD/HDD SATA 3 USB 3.1 Type-C Hàng Chính Hãng",5858206618087,191880,320000,128120,40,available,1000,1000
+188544553,"Máy in laser đen trắng đa chức năng HP 135W - 4ZB83A - In, copy, scan, wifi - Hàng chính hãng",6330492431874,3650000,4380000,730000,17,available,1000,1000
+242086251,Bộ 3 Fan case VSP V400C LED RGB 12cm [XANH] (Kèm Hub + Remote) - Hàng chính hãng Tech Vision phân phối,3440050575680,302000,302000,0,0,available,1000,1000
+44716149,VGA ASUS TUF-GTX1650-4G-GAMING - Hàng Chính Hãng,5141432056762,4030000,4030000,0,0,available,1000,1000
+38383214,Adapter nguồn màn hình 19V - 2.1A + dây nguồn cho màn hình LG,8660254990315,169000,169000,0,0,available,1000,1000
+92010070,"RAM DDR3 ECC REG 8G - 16G SỬ DỤNG CHO MÁY TRẠM DELL, HP, MAINBOARD X79",3303955561271,88000,88000,0,0,available,1000,1000
+89456696,Bo mạch chủ  Mainbroad Asrock H470M-HDV - Hàng Chính Hãng,2603603755107,1590000,1590000,0,0,available,1000,1000
+15659038,Đầu Ghi Đĩa DVD Chuyên Dụng Asus RW 24D5MT - Chính Hãng,6101817651837,350000,350000,0,0,available,1000,1000
+108843366,Tp-Link MR100 | Router Wi-Fi 4G LTE Chuẩn N Tốc Độ 300 Mbps | Hàng Chính Hãng,9674756902914,1099000,1099000,0,0,available,1000,1000
+174307898,Phần mềm diệt virus Bitdefender Total Security 3PC1Y - Hàng chính hãng,3637383086022,387000,550000,163000,30,available,1000,1000
+77912800,"Bộ 4 hộp mực in laser màu ACO 054 (đen, vàng, xanh, hồng) cho máy in  Canon imageCLASS MF642Cdw/MF641CW/MF643/MF644/MF645/ Canon LBP622cdw/LBP621CW/LBP623CDW, HP Color M254nw/ M254dw/ M280nw/ M281fdn/ M281fdw  - Hàng nhập khẩu",8441069588743,1117000,1200000,83000,7,available,1000,1000
+147752132,Mực nước dành cho máy in màu CANON_K_1 LIT - Cho máy Canon ix6770 – Canon ix6860 – Canon ix6820 – Canon ix6560 – G1000 – G2000 – G3000 – G1010 – G2010 – G3010,2957745238380,140000,140000,0,0,available,1000,1000
+205031081,Hộp mực cho máy in canon 223DW /226DW/MF 440/MF445DW/MF 449x,5759596949055,233000,250000,17000,7,available,1000,1000
+179750204,{XẢ KHO} Màn hình Provision 22 INCH- Độ phân giải Full HD  Hình ảnh đẹp sắc nét - HÀNG CHÍNH HÃNG ,4303965745325,1892000,1950000,58000,3,available,1000,1000
+159602770,Laptop Dell Alienware M15 R6 P109F001CBL 15.6 Inch Core i7-11800H/ RTX 3060/Win11 + Office - Hàng Chính Hãng,3638208288024,31350000,58990000,27640000,47,available,1000,1000
+261942501,Màn Hình Di Động MSI PRO MP161 15.6 inch IPS 60Hz Hàng chính hãng,3381211025965,3790000,4890000,1100000,22,available,1000,1000
+48432507,"Bộ máy tính để bàn DELL Optiplex (Chip core i7 2600, Ram 8gb, SSD 120GB+ HDD 500gb ) Và Màn Hình DELL 21.5 inch ( Dell E2216HV) - Chuyên dùng cho Công ty - Gia đình - Học Tập - Hàng Chính Hãng",7377948834619,4297000,4430000,133000,3,available,1000,1000
+225202878,Giá Đỡ CPU Máy Tính Để Bàn; Đế Nâng Tản Nhiệt Đa Năng; Kệ Lưu Trữ Tháo Rời; Khay Kim Loại Để Gầm Bàn Văn Phòng - Hàng Nhập Khẩu,3995424891093,275000,275000,0,0,available,1000,1000
+15338785,Cuộn Giấy In Hóa Đơn Cho Máy In Nhiệt Khổ K80 Phi 80 Cuộn Lớn,2455932554325,17800,17800,0,0,available,1000,1000
+128645811,"Bộ Phát Wifi 4G LTE Di Động Cao Cấp Mixie - Hàng Nhập Khẩu Thái Lan - Tốc Độ Cao - Sử Dụng Di Động phát wifi oto, xe khách 32 uers",5670555146490,784000,980000,196000,20,available,1000,1000
+198436829,Màn hình máy tính LG 24GN60R-B UltraGear 24inch FullHD 1ms 144Hz IPS (24GN60R-B.ATV) - Hàng Chính Hãng,7279413205785,3290000,4890000,1600000,33,available,1000,1000
+102156839,RAM Laptop DDR4 Samsung 4GB Bus 3200 - Hàng Nhập Khẩu,1544590801655,320000,340000,20000,6,available,1000,1000
+49275935,"Máy in nhiệt mini TMĐT Shoptida in không cần mực, in đơn vận chuyển, bill thanh toán, in tem nhãn, mini code, bar code, mã vạch tốc độ in 1s/đơn, in xong có thể dán đơn ngay - Hàng chính hãng",7685619764210,1569000,1599000,30000,2,available,1000,1000
+70833324,Máy in nhiệt in hóa đơn in bill khổ K80 Xprinter XP-N160ii cổng USB + Bluetooth ( Hàng chính hãng),3891984655549,1588000,1588000,0,0,available,1000,1000
+42561588,Hộp Mực Premium TN-2280 Cho Máy In Brother HL 2240/ DCP-7060D/ MFC-7360N - Hàng Nhập Khẩu,8616302678988,124000,124000,0,0,available,1000,1000
+115746322,"Màn Hình AOC 27B1H 27"" IPS Full Viền- Hàng Chính Hãng",7889966822981,2990000,2990000,0,0,available,1000,1000
+217316842,Màn hình Samsung Odyssey G4 25 inch IPS 240Hz LS25BG400EEXXV - Hàng chính hãng,5546465854414,5590000,5590000,0,0,available,1000,1000
+100517001,Màn hình máy tính LG 24MP60G-B 23.8 inch FHD IPS - Hàng Chính Hãng,2661853803979,2800000,2800000,0,0,available,1000,1000
+191689321,Ổ cứng di động SSD Samsung T7 Shield 1TB | 2TB USB Type C 3.2 Gen 2 kháng nước chống bụi - Hàng chính hãng,7201496749519,3500000,3500000,0,0,available,1000,1000
+14188623,Giấy In Ảnh Một Mặt - Khổ A4,8666925472838,46000,46000,0,0,available,1000,1000
+200023659,Sạc dùng cho laptop Acer aspire 4752 4752Z 4752G 4752ZG - Hàng Nhập Khẩu New Seal,6846257400463,205965,238800,32835,14,available,1000,1000
+242017028,Bộ Phát Wifi TP-Link Archer C86 MU-MIMO Chuẩn AC 1900Mpbs - Hàng Chính Hãng,6762613816445,999000,1998000,999000,50,available,1000,1000
+52276039,"Anten 15dBi băng tần 700-2600Mhz hỗ trợ GSM-GPRS, 3G-4G Chuẩn SMA/M - Hàng nhập khẩu",4680515899847,153000,157999,4999,3,available,1000,1000
+169695504,TOTOLINK EX1200L - Thiết Bị Mở Rộng Sóng Wi-Fi Băng Tần Kép AC1200 - Hàng Chính Hãng,2599320851196,559000,699000,140000,20,available,1000,1000
+253378387,SSD Samsung 990 Pro PCIe Gen 4.0 x4 NVMe V-NAND M.2 2280 1TB - Hàng Nhập Khẩu,7416084890717,2450000,2950000,500000,17,available,1000,1000
+213893384,X18 - Router Wi-Fi Mesh thế hệ thứ 6 AX1800 Hàng chính hãng,6203123497531,1299000,2999000,1700000,57,available,1000,1000
+253378196,Ổ Cứng gắn trong SSD Samsung 870 QVO 2.5 inch SATA III 2TB - Hàng Nhập Khẩu,3944900411535,2750000,3090000,340000,11,available,1000,1000
+55994870,Màn Hình Dell E2020H 19.5'' HD+ (1600x900) 5ms 60Hz TN - Hàng Chính Hãng,3122385307103,2430000,4480000,2050000,46,available,1000,1000
+172960301,Ổ cứng di động SSD Seagate Firecuda Gaming USB-C Hàng chính hãng,9193169838062,4990000,4990000,0,0,available,1000,1000
+176926490,"Màn hình LCD Philips 243V5QHSBA/23.6"" (1920x1080/MVA/60Hz/8ms) - Hàng Chính Hãng",8399137334761,2390000,3499000,1109000,32,available,1000,1000
+106420833,Nguồn Adapter 5V 2A Jack Nhỏ 3.5*1.5mm,7317846090276,40000,40000,0,0,available,1000,1000
+191651969,Ổ cứng di động SSD Samsung T7 Portable USB Type C 3.2 Gen 2- Hàng Chính Hãng,3897295719200,1930000,2230000,300000,13,available,1000,1000
+200007550,Pin dùng cho Laptop Dell Latitude E6440 - Hàng Nhập Khẩu  MIBAT820,1953590494628,513256,595080,81824,14,available,1000,1000
+200032113,Bàn phím dùng cho Laptop Lenovo ThinkPad T510 W510 T520 W520 X220 X220t Keyboard  - Hàng Nhập Khẩu New Seal,2590984284334,569146,659880,90734,14,available,1000,1000
+162593951,Ổ cứng SSD WD Blue SN570 M2 2280 PCIe NVMe Gen3x4 - Hàng Chính Hãng ,7372596245335,1010000,1150000,140000,12,available,1000,1000
+193895455,SSD MSI SPATIUM S270 2.5-Inch SATA III 120GB - HÀNG CHÍNH HÃNG,5129240873207,345000,345000,0,0,available,1000,1000
+243033592,(Giá Hủy Diệt) Ổ Cứng gắn trong SSD Samsung PM881 128GB / 256GB / 512GB 2.5 inch SATA iii - Hàng Nhập Khẩu,5475363012312,440000,470000,30000,6,available,1000,1000
+356371,Ổ Cứng Di Động Transcend StoreJet M3S 1TB USB 3.0/3.1 - TS1TSJ25M3S - Hàng Chính Hãng,6203222429312,1440000,1440000,0,0,available,1000,1000
+107034248,Nhãn in Brother TZe-651 chữ đen trên nền vàng (24mm) - Hàng chính hãng,8415721800942,530000,530000,0,0,available,1000,1000
+150656174,Ổ cứng di động SSD Sandisk Extreme Pro V2 E81 1TB / 2TB Gen 2x2 USB 3.0 - Hàng Nhập Khẩu,5767580653331,3550000,3850000,300000,8,available,1000,1000
+416985,TP-Link  TL-WN822N - USB Wifi (high gain) chuẩn N tốc độ 300Mbps - Hàng Chính Hãng,7503483481883,259000,379000,120000,32,available,1000,1000
+215099888,Màn hình máy tính KODA KD-LED22A-4K 21.5Inch LED (1920x1080) 75Hz -- Hàng Chính Hãng,7682554641903,1650000,1650000,0,0,available,1000,1000
+6398873,Dây mạng bấm sẵn 2 đầu Cat6 UTP Patch Cords dài 1M UGREEN NW102 11201 - Hàng Chính Hãng,6553936956421,44000,44000,0,0,available,1000,1000
+88790505,Máy In Đơn Hàng Khổ A6/A7 Hóa Đơn Chuyên Dùng Tmđt Deli -1 Đơn Mỗi Giây - Phụ Kiện Máy In - DL760 DL770 - Hàng Chính Hãng,6512798283758,969000,1744200,775200,44,available,1000,1000
+73259812,Bộ Thiết Bị Kích Sóng WIFI 3 Râu MERCURY - Thiết Lập Dễ Dàng Và Nhanh Chóng - Hàng Nhập Khẩu,6305453681351,220000,220000,0,0,available,1000,1000
+27579312,"Hộp mực dùng cho máy in canon MF3010, LBP 6030/ 6030w",8407203940539,118000,118000,0,0,available,1000,1000
+50796737,Ổ Cứng Di Động SSD Samsung T7 Touch USB Type C 3.2 Gen 2 MU-PC - Hàng Nhập Khẩu,1419941718865,2450000,2450000,0,0,available,1000,1000
+49078809,1 Xấp thẻ chấm công dùng cho máy chấm công giấy - Hàng nhập khẩu,6390465521900,64000,64000,0,0,available,1000,1000
+17474656,Cáp Mạng Lan Bấm Sẵn 2 Đầu Dài 15m,8323749320867,21860,21860,0,0,available,1000,1000
+101819684,Pin dành cho Laptop Dell Latitude E7270 E7470,9058146888327,880000,880000,0,0,available,1000,1000
+93936463,HUB Aura Sync P-ARGB V2.0 Coolmoon cho Fan Led RGB và đèn Led RGB đồng bộ Mainboard máy tính - hàng nhập khẩu,6739064572694,195000,195000,0,0,available,1000,1000
+78496225,Màn Hình Dell S2721HN 27 inch Full HD 75Hz - Hàng Chính Hãng,8248605609194,5275000,5275000,0,0,available,1000,1000
+85444689,Bộ Phát Wifi 6 TP-Link Archer AX73 Gigabit Băng Tần Kép AX5400 - Hàng Chính Hãng,7760705012123,2385000,2385000,0,0,available,1000,1000
+217366185,"Quạt tản nhiệt sò lạnh điện thoại X13 , tản nhiệt sò lạnh X13 tích hợp sạc không dây nhanh 15W - Quạt tản nhiệt sò lạnh",3915583839998,257000,279000,22000,8,available,1000,1000
+99240292,Sạc dành cho Laptop HP (các loại) 19.5V 2.31A 45W chân kim nhỏ 4.5*3.0mm,4593949453324,196000,196000,0,0,available,1000,1000
+252277458,Máy tính xách tay - Laptop Asus ExpertBook model B1500CEAE | B1500 (Chip Intel Core i5-1135G7 | RAM 8G DDR4 | SSD 256GB | 15.6-inch Full HD | Bảo mật TPM 2.0 | Độ bền chuẩn quân đội US) - Hàng chính hãng,7952073744558,13490000,20999999,7509999,36,available,1000,1000
+38210847,"Sạc Dành Cho Laptop Dell Chân Kim To 19.5V - 3.34A, 65W Hàng Nhập Khẩu",2769717611814,235000,250000,15000,6,available,1000,1000
+9837190,"Pin Dành Cho Laptop HP DV2000, DV2100, DV2200, DV6800, DV6900 V3100, V3200, V3300, V3600 - Hàng Nhập Khẩu",9327063663203,332958,332958,0,0,available,1000,1000
+44602544,"Sạc cho Laptop Dell Inspiron N4110 N5110 N4010 N4030 N5010, 19.5V 4.62A 90W, CHÂN KIM TO size (7.4 x 5.0)mm",6079304755132,215000,265000,50000,19,available,1000,1000
+37937444,Bàn phím laptop dành cho Dell Inspiron N4010 N4020 N4030,2081599319238,189000,189000,0,0,available,1000,1000
+113099332,USB Bluetooth Dongle 5.0 giúp Laptop PC thu phát sóng bluetooth,9453014220760,37800,37800,0,0,available,1000,1000
+56793467,"Pin dành cho Laptop Asus K40 Series, K40IJ, K40JN",7584105739377,360806,360806,0,0,available,1000,1000
+21758215,"Pin Dành Cho Laptop Acer Aspire 4741, 4551, 4771, 5741, 4745, 4733, 5742, 4736, 4253, 5551, 7551, 7741, 4755, 5755, 4752, 4743, 4739, 4750 (Tặng bộ vệ sinh máy tính)",1882248334340,300840,300840,0,0,available,1000,1000
+77015658,Cáp nối USB 3.0 cho ổ cứng di động box HDD SSD WD,3209855871669,35000,35000,0,0,available,1000,1000
+52152951,Sạc Laptop Acer 19v-2.37A  Chân mini siêu nhỏ,2917476193472,239000,239000,0,0,available,1000,1000
+16930258,Pin Dành Cho Laptop Dell 3542,3441065002818,424690,424690,0,0,available,1000,1000
+82495572,Pin dành cho Laptop Dell Latitude 5480 - Model: GJKNX,1989627335504,1070513,1070513,0,0,available,1000,1000
+198593824,Ổ Cứng SSD Kingston NV2 NVMe PCIe Gen4 250GB - 500GB - 1TB - 2TB - Hàng Chính Hãng,5023711384438,760000,760000,0,0,available,1000,1000
+56445304,Pin dành cho Laptop Dell Inspiron 14z 5423,3064007741653,729994,729994,0,0,available,1000,1000
+9830362,USB 4G Phát Wifi LTE - Nhận Sim Đa Mạng - Dcom 4G - Kèm Khe Cắm Thẻ Nhớ,6040064060880,281000,550000,269000,49,available,1000,1000
+37407293,Pin Dành Cho Laptop Dell 3451 3458 3468 5455 5458 3551 3558 5551 5558 5559 - Hàng Nhập Khẩu,8236962015680,377800,377800,0,0,available,1000,1000
+7940215,"Sạc Dành Cho Laptop Acer 19v-3,42a 65W - Hàng nhập khẩu F1",9092328557503,175000,235000,60000,26,available,1000,1000
+419320,Máy In Laser Đơn Năng Canon LBP 6030 - Hàng chính hãng,8504134130395,2690000,4490000,1800000,40,available,1000,1000
+67135644,"Sạc dành cho laptop Asus F555L, F555LA, F55LF, F555LD",1772229240664,215488,215488,0,0,available,1000,1000
+203874428,Nguồn máy tính Xigmatek X-Power III X500 450W Hàng chính hãng ( Bảo hành 36 tháng),6263198977188,682000,682000,0,0,available,1000,1000
+208474532,"Thùng 100 cuộn giấy in nhiệt K57x38, giấy in cho máy bán hàng cầm tay",8418697003006,450000,450000,0,0,available,1000,1000
+173947108,"Bộ Phát WiFi UniFi U6 Lite - Tốc Độ 1.5Gbps, Chịu Tải 300 User (Không kèm nguồn)",9052959827380,3290000,3290000,0,0,available,1000,1000
+144916531,ĐÈN SOI TIỀN OUDIS 09 hàng chính hãng ,6985181189947,650000,650000,0,0,available,1000,1000
+115976007,"Mực in e560 bộ mực 4 màu đen, xanh, vàng, đỏ",7754903106419,145000,145000,0,0,available,1000,1000
+95484139,Màn hình Gaming Startview 24FHV 75Hz Full viền cong - Hàng chính hãng.,2978373748325,2600000,2600000,0,0,available,1000,1000
+136006322,Máy in Laser Trắng Đen HP 107w WiFi - Hàng chính hãng,9057052705951,2850000,2850000,0,0,available,1000,1000
+196154096,Drum trống in 26A 76A CRG 052 057 Cho Máy in HP M402d M402n M420dw M426 M404n M404d M428dw LBP 214dw 215d MF426dw 429dw 223dw 226dw,3546636807207,26900,26900,0,0,available,1000,1000
+192706426,Bộ chia mạng Switch POE SmartAI 4 - 6 cổng 2 port uplink - chống sét,1718941886346,373000,373000,0,0,available,1000,1000
+190212632,NGUYÊN BỘ MÁY TÍNH VĂN PHÒNG SIÊU RẺ BỀN PENTIUM E5500-E8500 HỌC TẬP GIẢI TRÍ XEM PHIM MUA VỀ CẮM ĐIỆN DÙNG LUÔN,5029177790060,990000,990000,0,0,available,1000,1000
+214137808,10 đầu nối quang nhanh SC/APC fast connector 6cm rãnh dọc,1735753330965,78000,78000,0,0,available,1000,1000
+591356,Bộ 5 USB 16GB Team Group INC E902 - Hàng Chính Hãng,6106436558406,415000,415000,0,0,available,1000,1000
+75348973,"(Combo 50 cuộn) Giấy in nhiệt inkMAX K57x38 - Hàng chính hãng dùng cho các loại máy XPrinter, Epson PRP, TAWA, Citizen, Topcash, Casio…",7113526901706,245000,245000,0,0,available,1000,1000
+10186878,"Nhãn in tiêu chuẩn HZe-621, khổ 9mm x 8m, chữ đen nền vàng, dùng cho máy in nhãn Brother",3090488960825,150000,150000,0,0,available,1000,1000
+10133528,"Nhãn in tiêu chuẩn HZe-731, khổ 12mm x 8m, chữ đen nền xanh lá, dùng cho máy in nhãn Brother",6324153482310,160000,160000,0,0,available,1000,1000
+34709360, Ngăn kéo đựng tiền Antech RT335 - hàng chính hãng,9472402680608,617000,699000,82000,12,available,1000,1000
+194087087,"Trống drum 107A dùng cho máy in Hp M135a, M137fdn, M135w, M107w (W1107A)",7398874123354,45000,45000,0,0,available,1000,1000
+197900437,Bo Mạch Chủ Main Gigabyte H61M-DS2 socket LGA1155 - Hàng Nhập Khẩu,2331790729267,1190000,1190000,0,0,available,1000,1000
+214602899,Pin Cho bộ phát wifi đi động 3G/4G Model M100,4060353238852,149000,149000,0,0,available,1000,1000
+775934,Bo Mạch Chủ Mainboard ASRock H110M-HDV R3.0 - Hàng Chính Hãng,3411842153347,1290000,1290000,0,0,available,1000,1000
+24494305,Card PCI Express ra 2 cổng COM RS232,2921647834842,235000,235000,0,0,available,1000,1000
+186333786,Máy chiếu Wanbo T2R Max 1080P bản quốc tế - Hàng Chính Hãng,4725158142869,3990000,3990000,0,0,available,1000,1000
+13327514,Hộp mực 92A/ EP-22 dành cho máy in HP Laserjet 1100 Canon LBP 1120,2614604405321,250000,250000,0,0,available,1000,1000
+149045509,"Giấy tem decal nhiệt 35x22mm/ 1 tem- 3 tem 1 hàng, tem vận chuyển, nhãn mã vạch thông tin sản phẩm, giấy tem in nhiệt",7189107394498,73000,73000,0,0,available,1000,1000
+125432229,Sạc dùng cho Laptop Thinkpad X1 Carbon - Kèm Dây nguồn - Hàng Nhập Khẩu,5245718187770,242000,292000,50000,17,available,1000,1000
+117094392,Pin Dành Cho Laptop Dell Inspiron 1318 Studio XPS M1330 M1350 - Hàng Nhập Khẩu ,1988890966859,325000,375000,50000,13,available,1000,1000
+179991459,Sạc dành cho Laptop Asus X441 Series X441MA X441UA - Hàng Nhập Khẩu ,1161614986118,384000,434000,50000,12,available,1000,1000
+117094511,Pin dành cho Laptop Dell Inspiron 7460 - Hàng Nhập Khẩu ,1209347165630,861600,881600,20000,2,available,1000,1000
+117095599,Pin dành cho Laptop Sony SVE14 SVE-14 Series - Hàng Nhập Khẩu,2131551162069,575000,625000,50000,8,available,1000,1000
+117095339,Pin cho Laptop Dell Inspiron N4020 N4030 - Hàng Nhập Khẩu ,9794864857481,325000,375000,50000,13,available,1000,1000
+117095510,Pin dùng cho Laptop Asus A41 X550A - Hàng Nhập Khẩu ,2791192339051,324000,374000,50000,13,available,1000,1000
+137170896,Bàn phím thay thế dành cho laptop Dell Vostro 2420 3420 - Hàng Nhập Khẩu,3079000117665,199000,249000,50000,20,available,1000,1000
+137170012,BÀN PHÍM DÀNH CHO LAPTOP ASUS K45A - Hàng Nhập Khẩu,4144271340431,247000,297000,50000,17,available,1000,1000
+117092971,Pin cho Laptop Dell Latitude E6410 - Hàng Nhập Khẩu,7548130759578,324000,374000,50000,13,available,1000,1000
+171233751,"Mực đổ máy in - loại in đậm dành cho canon 2900, 3300, 3050....Hp 400, 2035, 2055, 402, 1020...",1384556760656,28500,28500,0,0,available,1000,1000
+50735196,5 cuộn Decal 100 x 150mm - 1 Con Tem in vận đơn (Dài 50m),5465178434913,310000,310000,0,0,available,1000,1000
+114896573,"Màn hình máy tính 24 inch Full Viền, Tấm nền IPS , Tần số 75Hz . Bảo hành HÃNG 12 tháng",4889000221551,1835000,2025000,190000,9,available,1000,1000
+192713754,Mã code internet security cho hệ điều hành androi điện thoại - Hàng nhập khẩu,9704938627951,85000,85000,0,0,available,1000,1000
+59204350,"Hộp mực in SAHA TN-2385 cho máy in Brother HL - L2321D / L2361DN / L2366DW, MFC - L2701D/DW, CPL2520D - Hàng chính hãng",3728417012528,165000,165000,0,0,available,1000,1000
+11295357,Bộ Sạc Đa Năng 8 Đầu Dành Cho Laptop (từ 12V - 24V ),4033022384014,129000,129000,0,0,available,1000,1000
+205521069,Nguồn Antec 550W Atom V550 công suất thực - Hàng chính hãng ,4858266391104,666000,666000,0,0,available,1000,1000
+125433798,Sạc dành cho Laptop Lenovo Thinkpad T460S - Kèm Dây nguồn - Hàng Nhập Khẩu,8355244810498,282950,302950,20000,7,available,1000,1000
+205855491,"Màn Hình máy tính Tomko T2221F 22""FHD, Full VIền - 75Hz , Thích hợp dùng Văn Phòng, Bán Hàng, Học Tập, Hàng Chính Hãng",2954669902320,1556000,2500000,944000,38,available,1000,1000
+157161265,Dây cáp mạng Lan CAT6 Dẹt - Tròn 10m 15m RJ45 Gigabit tốc độ cao VENTION - Hàng chính hãng,5692486866868,49000,90000,41000,46,available,1000,1000
+197593399,Màn hình LG 27'' UltraGear 4K Nano IPS 1ms (GtG) với 144Hz / 160Hz (Ép xung) và HDMI 2.1 - 27GP95R - Hàng chính hãng,9482255387882,17900000,25990000,8090000,31,available,1000,1000
+204627651,Card màn hình Nvidia Quadro K2200 4GB 128-bit GDDR5,2574028993658,1749000,1749000,0,0,available,1000,1000
+69709892,"Trống ( Drum ) 16A/EP309 Dùng cho hộp mực ( Cartridge A3 ) 16A/EP309 của máy in HP 5200,  Canon 3500, 3980, 8610, 8630, Canon LBP 6780X,  8100n, 8780x, 8087",6497871616975,90000,90000,0,0,available,1000,1000
+6547873,Thùng giấy in nhiệt - in bill tính tiền 50 cuộn loại K80x80 (Giấy OJI-Japan),5374463729705,911000,949000,38000,4,available,1000,1000
+260110627,Dock Ổ Cứng 3.5 / 2.5 USB 3.0 - Biến HDD Thường Thành HDD Di Động - Dock Nguồn Cáp,4559705315386,105000,115000,10000,9,available,1000,1000
+206502020,"Máy in nhiệt chuyên dụng HPRT N41 in đơn hàng, hóa đơn, tem mã vạch bảo hành 12 tháng - MINPRO",8183964194367,1099000,1099000,0,0,available,1000,1000
+216371910,Dây mạng bấm Sẵn 2 đầu 30m 35m 40m 45m 50m - Dây Cáp mạng lan đúc sẵn,7685621057324,87500,125000,37500,30,available,1000,1000
+120464954,USB THU WIFI CHO MÁY TÍNH ( KHÔNG ANTEN ),5894057457293,38500,38500,0,0,available,1000,1000
+199020460,Màn hình máy tính HP M24FW 2E2Y5AA - 23.8 inch | Full HD (1920 x 1080) | VGA | HDMI - Hàng Chính Hãng - Bảo hành 36 tháng,1702454905870,3890000,4668000,778000,17,available,1000,1000
+106276495,Máy Chiếu Mini Siêu Nét Kết Nối Bluetooth Wifi Chạy Hệ Điều Hành Android W2S Cao Cấp,7600629722346,3149000,3149000,0,0,available,1000,1000
+117094244,Pin dành cho Laptop Dell Latitude E6430 - Hàng Nhập Khẩu ,4220818468336,491000,541000,50000,9,available,1000,1000
+243057323,Sạc dành cho Macbook Pro 15 Inch 2013 2014 - 85 Walt,3862177097003,650000,650000,0,0,available,1000,1000
+187637779,"Máy quét mã vạch không dây YHD 5300DM 2D kèm đế sạc đọc mã Barcode 1D Qrcode 2D mẫu mới siêu nhạy dùng trên Máy tính, Laptop - Hàng Nhập Khẩu",7189821098604,1890000,2400000,510000,21,available,1000,1000
+212462340,Hộp mực 057 Có Chip cho Máy in Canon LBP 223dw 226dw 228x MF453dw MF440  MF445dw MF449x LOẠI TỐT CÓ HỘP,1121356254096,272000,272000,0,0,available,1000,1000
+115845662,Ổ cứng HDD Seagate 500G Bh 24T tại H2PComputer- Hàng Chính Hãng,8438126245721,400000,400000,0,0,available,1000,1000
+704132,Router Wi-Fi Chuẩn N 300Mbps N300RH Và Kích Sóng Wifi TOTOLINK EX200 - Hàng Chính Hãng,7505317935418,230000,230000,0,0,available,1000,1000
+249643753,"Bo mạch chủ máy tính bàn (Mainboard) Gigabyte GA-H61M-DS2 Socket 1155 (Kèm: Chặn (FE), Keo tản nhiệt CPU, Còi, dây SATA",9463406397895,400000,400000,0,0,available,1000,1000
+491431,"Mực In Canon PG-47 Cho Máy In Canon Pixma E400, E410, E460, E480 - Hàng Chính Hãng",2687897487510,290000,290000,0,0,available,1000,1000
+79131627,Máy Scan Màu Di Động Thông Minh Scan Tài Liệu A4/A5/A6/A7 K800D,3633335448287,1226000,1289000,63000,5,available,1000,1000
+2086083,Máy Quét Mã Vạch Symbol LS2208 - Hàng Chính Hãng,2242568676794,1484900,1561000,76100,5,available,1000,1000
+44768742,"Máy đọc mã vạch - Thiết bị bắn mã vạch YHD -8100 có dây sử dụng nhanh chóng, hiệu quả",7914257132953,470400,470400,0,0,available,1000,1000
+58879476,USB 3.0 Team Group C175 32GB tốc độ upto 90MB/s - Hàng chính hãng,2471819722625,89000,169000,80000,47,available,1000,1000
+44984825,Router Wifi Asus RT-AC1500UHP Băng Tần Kép MU-MIMO - Hàng Chính Hãng,9415680606960,890000,1780000,890000,50,available,1000,1000
+203293735,"CPU Intel Core i5-13600K (Up To 5.10GHz, 14 Nhân 20 Luồng,24MB Cache, Raptor Lake) -- Hàng Chính Hãng",8390386433869,8790000,8790000,0,0,available,1000,1000
+217722921,Ram 32gb/3200 PC Kingston DDR4 CL16 DIMM FURY Beast RGB (KF432C16BBA/32) - Hàng Chính Hãng,3045672080944,2490000,2490000,0,0,available,1000,1000
+192113645,Màn hình Glowy GL17 _ Hàng nhập khẩu,3159348615161,1050000,1050000,0,0,available,1000,1000
+568007,Màn Hình Asus VS207DF 20inch HD 5ms 75Hz TN - Hàng Chính Hãng,8707253045377,2500000,2500000,0,0,available,1000,1000
+12108701,Router Wifi Băng Tầng Kép Totolink A810R - Hàng Chính Hãng,6943219352482,498000,498000,0,0,available,1000,1000
+7986170,Màn Hình Dell U2419H 24inch FullHD 8ms 60Hz IPS - Hàng Chính Hãng,1011171798534,3890000,3890000,0,0,available,1000,1000
+222680371,Ram PC DDR4 Pioneer 8GB Buss 2666MHz Hàng Chính Hãng,6977716363317,450000,450000,0,0,available,1000,1000
+198965824,Giấy in ảnh Epson 230,1144129282789,65000,65000,0,0,available,1000,1000
+16079268,[ Set 10 cuộn] Giấy nhiệt in bill K80 phi 80 - Hàng nhập khẩu,2897656402276,175000,177900,2900,2,available,1000,1000
+111561126,Đầu chia mạng LAN 1 ra 2 - RJ45,5391400680363,5000,12300,7300,59,available,1000,1000
+97990990,Mực nạp 12A hàng chính hãng Alphacartridge dành cho hộp mực 26A 05A 49A FX9  máy in Canon 2900 3000 3300 6300 251dw 252dw HP 1010 1020 2055 Pro 400 m402 m402nw 1230 ,8193536395144,29800,29800,0,0,available,1000,1000
+209129024,[HCM - HN] Màn Hình Máy Tính TOMKO 27 inch 2K T2721Q –  Tấm nền IPS Tần số quét 75HZ- Hàng chính hãng,5982169450504,1590000,1590000,0,0,available,1000,1000
+137956117,"Màn hình máy tính Provision - Chuyên dùng cho học tập , văn phòng , bán hàng - Hàng chính hãng",6271189383901,1154000,1190000,36000,3,available,1000,1000
+214050713,Màn hình máy tính Cong Full Viền K- VISION 24 inches IPS FHD 75Hz - Hàng chính hãng,7010414204700,1784000,1890000,106000,6,available,1000,1000
+20021065,Ruy băng mực LQ 2180 UMAX - Hàng chính hãng,7768912590622,107000,130000,23000,18,available,1000,1000
+147970122,Máy tính đồng bộ EliteDesk 600G1 ( CPU Core i5-4570 ( 3.6GB) - Ram 8GB - SSD 120GB + HDD 500GB ) - HÀNG CHÍNH HÃNG,2023840121520,2474000,2550000,76000,3,available,1000,1000
+24448044,Bộ Máy Tính Để Bàn Dell Optiplex  ( Core i5 - 3570/ 8gb / SSD 256GB ) Và Màn Hình KINGVIEW 22' inch - Tặng Ngay Bàn Phím Chuột Không Dây - Hàng Nhập Khẩu,1708596615606,4365000,4500000,135000,3,available,1000,1000
+195918385,RAM Desktop Silicon Power 16GB DDR4 2666MHz CL19 UDIMM - Hàng chính hãng,9519113830921,866000,1050000,184000,18,available,1000,1000
+249694499,MÀN HÌNH K-VISION 27 INCH 2K - GM275QHD - TẦN SỐ 75Hz - Độ phân giải 2560*1440 - HÀNG CHÍNH HÃNG,5947513094878,2900000,3900000,1000000,26,available,1000,1000
+90474865,"Soundcard XOX K10 10th Jubilee phiên bản tiếng Anh 2021 chuyên hát Thu âm, Livestream Bigo, Facebook",8115439897871,770000,770000,0,0,available,1000,1000
+95266171, Bộ xử lý CPU i5 3470 Socket 1155,4452380443574,352000,352000,0,0,available,1000,1000
+200008305,Pin dùng cho Laptop Lenovo ThinkPad X200 X200s X201 - Hàng Nhập Khẩu MIBAT301,6448676408387,360180,417600,57420,14,available,1000,1000
+208120552,"MÀN CHIẾU TREO TƯỜNG 100 INCH - 70X70 - 1,78MX1,78M P70WS DALITE - Hàng nhập khẩu",6132078173185,470000,470000,0,0,available,1000,1000
+31265319,Cáp mạng CAT 6 bấm sẵn dây dẹp Orico PUG-C6 - Hàng nhập khẩu,8900700500003,48900,55000,6100,11,available,1000,1000
+155530342,Laptop Dell Inspiron 3511 P112F001DBL15.6 Inch Core i5-1135G7/Win11 + Office - Hàng Chính Hãng,5196866727372,10990000,19331400,8341400,43,available,1000,1000
+138315904,"Giấy In Nhiệt Tự Dính Khổ A7 70x100mm Cuộn 300 Tem In Đơn Bill Viettel, In Đơn TMĐT",8159172655424,28800,28800,0,0,available,1000,1000
+165209432,Sạc dành cho laptop Dell Latitude E7470 có đèn báo - Hàng Nhập Khẩu - Sản phẩm mới 100%,8855524921513,302925,363510,60585,17,available,1000,1000
+160994977,Pin cho Laptop HP 840 g1 740 g1 850 g1 840g1 - CM03XL - Hàng Nhập Khẩu - Sản phẩm mới 100%,2421581098660,828450,994140,165690,17,available,1000,1000
+165210093,Sạc dành cho laptop MSI GE62 6QD - Hàng Nhập Khẩu - Sản phẩm mới 100%,9799311535066,628425,754110,125685,17,available,1000,1000
+193513449,Sạc cho Laptop Acer 19V 2.37a 3.42a - công suất 45w/65w - Chân nhỏ mini 3.0mm x 1.1mm - Tặng kèm dây nguồn - Hàng Nhập Khẩu - Sản phẩm mới 100% New Seal,2125318463593,231000,277200,46200,17,available,1000,1000
+162460687,Pin cho Laptop Dell 7559 7566 7567 0GFJ6 71JF4 0GFJ6 357F9 - Hàng Nhập Khẩu - Sản phẩm mới 100%,4810467233678,1206975,1448370,241395,17,available,1000,1000
+165208911,Sạc dành cho laptop Dell Inspiron 3537 có đèn báo - Hàng Nhập Khẩu - Sản phẩm mới 100%,2899351529922,302925,363510,60585,17,available,1000,1000
+9148580,Quạt Tản Nhiệt CPU Socket 1155/1151/1150- Fan Intel Box - Hàng Nhập Khẩu,7707513191302,70000,70000,0,0,available,1000,1000
+67991056,Bộ Phát Wifi 4G LTE Tenda 4G03 Chuẩn N300 Có Cổng Lan Băng Thông Mạnh Tặng Cáp Mạng - Hàng Chính Hãng,4416065742858,925000,925000,0,0,available,1000,1000
+188040084,USB Kingston DataTraveler Exodia M USB Flash Drive 32G / 64G / 128G / 256G - Hàng Chính Hãng,6844617541382,269000,269000,0,0,available,1000,1000
+206112579,USB Kingston 128GB DataTraveler M 3.2 - Hàng chính hãng FPT phân phối,5062718819880,203000,203000,0,0,available,1000,1000
+67179382,"Hộp Đựng Ổ Cứng ORICO 2020U3-BK 2.5"""" SSD/HDD SATA 3 USB 3.0 Hàng Chính Hãng",2524084239227,109880,175000,65120,37,available,1000,1000
+204428582,Bộ Thu Phát Bluetooth TP-Link UB500 USB Nano Bluetooth 5.0 - Hàng Chính Hãng FPT phân phối,8207975229949,114000,114000,0,0,available,1000,1000
+138315917,"50 cuộn giấy in nhiệt k80x80m, giấy in bill, in hóa đơn Ocha",1895207294303,750000,750000,0,0,available,1000,1000
+77182076,Hệ thống MESH WI-FI 6 ASUS XD4 (B-2-PK) Mini ZenWiFi AX1800 Băng Tần Kép - Hàng Chính Hãng,8098049193057,3990000,6990000,3000000,43,available,1000,1000
+15236913,Cáp mạng Cat6  UTP dài 5m chính hãng UGREEN NW102 20162 - Hàng chính hãng,2318637549181,80000,112000,32000,29,available,1000,1000
+213589460,Combo ổ cứng di động WD Elements + túi chống sốc ( màu ngẫu nhiên ) - Hàng Chính Hãng,3587072966590,1440000,1590000,150000,9,available,1000,1000
+2302081,USB 3.1 SanDisk CZ430 Ultra Fit 32GB 130MB/s - Hàng Chính Hãng,4301850329096,100000,100000,0,0,available,1000,1000
+21237758,Bộ Phát Wifi Mesh TP-Link Deco M5 AC1300 (3 pack) - Hàng Chính Hãng,4647947084135,3666000,6990000,3324000,48,available,1000,1000
+202805207,"Đèn treo màn hình máy tính Yeelight LED Screen Light Bar Monitor Pro, hắt sáng 16 triệu màu, tăng giảm cường độ ánh sáng chống mỏi mắt và bảo vệ mắt khỏi ánh sáng xanh - Hàng Chính Hãng",1968225375928,1680000,1699000,19000,1,available,1000,1000
+17475042,CÁP MẠNG LAN BẤM SẴN 2 ĐẦU DÀI 20M,7820399674605,36900,36900,0,0,available,1000,1000
+110938221,"[Có sẵn] Nâng cấp WiFi 5G dễ dàng với USB WIFI, card mạng usb, 600Mbps hai băng tầng 2.4 / 5GHz,cho máy bàn PC và lapto",8002816792542,112000,139000,27000,19,available,1000,1000
+8425696,Túi 100 Hạt Mạng J45 Golden Japan Chân Đồng - Hàng Nhập Khẩu,8038749355114,71400,71400,0,0,available,1000,1000
+10194812,Bộ Lưu Điện UPS Santak TG500 500VA 300W - Hàng Chính Hãng,8259907394114,1057000,1057000,0,0,available,1000,1000
+12477248,Dây cáp mạng bấm sẵn đầu (tặng đầu nối mạng),2371953332653,23000,23000,0,0,available,1000,1000
+80802851,Ổ Cứng SSD Samsung 870 Evo 1TB 2.5-Inch SATA III - Hàng Nhập Khẩu (Box Anh),2411343847512,1590000,1590000,0,0,available,1000,1000
+26274900,Màn Chiếu 3 Chân Apollo 100 inch - Hàng chính hãng,4930539785283,655000,655000,0,0,available,1000,1000
+186391678,Phần mềm diệt virus Bitdefender Antivirus Plus 2022 - Hàng chính hãng,9273773879804,190000,190000,0,0,available,1000,1000
+193736125,Mực chai M252 + Chíp 054 dùng cho máy in Canon LBP621Cw/ LBP623Cdw/ MF641Cw/ MF642Cdw/ MF643Cdw/ MF645Cx gồm phễu đổ mực,2549700532422,125000,125000,0,0,available,1000,1000
+24255305,Dây Cáp Mạng đầu CAT5 Bấm Sẵn 2,1724536242473,26990,26990,0,0,available,1000,1000
+17618526,Bộ 3 Quạt + Khiển Coolmoon RGB V2 - Hàng nhập khẩu,2835667864430,323000,323000,0,0,available,1000,1000
+109333861,Bàn phím dành cho Laptop Dell Inspiron 14 5000 Series có Led,2711300838582,355000,355000,0,0,available,1000,1000
+71105811,"Trống (Drum) dùng cho máy photocopy Toshiba E 550, 650, 520, 720, 850, 555, 655, 755, 556, 656, 756, 657, 857",5745740376453,840000,840000,0,0,available,1000,1000
+37718598,Bàn Phím Dành Cho LAPTOP ACER EMACHINES D525 D725 4732 4732Z D726 D736 D715 - Hàng Nhập KHẩu,9081577153093,240782,264860,24078,9,available,1000,1000
+23301966,Pin cho Laptop Dell Latitude E5410 E5500 E5400 E5510,9239916200193,309700,309700,0,0,available,1000,1000
+117335204,"Pin DÀNH CHO MACBOOK A1582  6 CELL - Pro 13"" Retina A1502 A1582 2015",7956182983126,1439998,1440000,2,0,available,1000,1000
+44975323,Pin cho Laptop HP Pavilion 14-BS 14-BW 15-BS 15-BW 17-BS JC04 JC03,4107104112113,303800,303800,0,0,available,1000,1000
+161909303,Pin dành cho Laptop Dell LATITUDE 5490 5580 5590 68Wh 7.6V GJKNX,7536363161882,880000,880000,0,0,available,1000,1000
+198254310,Thẻ Imou lưu trữ đám mây - Gói 1 tháng I Hàng chính hãng,3688084486859,170000,170000,0,0,available,1000,1000
+117336159,"Pin Laptop DÀNH CHO LENOVO 100-14IBD L15S4A01 (ZIN) - 4 CELL - Ideapad 100-14IBD, 110-14IBD, 100-15IBD, 110-15IBD, 300-14IBD, 300",7536572266141,923998,924000,2,0,available,1000,1000
+48607335,"Bộ sạc pin Surface 65W dành cho các dòng Surface Book, SurfacePro 3,4,5,6,7",8581317676864,600000,940000,340000,36,available,1000,1000
+111349925,Sạc dành cho Laptop HP Spectre X360 13-ae000 Series 13-ae516TU,1403249586148,890000,890000,0,0,available,1000,1000
+51582965,Đầu chụp mạng RJ45 Cat5/Cat6 bịch 100PSC màu ngẫu nhiên - Hàng nhập khẩu,7705313201306,45000,45000,0,0,available,1000,1000
+1685931,Thiết Bị Kích Sóng Wifi Xiaomi Pro - Đen - Hàng Nhập Khẩu,8977706114848,222000,299000,77000,26,available,1000,1000
+68031263,"Box ổ cứng 2.5"" SATA USB3.0 2521U3 - BX54",9565868833111,106000,112000,6000,5,available,1000,1000
+22099454,Sạc cho Laptop HP 18.5v-3.5a đầu kim,5381613544231,190000,245000,55000,22,available,1000,1000
+153012005,Card WIFI Bluetooth Intel Killer AX1675 (AX210) - Công nghệ WIFI 6E tốc độ 5374 Mbps tích hợp Bluetooth 5.3 kèm bộ đầu chuyển PCI - Hàng nhập khẩu,6891886081919,670000,670000,0,0,available,1000,1000
+50196207,Sạc cho Laptop Dell Latitude E5400 E5440 E5430 E7440 E7420 E6320,5398780278487,159000,159000,0,0,available,1000,1000
+49860295,Bàn phím dành cho laptop Asus A551 K551 P550 R518U R551 R553 S551 TP501 V551,9227334932833,278807,278807,0,0,available,1000,1000
+2069777,"Bàn Phím Dành Cho Laptop Dell Inspiron M5040, N4050, N4110, M4110, M5050, N5050, N4120, M411R, M421R - Hàng Nhập Khẩu",6008354146973,190000,240000,50000,21,available,1000,1000
+55779917,Bàn phím thay thế dành cho laptop Dell Vostro 5568 Có đèn nền,8338070258567,334996,334996,0,0,available,1000,1000
+48877698,Màn Hình Gaming LG 27MK600M-B 27 inch Full HD (1920 x 1080) 5ms 75Hz IPS 75Hz FreeSync - Hàng Chính Hãng,8042832279140,3690000,4490000,800000,18,available,1000,1000
+112331758,"Dây cáp mạng internet bấm sẵn 2 đầu dài 10m, 15m, 20m,25m, 30m",5846180072260,20940,20940,0,0,available,1000,1000
+764581,Máy In Laser Đa Năng Brother MFC-L2701DW - Hàng Chính Hãng,8509240870333,6150000,6490000,340000,5,available,1000,1000
+2903577,Máy In Phun Màu Đa Năng Canon Pixma G3010 - Hàng Chính Hãng,1570718926767,4799000,5490000,691000,13,available,1000,1000
+131336363,Bộ Kích Sóng Wifi Totolink  EX200 - Tốc Độ 300Mpbs -Hàng Chính Hãng,4785149963972,230000,230000,0,0,available,1000,1000
+29455014,Bộ 10 Đầu Nối Dây Mạng 1-1,9919510774381,13700,13700,0,0,available,1000,1000
+60875322,Dây cáp mạng 2 đầu đúc sẵn Cat6 UTP UGREEN NW102 20164 dài 10M - Hàng chính hãng,4302721940877,94000,109000,15000,14,available,1000,1000
+74164759,Sạc dành cho Dell XPS 13 9370 9380 Type-C 65W,7091322605977,645000,748000,103000,14,available,1000,1000
+73787280,Sạc dành cho laptop Lenovo Thinkpad T440 - Adapter Lenovo T440s  ,5115915304817,260000,260000,0,0,available,1000,1000
+37895038,"Bàn Phím Dành Cho Laptop DELL LATITUDE 12 E7240 E7440 Latitude 12 14 7000, E7420 E7240 E7440 - Hàng Nhập Khẩu",4523141531432,249000,249000,0,0,available,1000,1000
+205070115,"Dây lấy nhạc cho Sound Card XOX K10, H9 , K300, S8... Dây 3.5 chuyên dụng cho âm thanh cực chuẩn",5101060194523,18000,18000,0,0,available,1000,1000
+95470409,Mỡ bao lụa máy in - Loại thường đủ sài,9156646898038,15000,15000,0,0,available,1000,1000
+155644682,"Set 10 cuộn giấy in nhiệt K80-45 dành cho dòng máy in bill tại cửa hàng ăn uống, siêu thị",5175679088251,87000,87000,0,0,available,1000,1000
+119967453,TN323-Mực in dành cho Konica Minolta Bizhub 227/387/367 toner,1315176332875,360000,360000,0,0,available,1000,1000
+51500453,"Module quang SFP 1 sợi quang 1.25G, LC, DDM 1550/1310 20km chính hãng",9697231737891,385000,385000,0,0,available,1000,1000
+144917966,Máy Hút Bụi Mini Kết Nối Cổng USB,5942195994187,25000,25000,0,0,available,1000,1000
+95564275,Drum trống in 26A dành cho máy in HP M402d M402n M420dw M426 Canon LBP 214dw 215d MF426dw 051,7842902274987,26400,26400,0,0,available,1000,1000
+116187467,Bộ màu mực may sin Epson L310,4154884116901,145000,145000,0,0,available,1000,1000
+163170629,Máy In Hóa Đơn USB+LAN RP-335,1632842835351,789900,899000,109100,12,available,1000,1000
+215746664,USB Phát Wifi 4G Dongle tốc độ 100Mbps,6778123852233,315000,315000,0,0,available,1000,1000
+17901547,"Hộp mực cho máy in Panasonic KX-MB 2120, MB 2130, MB 2170",2863606852620,350000,350000,0,0,available,1000,1000
+107666684,"Giấy in tem, in mã vạch nhiệt 2 tem khổ 70x22mm (35x22) 2000 tem",1144884016815,27800,27800,0,0,available,1000,1000
+171233688,Bộ 10 chai mực dành cho máy in canon 2900...,6616243871385,285000,285000,0,0,available,1000,1000
+27836803,Giấy In Hóa Đơn Tysso K80 x 80 (1 Thùng 30 Cuộn) - Hàng Nhập Khẩu,8590587388223,589000,589000,0,0,available,1000,1000
+120033864,Mực nạp 35a dành cho máy in HP 1005/ Canon 6030/ Canon MF3010,9745412234696,25000,25000,0,0,available,1000,1000
+8460210,Giấy Decal in tem nhãn mã vạch 40x30mm loại 1000 tem (thùng 25 cuộn),5076812708323,580000,580000,0,0,available,1000,1000
+136594526,Bàn phím dành cho Laptop Toshiba Portege R835 R930 - Hàng Nhập Khẩu mới 100%,2884733581735,658900,758900,100000,13,available,1000,1000
+147410881,"Giấy In Nhiệt 75x105 mm - Tem Vận Chuyển 7x10,5 cm",3501686132803,49000,49000,0,0,available,1000,1000
+137170377,Bàn phím dành cho Laptop HP Probook 440 G1 - Hàng Nhập Khẩu,1601067254040,281000,331000,50000,15,available,1000,1000
+117095633,Pin dành cho Laptop HP Pavilion 15-cs1008TU 15-cs1009TU 15-cs0016TU Hàng Nhập Khẩu,8168774454930,789000,839000,50000,6,available,1000,1000
+117094772,"Pin dành cho Laptop Asus K40 Series, K40IJ K40JN - Hàng Nhập Khẩu ",6380396737598,325000,375000,50000,13,available,1000,1000
+117095441,Pin dành cho Laptop HP Spectre X360 13-AC033DX 13T-AB000 13-AB099 -CN03XL SH03XL 57.9Wh - Hàng Nhập Khẩu ,3261661578593,977950,997950,20000,2,available,1000,1000
+117093899,Pin dành cho Laptop HP pavilion 2000 HP 2000-2d19WM - Hàng Nhập Khẩu ,9629040452999,324000,374000,50000,13,available,1000,1000
+215694244,"Ram Server ECC REG 16GB DDR3 bus 1333, ram cho server, máy trạm - không dùng cho PC/Laptop",3740913419061,189000,189000,0,0,available,1000,1000
+10279419,"Nhãn in siêu dính HZe-S211, khổ 6mm x 8m, chữ đen nền trắng, dùng cho máy in nhãn Brother",6903961922128,130000,130000,0,0,available,1000,1000
+192561146,Dây Mạng Vinacap Cat6 UTP Lõi Đồng Nguyên Chất - Hàng Chính Hãng (Bán lẻ mét),6508480201621,840000,840000,0,0,available,1000,1000
+112997390,Chai mực nạp 85A - Hàng nhập khẩu,3089229771918,28000,28000,0,0,available,1000,1000
+68545181,Router Draytek Vigor 2915ac - Hàng Chính Hãng,9393961255666,3750000,3750000,0,0,available,1000,1000
+141365422,Vỏ Hộp Riêng Cho Dock Ổ Cứng 3.5 / 2.5 USB 3.0 - Biến HDD Thường Thành HDD Di Động,9289212158840,95000,95000,0,0,available,1000,1000
+114896460,"Fan case LED 12 cm Cao Cấp. Fan tản nhiệt. trang trí cho case máy tính, pc gaming",2348432912792,52000,52000,0,0,available,1000,1000
+23012373,Khung treo máy chiếu ngang từ tường ra 0.6m – 1.2m,3911913413351,220000,220000,0,0,available,1000,1000
+207782244,Hộp đựng ổ cứng HDD - HDD Box,8757887766041,139000,139000,0,0,available,1000,1000
+242710523,Router phát wifi bằng sim 4G TP LINK TL-MR6400 4G LTE mr6400 - Hàng chính hãng,2799387674770,1150000,1450000,300000,21,available,1000,1000
+203853581,Lenovo Thinkpad X260 Core i5-6300U (i5-6200U) / RAM 8GB / SSD 256GB / Màn 12.5 inch HD 1366x768 - Hàng Chính hãng,6681847180963,4990000,4990000,0,0,available,1000,1000
+175646273,Decal in tem trà sữa 40x30x1000 tem - 1 cuộn,1305170037871,36000,70000,34000,49,available,1000,1000
+186078116,Máy in màu Laser HP 150a (4ZB94A)- Hàng chính hãng,8307837177248,5690000,6828000,1138000,17,available,1000,1000
+176226532,Card Màn Hình VGA Gigabyte GTX 1660 OC 6GB (GV-N1660OC-6GD) - Hàng Chính Hãng,3753912498921,4950000,4950000,0,0,available,1000,1000
+126702257,Remote Điều khiển từ xa máy chiếu đa năng tương thích cho tất cả các dòng máy chiếu hiện nay,3712597105407,90000,114000,24000,21,available,1000,1000
+205102330,COMBO 2 BỘ CHỐNG LĂN MICRO,2137299620352,9000,9000,0,0,available,1000,1000
+214880367,Bộ Phát Wifi 4G Netgear Nighthawk M1 MR1100 tốc độ 1Gbps (tặng 2 anten) Hàng nhập khẩu,6262804720857,3800000,3800000,0,0,available,1000,1000
+157161270,Dây cáp mạng Lan Cat6 Dẹt Vention 0.5m/1m/1.5m/ 5m tốc độ cao - Hàng chính hãng,6351767573245,59000,80000,21000,26,available,1000,1000
+16106230,"[Sét 10 cuộn] Giấy in nhiệt, in hóa đơn, in bill K57 phi 45 ( hàng nhập khẩu)",4022574697680,64900,64900,0,0,available,1000,1000
+220666923,"Máy Quét Mã Vạch ZEBRA DS9308 Quét mã QR Code CCCD gắn chip, Thẻ BHYT - Hàng Chính Hãng ",8198031564593,2500000,2500000,0,0,available,1000,1000
+184497231,Bộ Chia Tín Hiệu Thông Minh TP-Link SG108E 8 Cổng Gigabit Tốc Độ Cao - Hàng Chính Hãng,4591337062882,865000,865000,0,0,available,1000,1000
+107666352,Giấy in tem mã vạch 35x22m 3 hàng khổ 110x22mm cuộn 50M - Tem decal thường,9942118725432,58000,58000,0,0,available,1000,1000
+136796434,Máy đo công suất quang 4in1 APM50NT - Soi VFL -Test LAN,9733798634084,575000,575000,0,0,available,1000,1000
+21851016,Fan Case VSP -12cm- LED 15 Bóng - Full box  - Hàng nhập khẩu,5725948409412,41521,41521,0,0,available,1000,1000
+77111714,"Bộ lưu trữ mạng NAS TerraMaster F5-422, LAN 10Gbps, Intel Quad-Core 1.5GHz, 4GB RAM, 670MB/s, 5 khay ổ cứng RAID 0,1,5,6,10,JBOD,Single - Hàng chính hãng",9795281779679,13990000,13990000,0,0,available,1000,1000
+162597695,Máy Đếm Tiền Mini Di Động Nhỏ Gọn Dùng Pin  ( Dùng liên tục lên đến 4h),9788856252134,3190000,5000000,1810000,36,available,1000,1000
+13316131,Máy quét mã vạch 2D không dây Datamax M400S-Hàng nhập khẩu,5666563576915,1370000,1370000,0,0,available,1000,1000
+34339666,Thùng 20 cuộn giấy in nhiệt khổ 58mm (Giấy in),8088741802505,128000,128000,0,0,available,1000,1000
+213673813,Hôp mực in TN1010 - Dùng cho máy Brother HL 1111 * DCP1511 * MFC1811(TN1010),2851229960006,109000,109000,0,0,available,1000,1000
+134360974, USB 3.2 Team Group C175 32GB tốc độ upto 90MB/s - Hàng chính hãng,3071156309816,88000,169000,81000,48,available,1000,1000
+201712505,Laptop Lenovo V14 G2 ITL 82KA00S7VN | Intel Core i5 _ 1135G7 | 8GB | 512GB SSD PCIe | Win 11 | 14 inch Full HD | Hàng chính hãng,8832189425647,13890000,13890000,0,0,available,1000,1000
+75816184,Giá Treo Máy Chiếu 360 Độ,2238116222537,230000,230000,0,0,available,1000,1000
+130634855,Màn hình Dell E2222HS 21.5inch/ FHD/ VA/ 75Hz/ 5ms/ 250nits/ HDMI+DP+Dsub/ Loa - Hàng Chính Hãng,6919888469607,2910000,2910000,0,0,available,1000,1000
+44106254,Mực in phun HP GT53 90ML Đen (HP Ink tank 510/550/610/115/315/415/319/419/1VV22AA) – Hàng Chính Hãng,2198510782368,234000,234000,0,0,available,1000,1000
+101901278,TOTOLINK EX200_V2 - Mở rộng sóng Wi-Fi chuẩn N 300Mbps Hàng chính hãng,8417796866196,230000,230000,0,0,available,1000,1000
+31889294,Keo Tản Nhiệt Noctua NT-H1 (10g) - Hàng Chính Hãng,1854924387322,350000,350000,0,0,available,1000,1000
+3556877,(BỘ 10 CHAI) Mực đổ Thuận Phong TP06 dùng cho máy in Brother - Hàng Chính Hãng,9926256862180,295000,295000,0,0,available,1000,1000
+491079,Mực In Canon Cartridge 326 Cho Máy In Canon LBP 6230DN - Hàng Chính Hãng,2687387952603,1520000,1520000,0,0,available,1000,1000
+17620827,"Hộp mực in 12A dùng cho cho máy in Canon 2900,3000 siêu nét",9679711552378,114500,114500,0,0,available,1000,1000
+171796455,Ram máy tính Gskill Aegis DDR4 8GB 2666 - Hàng chính hãng,3865787057152,481000,481000,0,0,available,1000,1000
+188446296,"Ổ Cứng SSD WD Green 240GB Sata3 2.5"" WDS240G3G0A - Hàng Chính Hãng",4705473048097,670000,670000,0,0,available,1000,1000
+59275108,Router Wifi Băng Tần Kép Asus RT-AC750L Chuẩn AC Wi-Fi 256QAM - Hàng Chính Hãng,1218592444785,640000,640000,0,0,available,1000,1000
+15692374,"Hộp mực in 337 dùng cho máy in Canon MF211, MF221D, LBP252DW, MF215, MF 241D",6403524161747,119000,119000,0,0,available,1000,1000
+17614393,KÌM MẠNG SK-868 BẤM RJ45/11/12,6608257809403,129000,129000,0,0,available,1000,1000
+123498423,Ổ CỨNG 500G SEAGATE CHUYÊN DÀNH CHO CAMERA ,4266990249610,384789,384789,0,0,available,1000,1000
+8011150,Bộ phát wifi không dây TP-Link EAP115-Wall - Hàng Chính Hãng,6462326258482,649000,649000,0,0,available,1000,1000
+201935492,"Mực nạp cho hộp mực 17A - 30A - CRG 047 - CRG051 - CF217A - CF230A - Máy in LBP 161DN, 162DW, HP M102a, M102w ....",7569722422088,21000,21000,0,0,available,1000,1000
+136029615,Nguồn MSI MAG A650BN 650W – 80 Plus Bronze - Hàng Chính Hãng,5791748304539,1290000,1290000,0,0,available,1000,1000
+73103815,"Máy in bill, in hóa đơn Xprinter XP-A160H kết nối USB hoặc LAN Wifi - hàng nhập khẩu",7450528646182,1170180,1182000,11820,1,available,1000,1000
+931617,Bộ Phát Wifi Di Động 4G LTE 150Mbps Tenda 4G180 - Hàng Chính Hãng,8884588343146,880000,880000,0,0,available,1000,1000
+14301144,USB 4G LTE - Thiết bị phát sóng wifi từ sim Điện Thoại 3G/4G (3 in 1: Dcom 4G + Router Wifi + Access Point),4122931785323,281000,550000,269000,49,available,1000,1000
+43928782,"Hộp mực 12A Dành Cho Canon LBP 2900 3000, HP 1010 1015, Có lỗ đổ mực, mực thải",7572880901799,116500,116500,0,0,available,1000,1000
+171036287,Bàn phím dành cho laptop HP Probook 6460b 6470b - Hàng Nhập Khẩu - Sản phẩm mới 100%,1540119659232,396900,476280,79380,17,available,1000,1000
+160992160,Pin cho Laptop Acer V5-571 4ICR17/65 AL12A32 - AL12A32 - Hàng Nhập Khẩu - Sản phẩm mới 100%,9532546343098,345975,415170,69195,17,available,1000,1000
+165207441,Sạc dành cho laptop Asus TP501U TP501UA TP501UB - Hàng Nhập Khẩu - Sản phẩm mới 100%,4942212831782,302925,363510,60585,17,available,1000,1000
+405243,USB Kingston DT100G3 32GB USB 3.0 - Hàng Chính Hãng,6105007657623,90000,90000,0,0,available,1000,1000
+198792003,"Màn Hình Máy Tính K-VISION Full Viền / 1080X1920 / 75Hz/ BH 24 Tháng - Hàng chính hãng- Chuyên dùng cho game , học tập, văn phòng",7162973955884,1833000,1839000,6000,0,available,1000,1000
+179409296,Sạc dành cho Laptop Lenovo ThinkPad X13 Yoga Gen 1 20SX 20SY USB-C,8491929262266,690000,690000,0,0,available,1000,1000
+252967040,Màn hình máy tính MSI PRO MP223 21.45inch (FHD/VA/100Hz/1ms) - Hàng chính hãng,3078477025246,1850000,1879000,29000,2,available,1000,1000
+160995920,Pin cho Laptop HP RR03XL 430 g4 440 g4 450 g4 455 g4 470 G4 430g4 440g4 450g4 455g4 470G4 - Hàng Nhập Khẩu - Sản phẩm mới 100%,9879452102335,928725,1114470,185745,17,available,1000,1000
+16603745,"Hộp mực Dành Cho máy in Canon LBP 2900, 3000",4348946641649,115500,115500,0,0,available,1000,1000
+24800206, Ổ cứng SSD 512GB Lexar NS100 2.5-Inch SATA III_Hàng chính hãng,6110095606248,980000,980000,0,0,available,1000,1000
+24366737,Ổ cứng HDD 500G Seagate SATA - Hàng nhập khẩu - Tặng cáp dữ liệu SATA 3.0,3464841355281,400000,400000,0,0,available,1000,1000
+262410131,Màn Hình Máy Tính 27 inch T272QC 2K Tần số quét 165HZ- Hàng chính hãng,7395295120686,3731000,4973500,1242500,25,available,1000,1000
+188700458,"Bao bảo vệ ổ cứng 2.5"", ORICO PHD-25 - Hàng Chính Hãng",7739603566039,53900,59000,5100,9,available,1000,1000
+25180736,"Bộ nhớ máy tính RAM ddr3 4gb bus 1333 pc, bộ nhớ ram máy vi tính bàn.",1258100185694,132000,132000,0,0,available,1000,1000
+43075634,Quạt Tản Nhiệt CPU BOX Intel Socket 1156/1155/1150 - Hàng chính hãng,2561871728786,60000,60000,0,0,available,1000,1000
+78971647,Hộp mực HP 76A (CF276A) KHÔNG CHIP cho máy in HP Pro M404dn / M404DW / M428dnw,5281227499465,178500,178500,0,0,available,1000,1000
+151765074,Mực dùng cho máy  photocopy Ricoh MP 2352/2550/2851/2852/3351/3352/3353/3053/3030/3391 - Mã mực: Ricoh 2220D/ 2320D,7132867309780,150000,150000,0,0,available,1000,1000
+31262507,USB Thu Wifi cho PC - Laptop LB-Link - Hàng Chính Hãng,4687516604791,79000,79000,0,0,available,1000,1000
+222710161,RAM PC DDR3 8GB Bus 1600mhz Hàng Nhập Khẩu,7994473437543,174000,179000,5000,3,available,1000,1000
+84757379,Bộ Phát Wifi Mesh TP-Link Deco X20 AX1800 MU-MIMO (3-pack) - Hàng Chính Hãng,5249726998167,5489000,8499000,3010000,35,available,1000,1000
+10143147,Bộ Kích Sóng Wifi Repeater 300Mbps TP-Link TL-WA854RE - Hàng Chính Hãng,9725458982586,229000,349000,120000,34,available,1000,1000
+448538,Ổ Cứng HDD WD Blue™ 1TB/64MB/7200rpm/3.5 - WD10EZEX - Hàng chính hãng,1422464777349,928000,1086800,158800,15,available,1000,1000
+456500,TP-Link  TL-SG1008D - Switch Để Bàn 8 Cổng  - Hàng Chính Hãng,7506423083499,473000,485000,12000,2,available,1000,1000
+176219900,RAM Laptop DDR5 Samsung Bus 4800 - Hàng Nhập Khẩu,3619566223074,606000,700000,94000,13,available,1000,1000
+17383981,Phần mềm Kaspersky Total Security chính hãng,6253358719276,367000,367000,0,0,available,1000,1000
+188663231,Màn hình LG 32UN650-W 31.5 inch UHD 4K (3840x2160) IPS - Hàng Chính Hãng,5308355080068,7840000,7840000,0,0,available,1000,1000
+112228080,Giá Treo Hai Màn Hình Máy Tính North Bayou H180 Lắp Cho Màn Hình Từ 22 inch - 32 inch Hàng Nhập Khẩu,3261422621806,540000,540000,0,0,available,1000,1000
+48449680,Pin cho Laptop Dell Inspiron 3458 5451 5559 5558 3451 3558,6765612717695,374500,374500,0,0,available,1000,1000
+171606540,Màn hình Gaming LG 24GN650-B 24'' UltraGear FHD IPS 1ms 144Hz HDR Monitor with FreeSync - Hàng chính hãng,5560497493715,5590000,5590000,0,0,available,1000,1000
+198864914,Ổ cứng di động 500G - 1TB - Thiết Bị Lưu Trự Di Động HDD,9600817263462,400000,400000,0,0,available,1000,1000
+56362737,Pin thay thế dành cho Laptop Dell Latitude E6420,5880773038005,385800,385800,0,0,available,1000,1000
+58203531,Màn Hình Cong LG 35WN75C-B 35 Inch QHD (3440 x 1440) 5ms 100Hz - Hàng Chính Hãng,2889933023496,13500000,13500000,0,0,available,1000,1000
+107989969,Sạc cho Laptop Gaming MSI GS63 Stealth 8RD 150W,8806687942699,789998,850000,60002,7,available,1000,1000
+21491824,Pin dành cho Laptop Lenovo LE-G400,4720021460503,365900,365900,0,0,available,1000,1000
+55124565,Máy in mã vạch Xprinter XP-420B - Hàng Chính Hãng,1046638427085,1245000,1245000,0,0,available,1000,1000
+117333015,Pin Laptop ASUS UX32 (C23-UX32) (ZIN) - VivoBook U38N UX32 UX32VD UX32A,3072131630752,1079998,1080000,2,0,available,1000,1000
+12030322,Chuột bay cho android tivi - có bàn phím và học lệnh hồng ngoại - X3,3076018926479,134000,139900,5900,4,available,1000,1000
+113331097,Bộ mực in phun Brother BT5000C/Y/M - Hàng chính hãng,8885833165820,460000,460000,0,0,available,1000,1000
+20858273,"Sạc dành cho laptop DELL 19.5V - 3.34A, 65W, Chân Kim To",1954107780855,215000,245000,30000,12,available,1000,1000
+67480516,Phần mềm diệt Virus Bkav Pro - Hàng chính hãng,8917845054193,185900,185900,0,0,available,1000,1000
+57724517,"Sạc dành cho laptop eManchine D725, D525",4175301735565,225000,225000,0,0,available,1000,1000
+15203263,Pin thay thế cho laptop ( Dùng cho các máy Dell E6320 6220 6230),5078846166230,386740,386740,0,0,available,1000,1000
+216104392,Màn hình vi tính Xiaomi Mi Desktop Monitor 1C 23.8 inch (BHR4510GL) - Bản Quốc Tế - Hàng nhập khẩu,8008425681632,2728400,3590000,861600,24,available,1000,1000
+161538112,Box Ổ Cứng  2.5 Inch Hộp Đựng Ổ Cứng Di Động HDD VINETTEAM USB 3.0 Nhựa Trong Suốt Tốc Độ 5gbs - Hàng Chính Hãng,3976764279897,93000,99000,6000,6,available,1000,1000
+14707624,Keo tản nhiệt xilanh to (Xám),7442471643516,11760,12000,240,2,available,1000,1000
+186206860,[Hàng chính hãng] Combo Máy in laser đơn sắc Brother HL-L2321D và Mực in laser trắng đen Brother TN-2385,9044854025103,3650000,3650000,0,0,available,1000,1000
+48654899,"Bàn phím dành cho laptop HP 450 G3, 450 G4, 455 G3, 455 G4, 470 G3 , 470 G4, 650 G2, 650 G3",6044254015735,230000,230000,0,0,available,1000,1000
+44603310,Sạc cho Laptop HP Elitebook 8440p 8440w 8460p 8460w 2530p,7963707878804,185000,185000,0,0,available,1000,1000
+61514452,Sạc dành cho Laptop Dell Latitude E6430,6838152354733,349000,395000,46000,12,available,1000,1000
+61365979,Bàn phím dành cho Laptop HP Probook 650 G1,4951042916476,272803,272803,0,0,available,1000,1000
+38207939,Bàn Phím Dành Cho Laptop HP Probook 4540 4540s 4545S (Có Sẵn Khung) - Hàng Nhập Khẩu,3591153958296,274996,274996,0,0,available,1000,1000
+85682080,"Hộp mực in dùng cho máy HP MFP 1000A/ 1000W, HP 1200A/ 1200W ( W1103A/103A) 103A Black Neverstop Laser Toner - tương thích",9621275843608,98400,98400,0,0,available,1000,1000
+31279883,PIN Cho  LAPTOP ACER ASPIRE E5-575 AS16A5K AS16A7K,3669958150693,503800,503800,0,0,available,1000,1000
+56417805,Pin dành cho Laptop Dell Inspiron 15R N5110,7005265560828,288800,288800,0,0,available,1000,1000
+114441345,"Ổ Cứng Di Động HDD Seagate One Touch 2.5"" USB 3.0 - Hàng Chính Hãng",6701609260163,1240000,2890000,1650000,57,available,1000,1000
+3526997,"Pin Dành Cho Laptop Dell Inspiron N4010, N4050, N4120, N5050, N5010, N5030, N7010, N7110, N4110, N5110, M4040, M4110, M411R, M5010, M5040, M511R - Hàng Nhập Khẩu",1140711735668,284790,284790,0,0,available,1000,1000
+22616559,Caddy Bay 9.5 mm / 9.5mm gắn thêm ổ cứng cho Laptop,8202916515599,40000,40000,0,0,available,1000,1000
+58056491,Sạc dành cho laptop Lenovo 20V-3.25A Adapter Lenovo (Chuẩn USB),7233453892851,220000,270000,50000,19,available,1000,1000
+53635028,Gaming Router Wifi Asus RT-AX3000 Dual Band WiFi 6 (802.11ax) AX3000 Băng Tần Kép AiMesh AiProtection MU-MIMO OFDMA - Hàng Chính Hãng,8585924127764,3190000,3190000,0,0,available,1000,1000
+68483102,Sạc Adapter dành cho Microsoft Surface 3,2016846388965,540000,540000,0,0,available,1000,1000
+41619877,Bàn phím giả cơ FREE WOLF K15 chơi game - hàng nhập khẩu,2082630334906,146300,146300,0,0,available,1000,1000
+49352298,"Bàn Phím Dành Cho Laptop Samsung QX310 QX410 QX411 QX412 SF310 SF410 RF410 Q330 Q428 Q430 Q460 P330, NP-Q430, NP-SF410, NP-QX410, X330",1476353087194,171000,245000,74000,30,available,1000,1000
+245766068,MacBook Pro 14 inch 2023,9792399887742,49150000,52990000,3840000,7,available,1000,1000
+206945775,Màn Hình Máy Tính TOMKO 32 inch / 27 inch / 22 inch – Tấm nền IPS Tần số quét 75HZ- Hàng chính hãng,9793316284625,1447000,1590000,143000,9,available,1000,1000
+66704679,Màn Hình Máy Tính 27 inch UHD 4K (3840 x 2160) Tràn Viền Xiangye,2942090539191,6400000,6400000,0,0,available,1000,1000
+47374311,Surface Pro 7 Core I3 Ram 4Gb Sdd 128Gb Brand New - Hàng chính hãng,9844107333224,17369000,17369000,0,0,available,1000,1000
+57967681,Màn Hình LG 29WN600-W 29 Inch Full HD (2560x1080) 5ms 75Hz - Hàng Chính Hãng,8820721124968,5430000,5430000,0,0,available,1000,1000
+197606477,Màn hình di động LG Gram View 16MQ70.ASDA5 16″ 2K WQXGA (2560 x 1600) IPS Type-C - Hàng chính hãng,3317374409778,6581000,9999000,3418000,34,available,1000,1000
+134615563,"Ổ cứng Silicon Power SSD SATA III A55 2.5"" -Hàng chính hãng",9356401732428,1275000,1275000,0,0,available,1000,1000
+207723340,Bàn phím cơ Edr EK387 Huano brownredblue sw (usbmàu đenled rainbow) ,3104583293613,132000,132000,0,0,available,1000,1000
+225938871,Màn hình Dell UltraSharp U2719D 2K 27 inch - Hàng Chính Hãng,4580431091173,4064000,4190000,126000,3,available,1000,1000
+192678772,"Máy tính Mini PC Intel NUC 11 Pro KIT BNUC11TNKI70000 (Chưa bao gồm RAM, SSD) - Hàng chính hãng",3074255511580,14490000,14490000,0,0,available,1000,1000
+204640991,Synology DS120J model 1-bay thiết bị lưu trữ dữ liệu mạng - Hàng Nhập Khẩu Chính Hãng,8196053281286,2990000,2990000,0,0,available,1000,1000
+95484338,Bộ vi sử lý Core i3 6100 / i5 6500 / i7 6700 cpu socket 1151. Tặng kèm keo tản nhiệt,7129425311377,1086000,1086000,0,0,available,1000,1000
+192676238,"Máy tính Mini PC Intel NUC 11 Pro KIT BNUC11TNKI30Z00 (Chưa bao gồm RAM, SSD) - Hàng chính hãng",7396244331856,7590000,7590000,0,0,available,1000,1000
+53562788,Màn hình Dell UltraSharp U2720Q 27 inch 4K USB-C IPS 60Hz - Hàng Chính Hãng,8524973809061,13400000,13400000,0,0,available,1000,1000
+208419581,Laptop Asus ExpertBook P2451FA (BV2790) 14 Inch Core i3-10110U/ Lunix - Đen- Hàng Chính Hãng,2032207712968,7490000,7990000,500000,6,available,1000,1000
+192678513,"Máy tính Mini PC Intel NUC 11 Pro KIT BNUC11TNKI50000 (Chưa bao gồm RAM, SSD) - Hàng chính hãng",5228075011276,9990000,9990000,0,0,available,1000,1000
+108381675,Máy chiếu Mini Doanh nhân i-Projector Taxes Instrument Android cảm ứng bỏ túi - Độ nét cực cao,5162323345223,8000000,8000000,0,0,available,1000,1000
+419326,Máy In Phun Màu Canon PIXMA iP2770 - Hàng Chính Hãng,8503107300100,1529000,1529000,0,0,available,1000,1000
+177526513,Máy tính để bàn nhỏ gọn ThinkCentre  LENOVO ( Core i7 - 4770 / Ram 8Gb / SSd 256GB ) - máy chạy Siêu nhanh - Nhỏ Gọn - Hàng chính hãng,8818094593917,2512000,2590000,78000,3,available,1000,1000
+71062970,Màn hình Dell S2421HN 23.8 inch IPS 75Hz - Hàng Chính hãng,6952826966920,4080000,4080000,0,0,available,1000,1000
+203763093,Màn Hình Galax Prisma-02 27 Inch (FHD/VA/75Hz//G-Sync/USB-C/Galax PR-02) - Hàng Chính Hãng,5375363787864,2899000,4999000,2100000,42,available,1000,1000
+128778031,Màn Hình Samsung UHD 4K 32 Inch Không Viền  LS32A700 - Hàng chính hãng,6249668635897,8900000,8900000,0,0,available,1000,1000
+195341179,Máy tính All in one 20inch CPU I3 2.40Ghz 4 nhân 2G DDR3 32GB SSD - Home and Garden,5040760787303,8328000,8328000,0,0,available,1000,1000
+169268508,Máy in phun Epson EcoTank L3210  - Hàng chính hãng,1731709972309,4250000,4250000,0,0,available,1000,1000
+245766059,MacBook Pro 16 inch 2023,6384119564698,65990000,65990000,0,0,available,1000,1000
+109006041,Board mạch chơi nhạc số wifi bluetooth Music Server + DAC+ Ampli Up2Stream Amp 2.0 V4,8736730433578,2760000,2760000,0,0,available,1000,1000
+179586322,Bộ máy tính chuyên Game ( Core i7 - 4770 / Ram 16GB/ SSD 128GB/ Card màn hình 2GB ) Màn hình 24 inch Full viền Tặng Bàn phím chuột - Liên Minh - fifa - dota - PUBG - Hàng Chính Hãng,9171817154286,5335000,5335000,0,0,available,1000,1000
+176440511,"Máy In Nhiệt Mini Bluetooth, Máy in ảnh, tài liệu, Phao, Đơn hàng, Nhãn dán không cần mực",1656569737333,66000,66000,0,0,available,1000,1000
+208736684,"Lenovo ThinkCentre M710q Tiny (Core i7-6700, 8GB DDR4, 256GB SSD, WiFi,Windows 10 Pro 64)– Nhỏ gọn đầy sức mạnh - HÀNG CHÍNH HÃNG",4612373206518,4026000,4150000,124000,3,available,1000,1000
+128134223,Ổ Cứng Di Động SSD WD My Passport USB Type C 3.2 Gen 2 - Hàng Nhập Khẩu,9834220834377,2000000,2050000,50000,2,available,1000,1000
+198799532,Máy quét mã vạch - Máy kiểm kho PDA Android OPTICON H-27 (Hàng chính hãng),5044907304210,4400000,4400000,0,0,available,1000,1000
+166408725,"laptop Lenovo Thinkpad T470S ( Core i7 - 6700U / Ram 8GB DDR4 / SSD NVME 256Gb / Card Intel HD Graphics 620 / Màn hình 14 inch ) Mỏng nhẹ , Chạy siêu nhanh - HÀNG CHÍNH HÃNG",9632859256370,7942000,8900000,958000,11,available,1000,1000
+53057754,Máy tính để bàn Viettech đáp ứng tốt nhất cho Văn phòng và Học tập - Hàng nhập khẩu,6329045708967,2190000,2190000,0,0,available,1000,1000
+188621563,NGUYÊN BỘ PC VĂN PHÒNG GIÁ KHÔNG THỂ RẺ HƠN PENTIUM E5500 HỌC TẬP GIẢI TRÍ XEM PHIM MUA VỀ CẮM ĐIỆN DÙNG LUÔN,5210184321590,2350000,2350000,0,0,available,1000,1000
+205851941,[Bán chạy Top 1] Màn hình PC để bàn Tomko 27 inch 2K IPS T2721Q-2K Hàng Chính Hãng chất lượng tốt,7092729072917,2886000,2925000,39000,1,available,1000,1000
+81521510,Ổ cứng SSD Samsung 980 PCIe 3.0 NVMe M.2 - Hàng Chính Hãng,9139111074537,850000,1685200,835200,50,available,1000,1000
+183262949,Máy Chủ Server - Hàng nhập khẩu,5785275712892,3500000,3500000,0,0,available,1000,1000
+54875165,Màn hình Dell U2520D (25 inch/2K/IPS/60Hz/5ms/350 nits/HDMI+DP+USB-C) - Hàng Chính Hãng,7188115898736,9280000,9990000,710000,7,available,1000,1000
+142008824,Máy Chiếu XIAOMI Wanbo X1 - Hàng Nhập Khẩu,1661862179768,2790000,2790000,0,0,available,1000,1000
+59203076,Ổ Cứng Di Động Samsung Portable SSD T7 500GB MU-PC500 - Hàng Chính Hãng,9481687122390,1810000,2700000,890000,33,available,1000,1000
+10387236,"Máy in nhãn cầm tay Brother PT-E110, máy in nhãn cáp, nhãn dây điện, mạng - Hàng chính hãng",1058162594089,820000,820000,0,0,available,1000,1000
+147712630,Máy chiếu mini JUYUPU 01A nhỏ gọn HD 1080P 3D 4K siêu sắt nét cho gia đình kết nối wifi 5g AI thu âm giọng nói chiếu tường còn dành cho văn phòng điện thoại iPhone Android rạp chiếu phim tại nhà hàng chính hãng,2185002253698,3199000,3199000,0,0,available,1000,1000
+207397516,Cạc Màn Hình MMSI GeForce RTX 4090 GAMING X TRIO 24G - Hàng Chính Hãng,8770759629917,54967000,54967000,0,0,available,1000,1000
+205542802,[Bán chạy Top 1]  Màn hình PC Chuyên Game Tomko 27 inch / độ phân giải 2K / IPS  - Âu Cơ Store - Hàng Chính Hãng,1264054808723,2249000,2318300,69300,3,available,1000,1000
+39854315,GAMING PC - BN 1050Ti - G5400/ H310/ 8GB/ 120GB/ GTX 1050Ti/ 450W + MÀN HÌNH CONG 24 INCH CHUYÊN GAME CHO KHỞI ĐẦU HOÀN HẢO,6640632686957,8990000,8990000,0,0,available,1000,1000
+222529881,Laptop Asus ExpertBook B1400 - B1400CEAE-EK3724 (Chip Intel Core i5-1135G7 | RAM 8GB | SSD 256GB NVMe | 14' Full HD | Bảo mật vân tay | Bảo mật TPM 2.0 | Độ bền chuẩn quân đội US) - Hàng Chính Hãng,6084650718079,14999900,19500000,4500100,23,available,1000,1000
+459248,Máy In Laser Đa Năng Brother MFC-L2701D - Hàng chính hãng,8509258574308,5250000,5250000,0,0,available,1000,1000
+103824296,Máy Chiếu Di Động Mini LCD 16:9 Rạp Chiếu Phim Tại Nhà UC28C,2787094576616,849000,849000,0,0,available,1000,1000
+191911792,Màn Hình Máy Tính 24 inch QHD 2K (2560 x 1440) 75hz Xiangye - hàng nhập khẩu,9798450589238,3900000,3900000,0,0,available,1000,1000
+143741572,Ổ cứng di động External SSD Sandisk Extreme V2 E61 New 2021 - 500GB Hàng Nhập Khẩu,6969878348442,1790000,1850000,60000,3,available,1000,1000
+68250770,"Đèn bàn treo màn hình máy tính Baseus 3 chế độ sáng,tăng giảm cường độ ánh sáng chống mỏi mắt và bảo vệ mắt khỏi ánh sáng xanh - Hàng nhập khẩu",7307184641399,485123,485123,0,0,available,1000,1000
+68173661,"Bộ máy tính để bàn All in One Kiwivision tất cả trong 1 màn hình, CPU intel i3 10100, Ram 8G -Hàng chính hãng",1525898154899,9500000,9500000,0,0,available,1000,1000
+203211094,Máy chủ trung tâm Mini PC AURA,5623472116540,6950000,6950000,0,0,available,1000,1000
+197604628,Màn hình di động Lenovo ThinkVision M14t 14-inch FHD WLED Backlit LCD Monitor 62A3UAR1WW BH 36T - Hàng chính hãng,7418039347158,8405000,10086000,1681000,17,available,1000,1000
+10706084,Ổ Cứng Di Động WD My Passport Ultra 1TB - Hàng Chính Hãng,6189501765282,1840000,2014375,174375,9,available,1000,1000
+193533447,Bộ chia mạng SWITCH POE. Hàng Chính Hãng,9433668320925,379000,379000,0,0,available,1000,1000
+46183198,Máy chiếu i-Projector chất lượng 1080P độ nét cao - Hàng nhập khẩu,9372476943374,4500000,4500000,0,0,available,1000,1000
+201062572,Mini PC ASRock DeskMini X300 Barebone - Hàng Chính Hãng,5848651397325,3650000,3650000,0,0,available,1000,1000
+97851120,Màn hình Samsung Odyssey G5 LC34G55TWWEXXV 34Inch 165Hz 1Ms Curved VA - Hàng Chính Hãng,6564897764836,8473000,8980000,507000,6,available,1000,1000
+125936424,"Combo Main H81 + I5 4570,4590,4440 + Ram 4gb + Quạt - Hàng chính hãng",4252316961203,1250000,1250000,0,0,available,1000,1000
