@@ -1,0 +1,5 @@
+1. Go to https://nifi.apache.org/ to download Nifi 
+2. go to bin folder then run-nifi.bat (apply to Window) 
+3. go to localhost:8433/nifi (wait 3-5 minutes)
+4. Find Generated Username [USERNAME] and Generated Password [PASSWORD] in logs/nifi-app.log (this is username & password to log in)
+5. nifi.sh set-single-user-credentials USERNAME PASSWORD (cmd to change username & password)
