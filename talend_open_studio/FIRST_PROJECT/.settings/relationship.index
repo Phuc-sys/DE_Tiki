@@ -1,0 +1,86 @@
+[ {
+  "baseItem" : {
+    "id" : "_-BLuwBVjEe6oVJGCuC9yuQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ ]
+}, {
+  "baseItem" : {
+    "id" : "_LkdkABVYEe6oVJGCuC9yuQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5eZtQBT5Ee6N_9oX4ULT5A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_8bYycBVfEe6oVJGCuC9yuQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AVA2wBVdEe6oVJGCuC9yuQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M8UDkBVfEe6oVJGCuC9yuQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_usVPMBVkEe6oVJGCuC9yuQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zS9vABVXEe6oVJGCuC9yuQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5eZtQBT5Ee6N_9oX4ULT5A - dim_brand",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_5eZtQBT5Ee6N_9oX4ULT5A - dim_category",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_5eZtQBT5Ee6N_9oX4ULT5A - dim_product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_5eZtQBT5Ee6N_9oX4ULT5A - dim_seller",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_5eZtQBT5Ee6N_9oX4ULT5A - fact_sale",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_8bYycBVfEe6oVJGCuC9yuQ - dim_seller",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_AVA2wBVdEe6oVJGCuC9yuQ - dim_category",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_M8UDkBVfEe6oVJGCuC9yuQ - fact_sale",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_usVPMBVkEe6oVJGCuC9yuQ - dim_product2",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5eZtQBT5Ee6N_9oX4ULT5A",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]
